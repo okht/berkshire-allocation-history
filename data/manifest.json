@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "description": "SHA-256 of curated inputs, retained evidence, portable scripts and generated analytical data. This manifest does not hash itself.",
+  "artifacts": [
+    {
+      "path": "data/allocation.csv",
+      "sha256": "40b3bc1c04de6e8b22155958ba41883ee026a69bb3e2f31aa924ed0af9059282",
+      "bytes": 189123
+    },
+    {
+      "path": "data/allocation.json",
+      "sha256": "3cc4466508a187bc83b1ecfb64dcc856756dbd78beaf38ede43a0d81bd5f4fbe",
+      "bytes": 263417
+    },
+    {
+      "path": "data/chart.json",
+      "sha256": "c6f2bc1e9c987d99051e34958a6bf78a32aa16853b76ef8a0de3463b03c5d31b",
+      "bytes": 44624
+    },
+    {
+      "path": "data/evidence/annual_rankings.json",
+      "sha256": "4700bfaca1a073ce8ad5e5f65428a590ffdfcf3b9dac1f9503f83b0680cbafb6",
+      "bytes": 197227
+    },
+    {
+      "path": "data/evidence/issuer_aliases.json",
+      "sha256": "5e9a3d7f9211b889625937cfcb944ed67de55783fcb1c31253738fcd66012d58",
+      "bytes": 1674
+    },
+    {
+      "path": "data/evidence/quarterly_cash_components.json",
+      "sha256": "534a77afe02f410b36d7ffd07f2faac2dc2ed1ee05292b9b8bbe9129b73ef4f9",
+      "bytes": 96383
+    },
+    {
+      "path": "data/evidence/quarterly_company_holdings.json",
+      "sha256": "9d0d4b60982411ebebb8cda33e9c8a3a0e753925ea3c74b21d41bfe4a76c7364",
+      "bytes": 4783228
+    },
+    {
+      "path": "data/evidence/quarterly_ranking_audit.json",
+      "sha256": "0ed3aa3cbf34fe11dd1d0b974f1b5865ac05a6359488cb8266299f20b2f2690e",
+      "bytes": 90068
+    },
+    {
+      "path": "data/evidence/quarterly_rankings.json",
+      "sha256": "a59abc6f6b47523e3e789eca28f251ed1bf3fe445c566cbf12271c9f7ba13480",
+      "bytes": 190079
+    },
+    {
+      "path": "data/inputs.json",
+      "sha256": "dd5c9bfe136ce5a62f843cd060771248e5eea5aa052a972f3b00ae5e7fcbe965",
+      "bytes": 228565
+    },
+    {
+      "path": "data/sources.json",
+      "sha256": "2acd9bb1bd18b7dfb67577b379d54c0068851e628771d54ac1d6bcbf6c994eba",
+      "bytes": 155027
+    },
+    {
+      "path": "data/statistics.json",
+      "sha256": "af8c149804938b82921b7a6187d8fc83ebd1ed99f90648cdb612bc29d9a341d4",
+      "bytes": 11707
+    },
+    {
+      "path": "scripts/build.py",
+      "sha256": "407084c1848021a4910a14de2cb091c38a003180dd11722b93381477746c5820",
+      "bytes": 8737
+    },
+    {
+      "path": "scripts/render_chart.py",
+      "sha256": "3ff94f02184df74eaa0fef93d4e83c8eaf993de15a89aba3343c0e094c0529fd",
+      "bytes": 8581
+    },
+    {
+      "path": "scripts/validate.py",
+      "sha256": "aeda6b419837e9051d51a346601cca1752d29098bb692683f9e72ebb9d98b79b",
+      "bytes": 9901
+    }
+  ]
+}

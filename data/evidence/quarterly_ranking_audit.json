@@ -1,0 +1,2877 @@
+{
+  "summary": {
+    "coverage_from": "1998-12-31",
+    "coverage_to": "2026-06-30",
+    "quarters": 111,
+    "currency": "USD",
+    "amount_format": "Exact integer dollar strings. Inputs already normalize legacy thousands and modern dollars.",
+    "fraction_format": "Decimal fractions; multiply by 100 to display percentages.",
+    "denominator": "Same-period historical cash pool plus the entire existing amended 13F table total.",
+    "all_111_totals_match_existing_allocation_exactly": true,
+    "all_111_top_three_sums_no_greater_than_stocks": true,
+    "latest": {
+      "date": "2026-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "65950296923",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "51282319275",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Alphabet Inc.",
+      "third_value_usd": "37764088383",
+      "third_company_id": "02079K",
+      "third_cusips": [
+        "02079K107",
+        "02079K305"
+      ],
+      "stock_total_usd": "299253556246",
+      "cash_pool_usd": "359230000000",
+      "total_usd": "658483556246",
+      "first_share_of_total": "0.100154812215784347080820725336561178404288",
+      "second_share_of_total": "0.0778794227867425469839087879089852900964312",
+      "third_share_of_total": "0.0573500857003813758375861120880501022357188",
+      "first_share_of_stocks": "0.220382667294973978004914338965419253412337",
+      "second_share_of_stocks": "0.171367451462610546022042276679170355245249",
+      "third_share_of_stocks": "0.126194284394589469937429884359978159950238",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Alphabet Inc., Liberty Live Holdings Inc., Lennar Corp.."
+      ],
+      "security_count": 29,
+      "company_count": 26
+    },
+    "second_share_of_total_peak": {
+      "date": "2000-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11026000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "9210350000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2964480000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "36261773000",
+      "cash_pool_usd": "3673000000",
+      "total_usd": "39934773000",
+      "first_share_of_total": "0.276100229742134755592575923744451984239400",
+      "second_share_of_total": "0.230634840468480940157090663818221778799143",
+      "third_share_of_total": "0.0742330499787741375166950366789364246542731",
+      "first_share_of_stocks": "0.304066764744239064096507360519851028795531",
+      "second_share_of_stocks": "0.253996129753501021585458604023581527577264",
+      "third_share_of_stocks": "0.0817522077588429004836580936072816957957351",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000940/a66929e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001371/a69220e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000128/a71075e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500320/a72386e13f-hr.txt"
+      ],
+      "notes": [
+        "0001095811-01-001371: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 37,
+      "company_count": 37
+    },
+    "third_share_of_total_peak": {
+      "date": "2012-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "14802000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "13462596000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "13436163000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "75302369000",
+      "cash_pool_usd": "35168000000",
+      "total_usd": "110470369000",
+      "first_share_of_total": "0.133990681247747076865471500326028602294250",
+      "second_share_of_total": "0.121866126834427429132602969761058732409955",
+      "third_share_of_total": "0.121626850001741190888934208230987261389522",
+      "first_share_of_stocks": "0.196567521003223683440822426184228015455928",
+      "second_share_of_stocks": "0.178780510876092092135906109408058596403521",
+      "third_share_of_stocks": "0.178429486063048029737284892059637592543735",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512234582/d352241d13fhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512260151/d361607d13fhra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 36,
+      "company_count": 36
+    },
+    "merged_company_quarter_count": 132,
+    "missing_name_repairs": [
+      {
+        "date": "2000-12-31",
+        "cusip": "81211K209",
+        "source_name": "81211K209",
+        "company_name": "Sealed Air Corp.",
+        "evidence": "Same CUSIP is explicitly named Sealed Air in adjacent audited 13F records; paired common class has issuer prefix 81211K."
+      },
+      {
+        "date": "2001-03-31",
+        "cusip": "81211K209",
+        "source_name": "81211K209",
+        "company_name": "Sealed Air Corp.",
+        "evidence": "Same CUSIP is explicitly named Sealed Air in adjacent audited 13F records; paired common class has issuer prefix 81211K."
+      }
+    ],
+    "first_rank_value_changes_from_prior_cusip_ranking": []
+  },
+  "quarter_checks": [
+    {
+      "date": "1998-12-31",
+      "input_sum_usd": "38316424000",
+      "company_sum_usd": "38316424000",
+      "prior_allocation_stock_total_usd": "38316424000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23170031000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "1999-03-31",
+      "input_sum_usd": "38074360000",
+      "company_sum_usd": "38074360000",
+      "prior_allocation_stock_total_usd": "38074360000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23931720000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "1999-06-30",
+      "input_sum_usd": "37431959000",
+      "company_sum_usd": "37431959000",
+      "prior_allocation_stock_total_usd": "37431959000",
+      "difference_usd": "0",
+      "top_three_total_usd": "22912115000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "1999-09-30",
+      "input_sum_usd": "32901212000",
+      "company_sum_usd": "32901212000",
+      "prior_allocation_stock_total_usd": "32901212000",
+      "difference_usd": "0",
+      "top_three_total_usd": "19730483000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "1999-12-31",
+      "input_sum_usd": "37532132000",
+      "company_sum_usd": "37532132000",
+      "prior_allocation_stock_total_usd": "37532132000",
+      "difference_usd": "0",
+      "top_three_total_usd": "24005758000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2000-03-31",
+      "input_sum_usd": "34039483000",
+      "company_sum_usd": "34039483000",
+      "prior_allocation_stock_total_usd": "34039483000",
+      "difference_usd": "0",
+      "top_three_total_usd": "20532339000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2000-06-30",
+      "input_sum_usd": "34866876000",
+      "company_sum_usd": "34866876000",
+      "prior_allocation_stock_total_usd": "34866876000",
+      "difference_usd": "0",
+      "top_three_total_usd": "22744208000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2000-09-30",
+      "input_sum_usd": "36261773000",
+      "company_sum_usd": "36261773000",
+      "prior_allocation_stock_total_usd": "36261773000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23200830000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2000-12-31",
+      "input_sum_usd": "37566039000",
+      "company_sum_usd": "37566039000",
+      "prior_allocation_stock_total_usd": "37566039000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23985971000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2001-03-31",
+      "input_sum_usd": "30603746000",
+      "company_sum_usd": "30603746000",
+      "prior_allocation_stock_total_usd": "30603746000",
+      "difference_usd": "0",
+      "top_three_total_usd": "18285842000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2001-06-30",
+      "input_sum_usd": "29648860000",
+      "company_sum_usd": "29648860000",
+      "prior_allocation_stock_total_usd": "29648860000",
+      "difference_usd": "0",
+      "top_three_total_usd": "17665536000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2001-09-30",
+      "input_sum_usd": "27476716000",
+      "company_sum_usd": "27476716000",
+      "prior_allocation_stock_total_usd": "27476716000",
+      "difference_usd": "0",
+      "top_three_total_usd": "16636607000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2001-12-31",
+      "input_sum_usd": "29059814000",
+      "company_sum_usd": "29059814000",
+      "prior_allocation_stock_total_usd": "29059814000",
+      "difference_usd": "0",
+      "top_three_total_usd": "18047386000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2002-03-31",
+      "input_sum_usd": "31476149000",
+      "company_sum_usd": "31476149000",
+      "prior_allocation_stock_total_usd": "31476149000",
+      "difference_usd": "0",
+      "top_three_total_usd": "19926934000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2002-06-30",
+      "input_sum_usd": "31140289000",
+      "company_sum_usd": "31140289000",
+      "prior_allocation_stock_total_usd": "31140289000",
+      "difference_usd": "0",
+      "top_three_total_usd": "19958022000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2002-09-30",
+      "input_sum_usd": "27862543000",
+      "company_sum_usd": "27862543000",
+      "prior_allocation_stock_total_usd": "27862543000",
+      "difference_usd": "0",
+      "top_three_total_usd": "17160822000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2002-12-31",
+      "input_sum_usd": "28269981000",
+      "company_sum_usd": "28269981000",
+      "prior_allocation_stock_total_usd": "28269981000",
+      "difference_usd": "0",
+      "top_three_total_usd": "17041998000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2003-03-31",
+      "input_sum_usd": "27339970000",
+      "company_sum_usd": "27339970000",
+      "prior_allocation_stock_total_usd": "27339970000",
+      "difference_usd": "0",
+      "top_three_total_usd": "16104264000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2003-06-30",
+      "input_sum_usd": "31274726000",
+      "company_sum_usd": "31274726000",
+      "prior_allocation_stock_total_usd": "31274726000",
+      "difference_usd": "0",
+      "top_three_total_usd": "18679403000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2003-09-30",
+      "input_sum_usd": "31036994000",
+      "company_sum_usd": "31036994000",
+      "prior_allocation_stock_total_usd": "31036994000",
+      "difference_usd": "0",
+      "top_three_total_usd": "18493658000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2003-12-31",
+      "input_sum_usd": "34830987000",
+      "company_sum_usd": "34830987000",
+      "prior_allocation_stock_total_usd": "34830987000",
+      "difference_usd": "0",
+      "top_three_total_usd": "20988263000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2004-03-31",
+      "input_sum_usd": "35843368000",
+      "company_sum_usd": "35843368000",
+      "prior_allocation_stock_total_usd": "35843368000",
+      "difference_usd": "0",
+      "top_three_total_usd": "21674616000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2004-06-30",
+      "input_sum_usd": "36201008000",
+      "company_sum_usd": "36201008000",
+      "prior_allocation_stock_total_usd": "36201008000",
+      "difference_usd": "0",
+      "top_three_total_usd": "21956157000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2004-09-30",
+      "input_sum_usd": "34204155000",
+      "company_sum_usd": "34204155000",
+      "prior_allocation_stock_total_usd": "34204155000",
+      "difference_usd": "0",
+      "top_three_total_usd": "19818927000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2004-12-31",
+      "input_sum_usd": "36477717000",
+      "company_sum_usd": "36477717000",
+      "prior_allocation_stock_total_usd": "36477717000",
+      "difference_usd": "0",
+      "top_three_total_usd": "21173176000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2005-03-31",
+      "input_sum_usd": "37392948000",
+      "company_sum_usd": "37392948000",
+      "prior_allocation_stock_total_usd": "37392948000",
+      "difference_usd": "0",
+      "top_three_total_usd": "21219712000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2005-06-30",
+      "input_sum_usd": "38955242000",
+      "company_sum_usd": "38955242000",
+      "prior_allocation_stock_total_usd": "38955242000",
+      "difference_usd": "0",
+      "top_three_total_usd": "21532854000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2005-09-30",
+      "input_sum_usd": "42097638000",
+      "company_sum_usd": "42097638000",
+      "prior_allocation_stock_total_usd": "42097638000",
+      "difference_usd": "0",
+      "top_three_total_usd": "22138022000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2005-12-31",
+      "input_sum_usd": "43224069000",
+      "company_sum_usd": "43224069000",
+      "prior_allocation_stock_total_usd": "43224069000",
+      "difference_usd": "0",
+      "top_three_total_usd": "21651887000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2006-03-31",
+      "input_sum_usd": "46060111000",
+      "company_sum_usd": "46060111000",
+      "prior_allocation_stock_total_usd": "46060111000",
+      "difference_usd": "0",
+      "top_three_total_usd": "22254258000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2006-06-30",
+      "input_sum_usd": "47610473000",
+      "company_sum_usd": "47610473000",
+      "prior_allocation_stock_total_usd": "47610473000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23066842000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2006-09-30",
+      "input_sum_usd": "50924699000",
+      "company_sum_usd": "50924699000",
+      "prior_allocation_stock_total_usd": "50924699000",
+      "difference_usd": "0",
+      "top_three_total_usd": "24335740000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2006-12-31",
+      "input_sum_usd": "54922647000",
+      "company_sum_usd": "54922647000",
+      "prior_allocation_stock_total_usd": "54922647000",
+      "difference_usd": "0",
+      "top_three_total_usd": "26103246000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2007-03-31",
+      "input_sum_usd": "57503864000",
+      "company_sum_usd": "57503864000",
+      "prior_allocation_stock_total_usd": "57503864000",
+      "difference_usd": "0",
+      "top_three_total_usd": "26147030000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2007-06-30",
+      "input_sum_usd": "64581257000",
+      "company_sum_usd": "64581257000",
+      "prior_allocation_stock_total_usd": "64581257000",
+      "difference_usd": "0",
+      "top_three_total_usd": "28799990000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2007-09-30",
+      "input_sum_usd": "69505336000",
+      "company_sum_usd": "69505336000",
+      "prior_allocation_stock_total_usd": "69505336000",
+      "difference_usd": "0",
+      "top_three_total_usd": "30456761000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2007-12-31",
+      "input_sum_usd": "68768137000",
+      "company_sum_usd": "68768137000",
+      "prior_allocation_stock_total_usd": "68768137000",
+      "difference_usd": "0",
+      "top_three_total_usd": "28893544000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2008-03-31",
+      "input_sum_usd": "66461224000",
+      "company_sum_usd": "66461224000",
+      "prior_allocation_stock_total_usd": "66461224000",
+      "difference_usd": "0",
+      "top_three_total_usd": "28048761000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2008-06-30",
+      "input_sum_usd": "63511466000",
+      "company_sum_usd": "63511466000",
+      "prior_allocation_stock_total_usd": "63511466000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23735610000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2008-09-30",
+      "input_sum_usd": "69889879000",
+      "company_sum_usd": "69889879000",
+      "prior_allocation_stock_total_usd": "69889879000",
+      "difference_usd": "0",
+      "top_three_total_usd": "28851477000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2008-12-31",
+      "input_sum_usd": "51869961000",
+      "company_sum_usd": "51869961000",
+      "prior_allocation_stock_total_usd": "51869961000",
+      "difference_usd": "0",
+      "top_three_total_usd": "23562674000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2009-03-31",
+      "input_sum_usd": "40871225000",
+      "company_sum_usd": "40871225000",
+      "prior_allocation_stock_total_usd": "40871225000",
+      "difference_usd": "0",
+      "top_three_total_usd": "17943658000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2009-06-30",
+      "input_sum_usd": "49014730000",
+      "company_sum_usd": "49014730000",
+      "prior_allocation_stock_total_usd": "49014730000",
+      "difference_usd": "0",
+      "top_three_total_usd": "22585481000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2009-09-30",
+      "input_sum_usd": "56546051000",
+      "company_sum_usd": "56546051000",
+      "prior_allocation_stock_total_usd": "56546051000",
+      "difference_usd": "0",
+      "top_three_total_usd": "25699472000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2009-12-31",
+      "input_sum_usd": "57929532000",
+      "company_sum_usd": "57929532000",
+      "prior_allocation_stock_total_usd": "57929532000",
+      "difference_usd": "0",
+      "top_three_total_usd": "27610935000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2010-03-31",
+      "input_sum_usd": "50934475000",
+      "company_sum_usd": "50934475000",
+      "prior_allocation_stock_total_usd": "50934475000",
+      "difference_usd": "0",
+      "top_three_total_usd": "27216607000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2010-06-30",
+      "input_sum_usd": "46440810000",
+      "company_sum_usd": "46440810000",
+      "prior_allocation_stock_total_usd": "46440810000",
+      "difference_usd": "0",
+      "top_three_total_usd": "24237207000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2010-09-30",
+      "input_sum_usd": "48563369000",
+      "company_sum_usd": "48563369000",
+      "prior_allocation_stock_total_usd": "48563369000",
+      "difference_usd": "0",
+      "top_three_total_usd": "26525105000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2010-12-31",
+      "input_sum_usd": "52560379000",
+      "company_sum_usd": "52560379000",
+      "prior_allocation_stock_total_usd": "52560379000",
+      "difference_usd": "0",
+      "top_three_total_usd": "30279047000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2011-03-31",
+      "input_sum_usd": "54338419000",
+      "company_sum_usd": "54338419000",
+      "prior_allocation_stock_total_usd": "54338419000",
+      "difference_usd": "0",
+      "top_three_total_usd": "30985408000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2011-06-30",
+      "input_sum_usd": "56621324000",
+      "company_sum_usd": "56621324000",
+      "prior_allocation_stock_total_usd": "56621324000",
+      "difference_usd": "0",
+      "top_three_total_usd": "31182584000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2011-09-30",
+      "input_sum_usd": "59054804000",
+      "company_sum_usd": "59054804000",
+      "prior_allocation_stock_total_usd": "59054804000",
+      "difference_usd": "0",
+      "top_three_total_usd": "32256857000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2011-12-31",
+      "input_sum_usd": "66151587000",
+      "company_sum_usd": "66151587000",
+      "prior_allocation_stock_total_usd": "66151587000",
+      "difference_usd": "0",
+      "top_three_total_usd": "36319897000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2012-03-31",
+      "input_sum_usd": "75302369000",
+      "company_sum_usd": "75302369000",
+      "prior_allocation_stock_total_usd": "75302369000",
+      "difference_usd": "0",
+      "top_three_total_usd": "41700759000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2012-06-30",
+      "input_sum_usd": "74321382000",
+      "company_sum_usd": "74321382000",
+      "prior_allocation_stock_total_usd": "74321382000",
+      "difference_usd": "0",
+      "top_three_total_usd": "42417858000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2012-09-30",
+      "input_sum_usd": "75326633000",
+      "company_sum_usd": "75326633000",
+      "prior_allocation_stock_total_usd": "75326633000",
+      "difference_usd": "0",
+      "top_three_total_usd": "43769225000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2012-12-31",
+      "input_sum_usd": "75313620000",
+      "company_sum_usd": "75313620000",
+      "prior_allocation_stock_total_usd": "75313620000",
+      "difference_usd": "0",
+      "top_three_total_usd": "42581863000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2013-03-31",
+      "input_sum_usd": "85001344000",
+      "company_sum_usd": "85001344000",
+      "prior_allocation_stock_total_usd": "85001344000",
+      "difference_usd": "0",
+      "top_three_total_usd": "47654140000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": null,
+      "pass_all": true
+    },
+    {
+      "date": "2013-06-30",
+      "input_sum_usd": "91854111000",
+      "company_sum_usd": "91854111000",
+      "prior_allocation_stock_total_usd": "91854111000",
+      "difference_usd": "0",
+      "top_three_total_usd": "48176235000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "91854111000",
+      "pass_all": true
+    },
+    {
+      "date": "2013-09-30",
+      "input_sum_usd": "92035233000",
+      "company_sum_usd": "92035233000",
+      "prior_allocation_stock_total_usd": "92035233000",
+      "difference_usd": "0",
+      "top_three_total_usd": "46903427000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "92035233000",
+      "pass_all": true
+    },
+    {
+      "date": "2013-12-31",
+      "input_sum_usd": "104836593000",
+      "company_sum_usd": "104836593000",
+      "prior_allocation_stock_total_usd": "104836593000",
+      "difference_usd": "0",
+      "top_three_total_usd": "51320637000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "104836593000",
+      "pass_all": true
+    },
+    {
+      "date": "2014-03-31",
+      "input_sum_usd": "105772705000",
+      "company_sum_usd": "105772705000",
+      "prior_allocation_stock_total_usd": "105772705000",
+      "difference_usd": "0",
+      "top_three_total_usd": "52165920000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "105772705000",
+      "pass_all": true
+    },
+    {
+      "date": "2014-06-30",
+      "input_sum_usd": "107580386000",
+      "company_sum_usd": "107580386000",
+      "prior_allocation_stock_total_usd": "107580386000",
+      "difference_usd": "0",
+      "top_three_total_usd": "55686667000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "107580386000",
+      "pass_all": true
+    },
+    {
+      "date": "2014-09-30",
+      "input_sum_usd": "108405828000",
+      "company_sum_usd": "108405828000",
+      "prior_allocation_stock_total_usd": "108405828000",
+      "difference_usd": "0",
+      "top_three_total_usd": "54482415000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "108405828000",
+      "pass_all": true
+    },
+    {
+      "date": "2014-12-31",
+      "input_sum_usd": "109365274000",
+      "company_sum_usd": "109365274000",
+      "prior_allocation_stock_total_usd": "109365274000",
+      "difference_usd": "0",
+      "top_three_total_usd": "56400633000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "109365274000",
+      "pass_all": true
+    },
+    {
+      "date": "2015-03-31",
+      "input_sum_usd": "107133479000",
+      "company_sum_usd": "107133479000",
+      "prior_allocation_stock_total_usd": "107133479000",
+      "difference_usd": "0",
+      "top_three_total_usd": "54574104000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "107133479000",
+      "pass_all": true
+    },
+    {
+      "date": "2015-06-30",
+      "input_sum_usd": "109574892000",
+      "company_sum_usd": "109574892000",
+      "prior_allocation_stock_total_usd": "109574892000",
+      "difference_usd": "0",
+      "top_three_total_usd": "55083306000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "109574892000",
+      "pass_all": true
+    },
+    {
+      "date": "2015-09-30",
+      "input_sum_usd": "127407562000",
+      "company_sum_usd": "127407562000",
+      "prior_allocation_stock_total_usd": "127407562000",
+      "difference_usd": "0",
+      "top_three_total_usd": "63180817000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "127407562000",
+      "pass_all": true
+    },
+    {
+      "date": "2015-12-31",
+      "input_sum_usd": "131855536000",
+      "company_sum_usd": "131855536000",
+      "prior_allocation_stock_total_usd": "131855536000",
+      "difference_usd": "0",
+      "top_three_total_usd": "66953913000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "131855536000",
+      "pass_all": true
+    },
+    {
+      "date": "2016-03-31",
+      "input_sum_usd": "128569639000",
+      "company_sum_usd": "128569639000",
+      "prior_allocation_stock_total_usd": "128569639000",
+      "difference_usd": "0",
+      "top_three_total_usd": "67336370000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "128569639000",
+      "pass_all": true
+    },
+    {
+      "date": "2016-06-30",
+      "input_sum_usd": "129704731000",
+      "company_sum_usd": "129704731000",
+      "prior_allocation_stock_total_usd": "129704731000",
+      "difference_usd": "0",
+      "top_three_total_usd": "69648574000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "129704731000",
+      "pass_all": true
+    },
+    {
+      "date": "2016-09-30",
+      "input_sum_usd": "128787110000",
+      "company_sum_usd": "128787110000",
+      "prior_allocation_stock_total_usd": "128787110000",
+      "difference_usd": "0",
+      "top_three_total_usd": "67316880000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "128787110000",
+      "pass_all": true
+    },
+    {
+      "date": "2016-12-31",
+      "input_sum_usd": "147985198000",
+      "company_sum_usd": "147985198000",
+      "prior_allocation_stock_total_usd": "147985198000",
+      "difference_usd": "0",
+      "top_three_total_usd": "71454935000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "147985198000",
+      "pass_all": true
+    },
+    {
+      "date": "2017-03-31",
+      "input_sum_usd": "161873831000",
+      "company_sum_usd": "161873831000",
+      "prior_allocation_stock_total_usd": "161873831000",
+      "difference_usd": "0",
+      "top_three_total_usd": "74854679000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "161873831000",
+      "pass_all": true
+    },
+    {
+      "date": "2017-06-30",
+      "input_sum_usd": "162143689000",
+      "company_sum_usd": "162143689000",
+      "prior_allocation_stock_total_usd": "162143689000",
+      "difference_usd": "0",
+      "top_three_total_usd": "72568787000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "162143689000",
+      "pass_all": true
+    },
+    {
+      "date": "2017-09-30",
+      "input_sum_usd": "177678767000",
+      "company_sum_usd": "177678767000",
+      "prior_allocation_stock_total_usd": "177678767000",
+      "difference_usd": "0",
+      "top_three_total_usd": "71521769000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "177678767000",
+      "pass_all": true
+    },
+    {
+      "date": "2017-12-31",
+      "input_sum_usd": "191242697000",
+      "company_sum_usd": "191242697000",
+      "prior_allocation_stock_total_usd": "191242697000",
+      "difference_usd": "0",
+      "top_three_total_usd": "81101782000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "191242697000",
+      "pass_all": true
+    },
+    {
+      "date": "2018-03-31",
+      "input_sum_usd": "188943876000",
+      "company_sum_usd": "188943876000",
+      "prior_allocation_stock_total_usd": "188943876000",
+      "difference_usd": "0",
+      "top_three_total_usd": "84483725000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "188943876000",
+      "pass_all": true
+    },
+    {
+      "date": "2018-06-30",
+      "input_sum_usd": "195615793000",
+      "company_sum_usd": "195615793000",
+      "prior_allocation_stock_total_usd": "195615793000",
+      "difference_usd": "0",
+      "top_three_total_usd": "92155575000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "195615793000",
+      "pass_all": true
+    },
+    {
+      "date": "2018-09-30",
+      "input_sum_usd": "221020177000",
+      "company_sum_usd": "221020177000",
+      "prior_allocation_stock_total_usd": "221020177000",
+      "difference_usd": "0",
+      "top_three_total_usd": "106088837000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "221020177000",
+      "pass_all": true
+    },
+    {
+      "date": "2018-12-31",
+      "input_sum_usd": "183066067000",
+      "company_sum_usd": "183066067000",
+      "prior_allocation_stock_total_usd": "183066067000",
+      "difference_usd": "0",
+      "top_three_total_usd": "81117301000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "183066067000",
+      "pass_all": true
+    },
+    {
+      "date": "2019-03-31",
+      "input_sum_usd": "199483708000",
+      "company_sum_usd": "199483708000",
+      "prior_allocation_stock_total_usd": "199483708000",
+      "difference_usd": "0",
+      "top_three_total_usd": "91936475000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "199483708000",
+      "pass_all": true
+    },
+    {
+      "date": "2019-06-30",
+      "input_sum_usd": "208101077000",
+      "company_sum_usd": "208101077000",
+      "prior_allocation_stock_total_usd": "208101077000",
+      "difference_usd": "0",
+      "top_three_total_usd": "96656930000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "208101077000",
+      "pass_all": true
+    },
+    {
+      "date": "2019-09-30",
+      "input_sum_usd": "214673311000",
+      "company_sum_usd": "214673311000",
+      "prior_allocation_stock_total_usd": "214673311000",
+      "difference_usd": "0",
+      "top_three_total_usd": "104556243000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "214673311000",
+      "pass_all": true
+    },
+    {
+      "date": "2019-12-31",
+      "input_sum_usd": "242050717000",
+      "company_sum_usd": "242050717000",
+      "prior_allocation_stock_total_usd": "242050717000",
+      "difference_usd": "0",
+      "top_three_total_usd": "126708736000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "242050717000",
+      "pass_all": true
+    },
+    {
+      "date": "2020-03-31",
+      "input_sum_usd": "175526846000",
+      "company_sum_usd": "175526846000",
+      "prior_allocation_stock_total_usd": "175526846000",
+      "difference_usd": "0",
+      "top_three_total_usd": "99678542000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "175526846000",
+      "pass_all": true
+    },
+    {
+      "date": "2020-06-30",
+      "input_sum_usd": "202411166000",
+      "company_sum_usd": "202411166000",
+      "prior_allocation_stock_total_usd": "202411166000",
+      "difference_usd": "0",
+      "top_three_total_usd": "129273703000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "202411166000",
+      "pass_all": true
+    },
+    {
+      "date": "2020-09-30",
+      "input_sum_usd": "235935559000",
+      "company_sum_usd": "235935559000",
+      "prior_allocation_stock_total_usd": "235935559000",
+      "difference_usd": "0",
+      "top_three_total_usd": "153440191000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "235935559000",
+      "pass_all": true
+    },
+    {
+      "date": "2020-12-31",
+      "input_sum_usd": "269927528000",
+      "company_sum_usd": "269927528000",
+      "prior_allocation_stock_total_usd": "269927528000",
+      "difference_usd": "0",
+      "top_three_total_usd": "170266165000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "269927528000",
+      "pass_all": true
+    },
+    {
+      "date": "2021-03-31",
+      "input_sum_usd": "270435200000",
+      "company_sum_usd": "270435200000",
+      "prior_allocation_stock_total_usd": "270435200000",
+      "difference_usd": "0",
+      "top_three_total_usd": "168888219000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "270435200000",
+      "pass_all": true
+    },
+    {
+      "date": "2021-06-30",
+      "input_sum_usd": "293023412000",
+      "company_sum_usd": "293023412000",
+      "prior_allocation_stock_total_usd": "293023412000",
+      "difference_usd": "0",
+      "top_three_total_usd": "188199170000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "293023412000",
+      "pass_all": true
+    },
+    {
+      "date": "2021-09-30",
+      "input_sum_usd": "293447417000",
+      "company_sum_usd": "293447417000",
+      "prior_allocation_stock_total_usd": "293447417000",
+      "difference_usd": "0",
+      "top_three_total_usd": "193807792000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "293447417000",
+      "pass_all": true
+    },
+    {
+      "date": "2021-12-31",
+      "input_sum_usd": "330952724000",
+      "company_sum_usd": "330952724000",
+      "prior_allocation_stock_total_usd": "330952724000",
+      "difference_usd": "0",
+      "top_three_total_usd": "227271547000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "330952724000",
+      "pass_all": true
+    },
+    {
+      "date": "2022-03-31",
+      "input_sum_usd": "363553518000",
+      "company_sum_usd": "363553518000",
+      "prior_allocation_stock_total_usd": "363553518000",
+      "difference_usd": "0",
+      "top_three_total_usd": "225551687000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "363553518000",
+      "pass_all": true
+    },
+    {
+      "date": "2022-06-30",
+      "input_sum_usd": "300130772000",
+      "company_sum_usd": "300130772000",
+      "prior_allocation_stock_total_usd": "300130772000",
+      "difference_usd": "0",
+      "top_three_total_usd": "178945805000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "300130772000",
+      "pass_all": true
+    },
+    {
+      "date": "2022-09-30",
+      "input_sum_usd": "296096640000",
+      "company_sum_usd": "296096640000",
+      "prior_allocation_stock_total_usd": "296096640000",
+      "difference_usd": "0",
+      "top_three_total_usd": "177923891000",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "296096640000",
+      "pass_all": true
+    },
+    {
+      "date": "2022-12-31",
+      "input_sum_usd": "299007622119",
+      "company_sum_usd": "299007622119",
+      "prior_allocation_stock_total_usd": "299007622119",
+      "difference_usd": "0",
+      "top_three_total_usd": "179012096426",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "299007622119",
+      "pass_all": true
+    },
+    {
+      "date": "2023-03-31",
+      "input_sum_usd": "325108752692",
+      "company_sum_usd": "325108752692",
+      "prior_allocation_stock_total_usd": "325108752692",
+      "difference_usd": "0",
+      "top_three_total_usd": "205523659328",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "325108752692",
+      "pass_all": true
+    },
+    {
+      "date": "2023-06-30",
+      "input_sum_usd": "348194055552",
+      "company_sum_usd": "348194055552",
+      "prior_allocation_stock_total_usd": "348194055552",
+      "difference_usd": "0",
+      "top_three_total_usd": "233634355288",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "348194055552",
+      "pass_all": true
+    },
+    {
+      "date": "2023-09-30",
+      "input_sum_usd": "314952628264",
+      "company_sum_usd": "314952628264",
+      "prior_allocation_stock_total_usd": "314952628264",
+      "difference_usd": "0",
+      "top_three_total_usd": "207651381259",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "314952628264",
+      "pass_all": true
+    },
+    {
+      "date": "2023-12-31",
+      "input_sum_usd": "351900674461",
+      "company_sum_usd": "351900674461",
+      "prior_allocation_stock_total_usd": "351900674461",
+      "difference_usd": "0",
+      "top_three_total_usd": "237526342379",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "351900674461",
+      "pass_all": true
+    },
+    {
+      "date": "2024-03-31",
+      "input_sum_usd": "331680406332",
+      "company_sum_usd": "331680406332",
+      "prior_allocation_stock_total_usd": "331680406332",
+      "difference_usd": "0",
+      "top_three_total_usd": "209046890156",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "331680406332",
+      "pass_all": true
+    },
+    {
+      "date": "2024-06-30",
+      "input_sum_usd": "279969062343",
+      "company_sum_usd": "279969062343",
+      "prior_allocation_stock_total_usd": "279969062343",
+      "difference_usd": "0",
+      "top_three_total_usd": "160429981864",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "279969062343",
+      "pass_all": true
+    },
+    {
+      "date": "2024-09-30",
+      "input_sum_usd": "266378900503",
+      "company_sum_usd": "266378900503",
+      "prior_allocation_stock_total_usd": "266378900503",
+      "difference_usd": "0",
+      "top_three_total_usd": "142668895462",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "266378900503",
+      "pass_all": true
+    },
+    {
+      "date": "2024-12-31",
+      "input_sum_usd": "267175474249",
+      "company_sum_usd": "267175474249",
+      "prior_allocation_stock_total_usd": "267175474249",
+      "difference_usd": "0",
+      "top_three_total_usd": "150018805802",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "267175474249",
+      "pass_all": true
+    },
+    {
+      "date": "2025-03-31",
+      "input_sum_usd": "259807694872",
+      "company_sum_usd": "259807694872",
+      "prior_allocation_stock_total_usd": "259807694872",
+      "difference_usd": "0",
+      "top_three_total_usd": "136077858835",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "259807694872",
+      "pass_all": true
+    },
+    {
+      "date": "2025-06-30",
+      "input_sum_usd": "257521776925",
+      "company_sum_usd": "257521776925",
+      "prior_allocation_stock_total_usd": "257521776925",
+      "difference_usd": "0",
+      "top_three_total_usd": "134449633271",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "257521776925",
+      "pass_all": true
+    },
+    {
+      "date": "2025-09-30",
+      "input_sum_usd": "267334501955",
+      "company_sum_usd": "267334501955",
+      "prior_allocation_stock_total_usd": "267334501955",
+      "difference_usd": "0",
+      "top_three_total_usd": "140321858128",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "267334501955",
+      "pass_all": true
+    },
+    {
+      "date": "2025-12-31",
+      "input_sum_usd": "274160086701",
+      "company_sum_usd": "274160086701",
+      "prior_allocation_stock_total_usd": "274160086701",
+      "difference_usd": "0",
+      "top_three_total_usd": "146501390118",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "274160086701",
+      "pass_all": true
+    },
+    {
+      "date": "2026-03-31",
+      "input_sum_usd": "263095703570",
+      "company_sum_usd": "263095703570",
+      "prior_allocation_stock_total_usd": "263095703570",
+      "difference_usd": "0",
+      "top_three_total_usd": "134122465029",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "263095703570",
+      "pass_all": true
+    },
+    {
+      "date": "2026-06-30",
+      "input_sum_usd": "299253556246",
+      "company_sum_usd": "299253556246",
+      "prior_allocation_stock_total_usd": "299253556246",
+      "difference_usd": "0",
+      "top_three_total_usd": "154996704581",
+      "top_three_within_stock_total": true,
+      "modern_raw_manager_sum_usd": "299253556246",
+      "pass_all": true
+    }
+  ],
+  "merge_events": [
+    {
+      "date": "1998-12-31",
+      "company_id": "930059",
+      "name": "Waddell & Reed",
+      "cusips": [
+        "930059100",
+        "930059209"
+      ],
+      "value_usd": "4666000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "1999-03-31",
+      "company_id": "930059",
+      "name": "Waddell & Reed",
+      "cusips": [
+        "930059100",
+        "930059209"
+      ],
+      "value_usd": "3998000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "1999-06-30",
+      "company_id": "930059",
+      "name": "Waddell & Reed",
+      "cusips": [
+        "930059100",
+        "930059209"
+      ],
+      "value_usd": "5420000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "1999-09-30",
+      "company_id": "930059",
+      "name": "Waddell & Reed",
+      "cusips": [
+        "930059100",
+        "930059209"
+      ],
+      "value_usd": "4305000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2000-12-31",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "149233000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2001-03-31",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "156736000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2001-06-30",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "170253000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2001-09-30",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "157835000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2001-12-31",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "152597000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2002-03-31",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K209",
+        "81217K100"
+      ],
+      "value_usd": "162409000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2002-06-30",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "128143000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2002-09-30",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "57602000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2002-12-31",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "122993000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2003-03-31",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "132429000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2003-06-30",
+      "company_id": "81211K",
+      "name": "Sealed Air Corp.",
+      "cusips": [
+        "81211K100",
+        "81211K209"
+      ],
+      "value_usd": "110701000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2014-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "604729000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2014-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "747149000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2014-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "743795000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2014-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "564640000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2014-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "897966000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2014-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "421320000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "898296000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "459800000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "931211000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "431360000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "808827000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "844819000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "892059000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2015-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "868103000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229102",
+        "531229300"
+      ],
+      "value_usd": "1148100000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "907730000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854",
+        "531229870"
+      ],
+      "value_usd": "1073699000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "902592000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854",
+        "531229870"
+      ],
+      "value_usd": "1211579000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "1043447000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1101479000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2016-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "922340000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1263915000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "1071289000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1920332000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "963881000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1924428000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "1019003000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1822430000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2017-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120",
+        "G5480U138",
+        "G5480U153"
+      ],
+      "value_usd": "1052147000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1880828000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "793610000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "77316000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2079748000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "740547000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "76792000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1996438000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "779444000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "83067000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1696606000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "573981000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2018-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "58019000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1756289000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "671062000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "77479000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1742707000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "729074000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "68849000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1922322000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "664611000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "68293000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2215071000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "610174000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2019-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "77384000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1446433000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "434229000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "40850000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2001505000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-06-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "580150000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "37693000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "1922248000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-09-30",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "529260000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "33346000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2521812000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-12-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "609958000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2020-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "43520000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2560963000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-03-31",
+      "company_id": "G5480U",
+      "name": "Liberty Global plc",
+      "cusips": [
+        "G5480U104",
+        "G5480U120"
+      ],
+      "value_usd": "273855000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "50420000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2696627000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "54568000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607"
+      ],
+      "value_usd": "2752060000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "51256000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "3358692000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2021-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "45313000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "3438943000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "37832000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "2776088000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "30523000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "2850457000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "24182000",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "2946752447",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2022-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "29568416",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "2354904805",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "32467886",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229409",
+        "531229607",
+        "531229854"
+      ],
+      "value_usd": "2658567456",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "34087682",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229789",
+        "531229813",
+        "531229854"
+      ],
+      "value_usd": "2614090605",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "31944866",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229789",
+        "531229813",
+        "531229854"
+      ],
+      "value_usd": "2912716812",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2023-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "28655796",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229789",
+        "531229813",
+        "531229854"
+      ],
+      "value_usd": "4126811257",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "27311920",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229789",
+        "531229813",
+        "531229854"
+      ],
+      "value_usd": "3490197031",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "37634183",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229854"
+      ],
+      "value_usd": "1405238892",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "37388337",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-12-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229854"
+      ],
+      "value_usd": "1705177322",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2024-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "24872525",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-03-31",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229854"
+      ],
+      "value_usd": "1395342717",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-03-31",
+      "company_id": "526057",
+      "name": "Lennar Corp.",
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "value_usd": "238185246",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-03-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "24626677",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-06-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229854"
+      ],
+      "value_usd": "1597850379",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-06-30",
+      "company_id": "526057",
+      "name": "Lennar Corp.",
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "value_usd": "798731999",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-06-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "24034436",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-09-30",
+      "company_id": "531229",
+      "name": "Liberty Media Corp.",
+      "cusips": [
+        "531229722",
+        "531229748",
+        "531229854"
+      ],
+      "value_usd": "1844208905",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-09-30",
+      "company_id": "526057",
+      "name": "Lennar Corp.",
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "value_usd": "910417528",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-09-30",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "32646395",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-12-31",
+      "company_id": "530909",
+      "name": "Liberty Live Holdings Inc.",
+      "cusips": [
+        "530909100",
+        "530909308"
+      ],
+      "value_usd": "1314319611",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-12-31",
+      "company_id": "526057",
+      "name": "Lennar Corp.",
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "value_usd": "742052478",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2025-12-31",
+      "company_id": "G9001E",
+      "name": "Liberty Latin America Ltd.",
+      "cusips": [
+        "G9001E102",
+        "G9001E128"
+      ],
+      "value_usd": "27290143",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2026-03-31",
+      "company_id": "02079K",
+      "name": "Alphabet Inc.",
+      "cusips": [
+        "02079K107",
+        "02079K305"
+      ],
+      "value_usd": "16628526688",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2026-03-31",
+      "company_id": "530909",
+      "name": "Liberty Live Holdings Inc.",
+      "cusips": [
+        "530909100",
+        "530909308"
+      ],
+      "value_usd": "1453326953",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2026-03-31",
+      "company_id": "526057",
+      "name": "Lennar Corp.",
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "value_usd": "897048487",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2026-06-30",
+      "company_id": "02079K",
+      "name": "Alphabet Inc.",
+      "cusips": [
+        "02079K107",
+        "02079K305"
+      ],
+      "value_usd": "37764088383",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2026-06-30",
+      "company_id": "526057",
+      "name": "Lennar Corp.",
+      "cusips": [
+        "526057104",
+        "526057302"
+      ],
+      "value_usd": "1212927402",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    },
+    {
+      "date": "2026-06-30",
+      "company_id": "530909",
+      "name": "Liberty Live Holdings Inc.",
+      "cusips": [
+        "530909100",
+        "530909308"
+      ],
+      "value_usd": "1623367688",
+      "method": "Same issuer and multiple security classes; sum already-manager-aggregated components once."
+    }
+  ]
+}

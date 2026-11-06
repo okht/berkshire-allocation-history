@@ -1,0 +1,5019 @@
+{
+  "description": "Original disclosure URLs and retained evidence locations. Sources used only for comparative or ranking evidence may have no main-series observation date.",
+  "source_count": 362,
+  "sources": [
+    {
+      "url": "https://berkshirehathaway.com/1996ar/consolid.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://berkshirehathaway.com/qtrly/1stqtr01.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2001-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://berkshirehathaway.com/qtrly/1stqtr99.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1999-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://berkshirehathaway.com/qtrly/2ndqtr99.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1999-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1968-Berkshire-10k.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1968-12-28"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 13,
+          "printed_page": "14",
+          "report_year": 1968,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Schedule I: parent common stocks and commercial paper separately",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 23,
+          "printed_page": "26",
+          "report_year": 1968,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "National Indemnity cash and stock market values",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 32,
+          "printed_page": "35",
+          "report_year": 1968,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "National Fire and Marine cash and stock market values",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1968-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1968-12-28"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 6,
+          "printed_page": "4",
+          "report_year": 1968,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Parent cash",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1969-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1970-01-03"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 5,
+          "printed_page": "3",
+          "report_year": 1969,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Parent balance sheet",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 7,
+          "printed_page": "5",
+          "report_year": 1969,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Note 2: parent securities consist of U.S. Treasury bills",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 9,
+          "printed_page": "7",
+          "report_year": 1969,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "National Indemnity balance sheet",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "printed_page": "12",
+          "report_year": 1969,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "National Fire and Marine balance sheet",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1970-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1971-01-02"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 8,
+          "printed_page": "6",
+          "report_year": 1970,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Parent balance sheet with no marketable securities",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 12,
+          "printed_page": "10",
+          "report_year": 1970,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "National Indemnity balance sheet",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 18,
+          "printed_page": "16",
+          "report_year": 1970,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "National Fire and Marine balance sheet",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1971-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1972-01-01"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 7,
+          "printed_page": "5",
+          "report_year": 1971,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Parent cash and short-term investments",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "printed_page": "12",
+          "report_year": 1971,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Insurance cash and total stock market values",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1972-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1972-01-01",
+        "1972-12-30"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 14,
+          "printed_page": "12",
+          "report_year": 1972,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "1971 comparative separating Blue Chip Stamps from other common stocks",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 18,
+          "printed_page": "16",
+          "report_year": 1972,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Blue Chip Stamps related-party equity-method treatment",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 7,
+          "printed_page": "5",
+          "report_year": 1972,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Parent cash",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "printed_page": "12",
+          "report_year": 1972,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Insurance cash and stock cost",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 18,
+          "printed_page": "16",
+          "report_year": 1972,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Stock market values and Blue Chip affiliate explanation",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1973-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1973-12-29"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 12,
+          "printed_page": "10",
+          "report_year": 1973,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Note 3 investment market values",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1974-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1973-12-29",
+        "1974-12-28"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 6,
+          "printed_page": "8",
+          "report_year": 1974,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "1973 comparative balance sheet separating Treasury bills and other short-term obligations",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 6,
+          "printed_page": "8",
+          "report_year": 1974,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Consolidated balance sheet: cash, short-term investments and parenthetical stock market values",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1975-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1974-12-28",
+        "1976-01-03"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 16,
+          "printed_page": "13",
+          "report_year": 1975,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "1974 comparative stock market values",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 11,
+          "printed_page": "8",
+          "report_year": 1975,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Cash and short-term investments",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 16,
+          "printed_page": "13",
+          "report_year": 1975,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Note 3 stock market values",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1976-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1977-01-01"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 9,
+          "printed_page": "7",
+          "report_year": 1976,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Cash and short-term investments",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 14,
+          "printed_page": "12",
+          "report_year": 1976,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Note 3 stock market values",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 6,
+          "printed_page": "4",
+          "report_year": 1976,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Large holdings table contains cost only in available original scan",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 6,
+          "printed_page": "4",
+          "purpose": "Large investment positions listed at cost only",
+          "report_year": 1976,
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1977-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1977-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 7,
+          "printed_page": "5",
+          "purpose": "All holdings above the explicit $5m market-value threshold; GEICO common/preferred and Washington Post values",
+          "report_year": 1977,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 24,
+          "printed_page": "22",
+          "purpose": "Audited common and preferred equity market-value total",
+          "report_year": 1977,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 17,
+          "printed_page": "15",
+          "report_year": 1977,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Cash and short-term investments",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 24,
+          "printed_page": "22",
+          "report_year": 1977,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Note 5 stock market values",
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 7,
+          "printed_page": "5",
+          "report_year": 1977,
+          "source_kind": "Original company report scanned and hosted by third-party archive",
+          "subject": "Large equity positions market values",
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1978-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1978-12-30"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_pages_1based": [
+            9
+          ],
+          "printed_pages": [
+            9
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "d2cc233c94b3d3c3961320771db906298d003b910dcfc49ec2b396aa94da9ce9",
+          "year": 1978
+        },
+        {
+          "pdf_pages_1based": [
+            16
+          ],
+          "printed_pages": [
+            16
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "d2cc233c94b3d3c3961320771db906298d003b910dcfc49ec2b396aa94da9ce9",
+          "year": 1978
+        },
+        {
+          "pdf_page": 6,
+          "printed_page": "6",
+          "purpose": "Insurance holdings table, narrower than consolidated stock scope",
+          "report_year": 1978,
+          "visual_verified": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1979-Berkshire-10K.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1979-12-29"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_pages_1based": [
+            42
+          ],
+          "printed_pages": [
+            "S-1"
+          ],
+          "purpose": "Consolidated investment schedule, used to assess ranking completeness",
+          "sha256": "4b319f2f1ce883e3e43123a85e75d6135151b8669859bd59f762677ae7988688"
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1979-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1979-12-29"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_pages_1based": [
+            25
+          ],
+          "printed_pages": [
+            12
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "cbb377bf96ab23258a1841273ab92bc1fedd761fa119e779eb875b673abb9be1",
+          "year": 1979
+        },
+        {
+          "pdf_pages_1based": [
+            37
+          ],
+          "printed_pages": [
+            18
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "cbb377bf96ab23258a1841273ab92bc1fedd761fa119e779eb875b673abb9be1",
+          "year": 1979
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1980-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1981-01-03"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_pages_1based": [
+            14
+          ],
+          "printed_pages": [
+            13
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "7862028f36c6d3b64e11491973a42c162f4324a37f89b8e8d7e38320d57dcad9",
+          "year": 1980
+        },
+        {
+          "pdf_pages_1based": [
+            20
+          ],
+          "printed_pages": [
+            19
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "7862028f36c6d3b64e11491973a42c162f4324a37f89b8e8d7e38320d57dcad9",
+          "year": 1980
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1981-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1982-01-02"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_pages_1based": [
+            16
+          ],
+          "printed_pages": [
+            15
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "7b9f09ab63f4411b74eb6cf55d5d7dc5878e2b390951d00a9f1210d41a1d18fc",
+          "year": 1981
+        },
+        {
+          "pdf_pages_1based": [
+            22
+          ],
+          "printed_pages": [
+            21
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "7b9f09ab63f4411b74eb6cf55d5d7dc5878e2b390951d00a9f1210d41a1d18fc",
+          "year": 1981
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1982-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1983-01-01"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 26,
+          "printed_page": "23",
+          "purpose": "Original 1982 aggregate consolidated marketable-equity scope",
+          "report_year": 1982,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 8,
+          "printed_page": "7",
+          "purpose": "Proportional holdings table with Blue Chip/Wesco interest footnotes",
+          "report_year": 1982,
+          "visual_verified": true
+        },
+        {
+          "pdf_pages_1based": [
+            20
+          ],
+          "printed_pages": [
+            17
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "2dafc6c3fadf9fcfa4ad292b0c8c4b5cb66b10e5da311aaadf75dab92c1123ea",
+          "year": 1982
+        },
+        {
+          "pdf_pages_1based": [
+            26
+          ],
+          "printed_pages": [
+            23
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "2dafc6c3fadf9fcfa4ad292b0c8c4b5cb66b10e5da311aaadf75dab92c1123ea",
+          "year": 1982
+        },
+        {
+          "pdf_pages_1based": [
+            27
+          ],
+          "printed_pages": [
+            24
+          ],
+          "purpose": "GEICO Note 3, rounded current-year value",
+          "sha256": "2dafc6c3fadf9fcfa4ad292b0c8c4b5cb66b10e5da311aaadf75dab92c1123ea",
+          "year": 1982
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1983-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1983-01-01",
+        "1983-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 28,
+          "printed_page": "26",
+          "purpose": "Restated 1982 expanded-scope issuer table",
+          "report_year": 1983,
+          "visual_verified": true
+        },
+        {
+          "pdf_pages_1based": [
+            22,
+            28
+          ],
+          "printed_pages": [
+            20,
+            26
+          ],
+          "purpose": "Restated 1982 balance sheet and detailed stock comparative; ranking and scope bridge",
+          "sha256": "46b62a9ff5374f09449aaaab3ef1dbef72dac76cf47df764c05a18d7817a6c70",
+          "year": 1983
+        },
+        {
+          "pdf_page": 28,
+          "printed_page": "26",
+          "purpose": "Same-scope audited market-value issuer table",
+          "report_year": 1983,
+          "visual_verified": true
+        },
+        {
+          "pdf_pages_1based": [
+            22
+          ],
+          "printed_pages": [
+            20
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "46b62a9ff5374f09449aaaab3ef1dbef72dac76cf47df764c05a18d7817a6c70",
+          "year": 1983
+        },
+        {
+          "pdf_pages_1based": [
+            28
+          ],
+          "printed_pages": [
+            26
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "46b62a9ff5374f09449aaaab3ef1dbef72dac76cf47df764c05a18d7817a6c70",
+          "year": 1983
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1984-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1983-12-31",
+        "1984-12-29"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "pdf_page": 34,
+          "printed_page": "30",
+          "purpose": "1983 comparative independently repeats market values",
+          "report_year": 1984,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 34,
+          "printed_page": "30",
+          "purpose": "Audited consolidated General Foods market value and aggregate common-stock table",
+          "report_year": 1984,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 8,
+          "printed_page": "4",
+          "purpose": "Full net common-stock table; explicitly only Wesco and Nebraska Furniture Mart minority interests excluded",
+          "report_year": 1984,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 25,
+          "printed_page": "21",
+          "purpose": "Nebraska Furniture Mart 90% ownership and 80% economic earnings interest",
+          "report_year": 1984,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 33,
+          "printed_page": "29",
+          "purpose": "Wesco and wholly owned subsidiaries 80.1% beneficial ownership",
+          "report_year": 1984,
+          "visual_verified": true
+        },
+        {
+          "pdf_page": 31,
+          "printed_page": "27",
+          "purpose": "Accounting policy: redeemable preferred shares treated with fixed-maturity obligations",
+          "report_year": 1984,
+          "visual_verified": true
+        },
+        {
+          "pdf_pages_1based": [
+            28
+          ],
+          "printed_pages": [
+            24
+          ],
+          "purpose": "Cash and invested-cash balance-sheet captions",
+          "sha256": "cc5b117f16c0474fcbb34881392c4309105395fefc32e0b36caabdaed87fe09b",
+          "year": 1984
+        },
+        {
+          "pdf_pages_1based": [
+            34
+          ],
+          "printed_pages": [
+            30
+          ],
+          "purpose": "Market value of marketable equity securities in audited notes",
+          "sha256": "cc5b117f16c0474fcbb34881392c4309105395fefc32e0b36caabdaed87fe09b",
+          "year": 1984
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1985-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1985-12-28"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1985,
+          "sha256": "0bdbd26604fa6e226efae2dd4a440deeb3d36d286ea9c1e4cfa243e9527d2bb0",
+          "source_pdf_page": 38,
+          "source_printed_page": 31,
+          "visually_checked": true
+        },
+        {
+          "locator": "Letter, marketable-securities table and minority-interest rule",
+          "source_pdf_page": 23,
+          "source_printed_page": 18
+        },
+        {
+          "locator": "Wesco and NFM ownership percentages",
+          "source_pdf_page": 56,
+          "source_printed_page": 47
+        },
+        {
+          "locator": "Original consolidated cash and temporary cash investments; used for the matched-scope chart denominator",
+          "report_year": 1985,
+          "sha256": "0bdbd26604fa6e226efae2dd4a440deeb3d36d286ea9c1e4cfa243e9527d2bb0",
+          "source_pdf_page": 31,
+          "source_printed_page": 25,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1986-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1986-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1986,
+          "sha256": "0d3e6d21dab648e0aecc443f6c69353da876c8e84aba347cecb1f3e7c8118969",
+          "source_pdf_page": 36,
+          "source_printed_page": 34,
+          "visually_checked": true
+        },
+        {
+          "locator": "Original consolidated cash and temporary cash investments; used for the matched-scope chart denominator",
+          "report_year": 1986,
+          "sha256": "0d3e6d21dab648e0aecc443f6c69353da876c8e84aba347cecb1f3e7c8118969",
+          "source_pdf_page": 29,
+          "source_printed_page": 27,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1988-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1985-12-28",
+        "1986-12-31",
+        "1987-12-31",
+        "1988-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1988,
+          "sha256": "d1e4e781bbe638821b5174d8b73b6f5a2c41b6c5fa7080af9f1442ba8cf16dae",
+          "source_pdf_page": 26,
+          "source_printed_page": 24,
+          "visually_checked": true
+        },
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1988,
+          "sha256": "d1e4e781bbe638821b5174d8b73b6f5a2c41b6c5fa7080af9f1442ba8cf16dae",
+          "source_pdf_page": 30,
+          "source_printed_page": 28,
+          "visually_checked": true
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1988,
+          "sha256": "d1e4e781bbe638821b5174d8b73b6f5a2c41b6c5fa7080af9f1442ba8cf16dae",
+          "source_pdf_page": 24,
+          "source_printed_page": 22,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1989-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1989-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1989,
+          "sha256": "a8a458240385b0f260dd74259dcb0ffd4a7b9c720f20caacb775038eb65f9aba",
+          "source_pdf_page": 35,
+          "source_printed_page": 33,
+          "visually_checked": true
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1989,
+          "sha256": "a8a458240385b0f260dd74259dcb0ffd4a7b9c720f20caacb775038eb65f9aba",
+          "source_pdf_page": 29,
+          "source_printed_page": 27,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1990-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1990-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1990,
+          "sha256": "37e6ef6669f54a58b43d7146d1e81af8b3ad7f31fd0864e1686d373fdaa6bdd4",
+          "source_pdf_page": 36,
+          "source_printed_page": 34,
+          "visually_checked": true
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1990,
+          "sha256": "37e6ef6669f54a58b43d7146d1e81af8b3ad7f31fd0864e1686d373fdaa6bdd4",
+          "source_pdf_page": 30,
+          "source_printed_page": 28,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1991-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1991-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1991,
+          "sha256": "7575a68cb5868a87c9b42cb5f97c24783272dcb5250fcf8f0a95457764b18103",
+          "source_pdf_page": 29,
+          "source_printed_page": 27,
+          "visually_checked": true
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1991,
+          "sha256": "7575a68cb5868a87c9b42cb5f97c24783272dcb5250fcf8f0a95457764b18103",
+          "source_pdf_page": 23,
+          "source_printed_page": 21,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1992-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1992-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1992,
+          "sha256": "af8ee3c6b7b4f7feffbbffe47992a2f272d2dfaaddbceab0ddd67fc287030f84",
+          "source_pdf_page": 33,
+          "source_printed_page": 31,
+          "visually_checked": true
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1992,
+          "sha256": "af8ee3c6b7b4f7feffbbffe47992a2f272d2dfaaddbceab0ddd67fc287030f84",
+          "source_pdf_page": 27,
+          "source_printed_page": 25,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1993-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1993-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1993,
+          "sha256": "c78459d93374e1821b8762247df898b89020a2c36e8ea251ce2a9fa8b8f62ec9",
+          "source_pdf_page": 33,
+          "source_printed_page": 31,
+          "visually_checked": true
+        },
+        {
+          "locator": "Insurance-group balance sheet, equity securities at market, American Express preferred 355.3m",
+          "source_pdf_page": 56,
+          "source_printed_page": 54
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1993,
+          "sha256": "c78459d93374e1821b8762247df898b89020a2c36e8ea251ce2a9fa8b8f62ec9",
+          "source_pdf_page": 29,
+          "source_printed_page": 27,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1994-Berkshire-AR.pdf",
+      "source_kind": "Archived original company report hosted by a third party",
+      "observation_dates": [
+        "1993-12-31",
+        "1994-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Note 4 comparative 1993 marketable-equity table",
+          "source_pdf_page": 31,
+          "source_printed_page": 29
+        },
+        {
+          "locator": "Note 5 comparative Salomon common fair value",
+          "source_pdf_page": 32,
+          "source_printed_page": 30
+        },
+        {
+          "locator": "Investments in marketable equity securities: Market column and largest individually listed holding",
+          "report_year": 1994,
+          "sha256": "02fcd161af6d4a747de56ee9edfb26c795d6891acb9053ce2b9b5a67aa90731e",
+          "source_pdf_page": 31,
+          "source_printed_page": 29,
+          "visually_checked": true
+        },
+        {
+          "locator": "Cash and cash equivalents, balance sheet or end-of-year cash-flow reconciliation",
+          "report_year": 1994,
+          "sha256": "02fcd161af6d4a747de56ee9edfb26c795d6891acb9053ce2b9b5a67aa90731e",
+          "source_pdf_page": 27,
+          "source_printed_page": 25,
+          "visually_checked": true
+        },
+        {
+          "locator": "Note 5 Investment in Salomon Inc: Common Stock Fair Value 248,760; preferred Fair Value 735,000, in thousands",
+          "report_year": 1994,
+          "sha256": "02fcd161af6d4a747de56ee9edfb26c795d6891acb9053ce2b9b5a67aa90731e",
+          "source_pdf_page": 32,
+          "source_printed_page": 30,
+          "visually_checked": true
+        }
+      ]
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/1995ar/1995ar.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1994-12-31",
+        "1995-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "Note 6, comparative 1994 table; American Express and Freddie Mac split from Other"
+        },
+        {
+          "locator": "1996 annual report Note 13, Fair values of financial instruments, comparative 1995 column"
+        },
+        {
+          "locator": "1995 annual report Notes 6 and 7"
+        },
+        {
+          "location": "Note 8, Finance businesses"
+        }
+      ]
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/1996ar/consolid.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1995-12-31",
+        "1996-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "1996 annual report Note 13, Fair values of financial instruments, comparative 1995 column"
+        },
+        {
+          "locator": "1995 annual report Notes 6 and 7"
+        },
+        {
+          "locator": "1996 annual report Note 5, Investments in equity securities"
+        },
+        {
+          "locator": "1996 annual report Note 13, Fair values of financial instruments"
+        },
+        {
+          "locator": "1997 annual report Note 4, comparative 1996 column"
+        },
+        {
+          "location": "Note 7, Finance businesses"
+        }
+      ]
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/1997ar/consolid.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1996-12-31",
+        "1997-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": [
+        {
+          "locator": "1996 annual report Note 5, Investments in equity securities"
+        },
+        {
+          "locator": "1996 annual report Note 13, Fair values of financial instruments"
+        },
+        {
+          "locator": "1997 annual report Note 4, comparative 1996 column"
+        },
+        {
+          "locator": "1997 annual report Note 4, Investments in equity securities"
+        },
+        {
+          "location": "Note 7, Finance businesses"
+        }
+      ]
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/1998ar/1998ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1998-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json",
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": [
+        {
+          "locator": "1998 annual report Note 4, printed page 31 / PDF page 32"
+        },
+        {
+          "locator": "Chairman letter investment list, printed page 12 / PDF page 13"
+        },
+        {
+          "location": "Note 6, printed page 32 / PDF page 33"
+        }
+      ]
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/1999ar/1999ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1999-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2000ar/2000ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2001ar/2001ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2001-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2002ar/2002ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2002-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2003ar/2003ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2003-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2004ar/2004ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2004-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2005ar/2005ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2005-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2006ar/2006ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2006-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2007ar/2007ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2007-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2008ar/2008ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2008-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2009ar/2009ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2009-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2010ar/2010ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2010-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2011ar/2011ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2011-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2012ar/2012ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2012-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2013ar/2013ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2013-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2014ar/2014ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2014-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2015ar/2015ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2015-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2016ar/2016ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2016-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2017ar/2017ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2017-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2018ar/2018ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2018-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2019ar/2019ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2019-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2020ar/2020ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2020-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2021ar/2021ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2021-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2022ar/2022ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2022-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2023ar/2023ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2023-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2024ar/2024ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2023-12-31",
+        "2024-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/2025ar/2025ar.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2025-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1985.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1985-12-28"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1991.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1991-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1992.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1992-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1993.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1993-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1994.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1994-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1995.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1994-12-31",
+        "1995-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1996.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1996-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1997.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1997-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/letters/1998htm.html",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [],
+      "evidence_files": [
+        "data/evidence/annual_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr00.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2000-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr02.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2002-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr03.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2003-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr04.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2004-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr05.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2005-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr06.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2006-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr07.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2007-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr08.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2008-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr09.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2009-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr10.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2010-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr11.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2011-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr12.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2012-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr13.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2013-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr14.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2014-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr15.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2015-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr16.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2016-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr17.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2017-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr18.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2018-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr19.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2019-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr20.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2019-12-31",
+        "2020-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr21.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2020-12-31",
+        "2021-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr22.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2022-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr23.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2023-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr24.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2024-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr25.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2024-03-31",
+        "2025-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2026-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr00.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr01.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2001-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr02.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2002-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr03.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2003-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr04.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2004-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr05.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2005-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr06.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2006-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr07.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2007-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr08.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2008-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr09.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2009-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr10.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2010-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr11.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2011-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr12.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2012-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr13.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2013-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr14.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2014-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr15.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2015-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr16.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2016-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr17.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2017-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr18.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2018-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr19.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2019-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr20.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2020-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr21.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2021-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr22.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2022-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr23.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2023-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr24.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2024-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr25.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2024-06-30",
+        "2025-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2026-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr00.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2000-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr01a.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2001-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr02.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2002-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr03.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2003-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr04.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2004-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr05.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2005-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr06.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2006-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr07.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2007-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr08.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2008-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr09.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2009-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr10.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2010-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr11.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2011-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr12.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2012-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr13.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2013-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr14.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2014-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr15.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2015-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr16.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2016-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr17.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2017-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr18.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2018-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr19.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2018-12-31",
+        "2019-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr20.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2020-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr21.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2021-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr22.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2022-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr23.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2023-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr24.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2024-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "2024-09-30",
+        "2025-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.berkshirehathaway.com/qtrly/3rdqtr99.pdf",
+      "source_kind": "Company report or shareholder letter",
+      "observation_dates": [
+        "1999-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_cash_components.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012309035453/v53429ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012309063022/v54313xxe13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012309063028/v54313e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012309065631/v54467a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012310013284/v55055ve13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012310013409/v55243a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012310050487/v56125ve13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2010-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012310078001/v56978ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2010-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012310105654/v57789ce13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2010-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012311001432/v58285e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2010-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012311013623/v58511e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2010-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012311050728/v59465ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012313006925/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2013-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012313009777/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2013-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012313009874/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2013-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012314002615/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2013-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012314006252/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2014-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012314009048/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2014-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012314012218/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2014-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012315002961/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2014-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012315002964/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2014-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012315006438/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2015-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012315009404/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2015-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012315009742/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2015-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012315011992/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2015-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012316015025/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2015-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012316017295/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2016-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012316020120/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2016-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012316022377/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2016-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012317002417/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2016-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012317005259/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2017-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012317007953/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2017-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012317010896/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2017-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012318002390/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2017-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012318005732/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2018-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012318008866/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2018-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012318011885/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2018-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012319002221/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2018-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012319005436/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2019-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012319008356/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2019-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012319011362/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2019-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012320002466/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2019-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012320005345/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2020-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/960.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2020-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012320012127/1653.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2020-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012321002781/3281.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2020-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012321002786/3286.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2020-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012321007024/4471.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2021-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012321011396/5309.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2021-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012321015518/6820.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2021-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012322002973/9815.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2021-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012322006442/13095.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2022-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012322009450/15796.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2022-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012322012275/18337.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2022-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323002585/20651.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2022-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323005270/22815.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2023-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323008074/25376.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2023-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012323011029/28498.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2023-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324002518/30197.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2023-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005622/32398.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2024-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005653/32497.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2023-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005664/32498.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2023-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/34725.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2024-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012324011775/36917.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2024-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012325002701/39042.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2024-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012325005701/form13fInfoTable.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2025-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012325008343/43977.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2025-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012325008361/43981.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2025-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904003325/a98912qe13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904003448/a98912a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006175/a01117e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006457/a01452a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006458/a01452a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006459/a01452a3e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012904009025/a03153ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905001294/a05449e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005372/a09059ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005718/a09502a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005719/a09502b1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005720/a09502c1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905008251/a11621ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011013/a14387ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011285/a14387a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011286/a14387a3e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011287/a14387a4e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011288/a14387a5e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2004-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012906000305/a16062a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012906000307/a16062b2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012906001495/a17140ue13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012906001497/a17140ve13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012906005536/a20533te13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095012906005538/a20533ve13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013406016076/a22881te13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013406016077/a22881ue13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013406019935/a24427a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013406019936/a24427a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013406021611/a24929te13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003309/a27108a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003315/a27108a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003317/a27108a3e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003329/a27108ue13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011634/a30064ae13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011635/a30064be13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2006-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011675/a30064ue13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407018234/a32912ce13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407021307/a34345a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013407024008/a35361te13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002742/a37683ce13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002781/a37683we13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002783/a37683xe13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2007-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013408015283/v42827ve13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2008-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013408020619/v50493ve13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2008-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013408020620/v50493we13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2008-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013409003064/v51307e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2008-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095013409010823/a52403e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2009-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950148-99-001187.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950148-99-001809.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095014808000200/v40691ae13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2008-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000102.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000118.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1998-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000125.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1998-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000128.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000129.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000130.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000438.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000439.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-99-001240.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000664/e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000720/e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000737/e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000752/a65360e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000753/a65359e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000754/a65362e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000937/a66871e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000938/a66872e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000939/a66864e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000940/a66929e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000126/a71082e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000127/a71095e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000128/a71075e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500320/a72386e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500321/a72381a2e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500322/a72376e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500330/a72826e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500528/a74830e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500531/a74828e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500532/a74820e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500764/a76945e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000133/a78911e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000134/a78871e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000136/a78879e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000138/a78868e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000139/a78872e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000498/a81456e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000499/a81459e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000503/a81601e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000505/a81595e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000507/a81460a3e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000747/a83556e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000750/a83552e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001047/a85825e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001048/a85825a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001049/a85825a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001050/a85825a3e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001051/a85825abe13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000203/a87558e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000208/a87726e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2001-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000243/a87859ae13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000244/a87859be13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000245/a87859ce13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000246/a87859de13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000526/a89669ae13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000527/a89669be13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000619/a89669ce13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000940/a92186se13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000957/a92186re13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000977/a92660e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000986/a92698a1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000987/a92698a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000988/a92698a3e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2002-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001058/a93172a2e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001059/a93172a3e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001329/a94337e13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000209/a96383re13fvhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000233/a96383r1e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000249/a96686e13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2003-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000095015006000009/a17140xe13fvhrza.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2005-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581100002809/e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581101000836/a69133e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581101000839/a69131e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "1999-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001369/a69281e13f-hr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001370/a69219e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001371/a69220e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001489/a69789a1e13f-hra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2000-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312511223118/d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310911/d254132d13fhra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310942/d254132d13fhra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310972/d254132d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312511312418/d258700d13fhra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312512060928/d289257d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2011-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312512234582/d352241d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2012-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312512260151/d361607d13fhra.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2012-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312512355534/d392985d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2012-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312512470800/d434976d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2012-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312513060317/d481559d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2012-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312513222307/d535016d13fhr.txt",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2013-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312525282901/46994.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2025-09-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/50240.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2025-12-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/53405.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2026-03-31"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    },
+    {
+      "url": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+      "source_kind": "SEC filing",
+      "observation_dates": [
+        "2026-06-30"
+      ],
+      "evidence_files": [
+        "data/evidence/quarterly_company_holdings.json",
+        "data/evidence/quarterly_ranking_audit.json",
+        "data/evidence/quarterly_rankings.json"
+      ],
+      "locators": []
+    }
+  ]
+}

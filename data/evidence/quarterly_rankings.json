@@ -1,0 +1,4451 @@
+{
+  "schema_version": 2,
+  "coverage": {
+    "from": "1998-12-31",
+    "to": "2026-06-30",
+    "quarters": 111
+  },
+  "methodology": {
+    "data_source": "Existing independently audited, amendment-combined 13F holdings. No re-download and no original dataset changes.",
+    "company_aggregation": "Group by observed issuer and CUSIP issuer prefix; reviewed identity aliases handle changed/as-filed identifiers. Aggregate classes, including common/preferred or tracking classes issued by the same legal issuer, once.",
+    "distinct_issuers": "Liberty Media, Liberty Global, Liberty Latin America, Liberty Live Holdings, Sirius XM, Atlanta Braves and Starz remain distinct issuers when separately listed.",
+    "denominator": "All reported 13F rows, including index-fund positions, retain the exact established total. Funds/options are excluded only from individual-company ranking.",
+    "history": "Later amendments and confidential-treatment releases are included as in the prior audited history; this is not an original-publication-time trading simulation.",
+    "cash": "Cash uses the established allocation_data.json unchanged. Its period-specific accounting scope and payable limitations remain applicable.",
+    "units": "USD integer strings; percentages are stored as dimensionless Decimal fractions."
+  },
+  "rows": [
+    {
+      "date": "1998-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "13399999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5180032000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "4590000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "38316424000",
+      "cash_pool_usd": "14489000000",
+      "total_usd": "52805424000",
+      "first_share_of_total": "0.253761791591712245317829471457326050445121",
+      "second_share_of_total": "0.0980965894715664057540755661766866979422417",
+      "third_share_of_total": "0.0869228888305110475014839384681391820658423",
+      "first_share_of_stocks": "0.349719457118440906698391269498427097476529",
+      "second_share_of_stocks": "0.135190904036347442026427100817132621770758",
+      "third_share_of_stocks": "0.119791972236239999849672819154522353129822",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000118.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000125.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Waddell & Reed."
+      ],
+      "security_count": 30,
+      "company_count": 29
+    },
+    {
+      "date": "1999-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "12275000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5950720000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "5706000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "38074360000",
+      "cash_pool_usd": "15506000000",
+      "total_usd": "53580360000",
+      "first_share_of_total": "0.229095138591827303885229587856445906671773",
+      "second_share_of_total": "0.111061590478302124136530624280986540590619",
+      "third_share_of_total": "0.106494245279427013928237884179949518816223",
+      "first_share_of_stocks": "0.322395438820245435510931766154440941357911",
+      "second_share_of_stocks": "0.156292055861214738737565122565421979515874",
+      "third_share_of_stocks": "0.149864633312286798780071418140712017221038",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950148-99-001187.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000128.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000438.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Waddell & Reed."
+      ],
+      "security_count": 33,
+      "company_count": 32
+    },
+    {
+      "date": "1999-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "12400000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "6576115000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3936000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "37431959000",
+      "cash_pool_usd": "4418000000",
+      "total_usd": "41849959000",
+      "first_share_of_total": "0.296296586574911578766421252646866392390014",
+      "second_share_of_total": "0.157135518340651181999963249665310305321924",
+      "third_share_of_total": "0.0940502713515203204858575847111343645521851",
+      "first_share_of_stocks": "0.331267727665549110053256897401495871482441",
+      "second_share_of_stocks": "0.175681828461075200472409151762535324426916",
+      "third_share_of_stocks": "0.105150788394483975578195092594539334689910",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950148-99-001809.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000130.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000664/e13f-hra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Waddell & Reed."
+      ],
+      "security_count": 32,
+      "company_count": 31
+    },
+    {
+      "date": "1999-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9650000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "6822483000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3258000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "32901212000",
+      "cash_pool_usd": "5564000000",
+      "total_usd": "38465212000",
+      "first_share_of_total": "0.250876038327827232565363217028415182009136",
+      "second_share_of_total": "0.177367617264139867472977920932815864891113",
+      "third_share_of_total": "0.0846999101421824998650728871584017267342762",
+      "first_share_of_stocks": "0.293302264974311584630985630559749592203473",
+      "second_share_of_stocks": "0.207362664937692872833985568677530785188096",
+      "third_share_of_stocks": "0.0990237076980629163448446823174781524765714",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-99-001240.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000129.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000720/e13f-hra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Waddell & Reed."
+      ],
+      "security_count": 34,
+      "company_count": 33
+    },
+    {
+      "date": "1999-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11649999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "8401759000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3954000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "37532132000",
+      "cash_pool_usd": "4458000000",
+      "total_usd": "41990132000",
+      "first_share_of_total": "0.277446115196780043463545196761943972931545",
+      "second_share_of_total": "0.200088892314032258817381188513529797905851",
+      "third_share_of_total": "0.0941649814294463280086854692431069280753869",
+      "first_share_of_stocks": "0.310400672149399879548542566140394049557323",
+      "second_share_of_stocks": "0.223855095681748108527381284921410806079441",
+      "third_share_of_stocks": "0.105349730732056468308275160068178381126870",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000102.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000754/a65362e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000939/a66864e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101000839/a69131e13f-hra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 31,
+      "company_count": 31
+    },
+    {
+      "date": "2000-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9387500000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7526839000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3618000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "34039483000",
+      "cash_pool_usd": "3424000000",
+      "total_usd": "37463483000",
+      "first_share_of_total": "0.250577342208144394903164769810644674975896",
+      "second_share_of_total": "0.200911351461902247583333348904051446577992",
+      "third_share_of_total": "0.0965740425149471553405752476351438012317221",
+      "first_share_of_stocks": "0.275782684478492226218594448100166503703949",
+      "second_share_of_stocks": "0.221120837822360580505879011147143451033025",
+      "third_share_of_stocks": "0.106288335812855912059533924178578152905554",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000439.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000753/a65359e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000937/a66871e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101000836/a69133e13f-hra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 35,
+      "company_count": 35
+    },
+    {
+      "date": "2000-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11487500000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7902708000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3354000000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "34866876000",
+      "cash_pool_usd": "3213000000",
+      "total_usd": "38079876000",
+      "first_share_of_total": "0.301668524340783042465789541961743782989209",
+      "second_share_of_total": "0.207529772418376572444721196045911494039529",
+      "third_share_of_total": "0.0880780179011087115934936342754897626242270",
+      "first_share_of_stocks": "0.329467429201285483677975623626274978004912",
+      "second_share_of_stocks": "0.226653744373312940339134483972696607519412",
+      "third_share_of_stocks": "0.0961944511461250500331604127653994582135778",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581100002809/e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000737/e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000752/a65360e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000938/a66872e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001370/a69219e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000127/a71095e13f-hra.txt"
+      ],
+      "notes": [
+        "0000950150-00-000752: restates only Shaw Communications, replacing USD 340,401,000 with USD 352,745,000; other holdings retained.",
+        "0000950150-00-000938: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset.",
+        "0001095811-01-001370: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 36,
+      "company_count": 36
+    },
+    {
+      "date": "2000-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11026000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "9210350000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2964480000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "36261773000",
+      "cash_pool_usd": "3673000000",
+      "total_usd": "39934773000",
+      "first_share_of_total": "0.276100229742134755592575923744451984239400",
+      "second_share_of_total": "0.230634840468480940157090663818221778799143",
+      "third_share_of_total": "0.0742330499787741375166950366789364246542731",
+      "first_share_of_stocks": "0.304066764744239064096507360519851028795531",
+      "second_share_of_stocks": "0.253996129753501021585458604023581527577264",
+      "third_share_of_stocks": "0.0817522077588429004836580936072816957957351",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000940/a66929e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001371/a69220e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000128/a71075e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500320/a72386e13f-hr.txt"
+      ],
+      "notes": [
+        "0001095811-01-001371: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 37,
+      "company_count": 37
+    },
+    {
+      "date": "2000-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "12187999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "8329492000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3468480000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "37566039000",
+      "cash_pool_usd": "5604000000",
+      "total_usd": "43170039000",
+      "first_share_of_total": "0.282325410917511563980750631242190909301703",
+      "second_share_of_total": "0.192946130996082723020009317109952112853083",
+      "third_share_of_total": "0.0803446112244651898507666393352111634645500",
+      "first_share_of_stocks": "0.324441951412551107664026010301485338925405",
+      "second_share_of_stocks": "0.221729312478220022078984691465608072227152",
+      "third_share_of_stocks": "0.0923302028196265249045820348533418708317904",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001369/a69281e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001489/a69789a1e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000126/a71082e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500321/a72381a2e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500528/a74830e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000136/a78879e13f-hra.txt"
+      ],
+      "notes": [
+        "0001095811-01-001489: cover/summary correction only, adding omitted names to the confidentiality explanation; no information table. Preserve original holdings.",
+        "0000950150-01-000126: Source table rows sum to USD 3,452,079,000 while the summary and grand-total line show USD 3,425,079,000; retain the individually reported holdings and disclose the USD 27,000,000 discrepancy.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp..",
+        "Missing Sealed Air preferred-share name restored through matching CUSIP and adjacent-period issuer names; original source name retained in rank_all."
+      ],
+      "security_count": 41,
+      "company_count": 40
+    },
+    {
+      "date": "2001-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9032000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "6261522000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2992320000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "30603746000",
+      "cash_pool_usd": "6440000000",
+      "total_usd": "37043746000",
+      "first_share_of_total": "0.243819833987631812398238558271077660450431",
+      "second_share_of_total": "0.169030475481610310145199678239884270883404",
+      "third_share_of_total": "0.0807780077101273721075616920599768716695120",
+      "first_share_of_stocks": "0.295127269713975537504461055192393767743334",
+      "second_share_of_stocks": "0.204599855194197468505979627461291830091650",
+      "third_share_of_stocks": "0.0977762656898276439753486386927927058341159",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500322/a72376e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500330/a72826e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500531/a74828e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000139/a78872e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000507/a81460a3e13f-hra.txt"
+      ],
+      "notes": [
+        "0000950150-01-500330: cover/summary correction only, adding omitted names to the confidentiality explanation; no information table. Preserve original holdings.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp..",
+        "Missing Sealed Air preferred-share name restored through matching CUSIP and adjacent-period issuer names; original source name retained in rank_all."
+      ],
+      "security_count": 38,
+      "company_count": 37
+    },
+    {
+      "date": "2001-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9000000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5882496000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2783040000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "29648860000",
+      "cash_pool_usd": "8211000000",
+      "total_usd": "37859860000",
+      "first_share_of_total": "0.237718787127052239495867126819803348454009",
+      "second_share_of_total": "0.155375534933304032291720043338776213118591",
+      "third_share_of_total": "0.0735089881473412738451753387360650567646050",
+      "first_share_of_stocks": "0.303552986522921960574538110402895760578990",
+      "second_share_of_stocks": "0.198405469889904704599097570699176966669208",
+      "third_share_of_stocks": "0.0938666781791947481285958380861861130579725",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500532/a74820e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000134/a78871e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000503/a81601e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000750/a83552e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 37,
+      "company_count": 36
+    },
+    {
+      "date": "2001-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9370000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "4405807000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2860800000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "27476716000",
+      "cash_pool_usd": "6361000000",
+      "total_usd": "33837716000",
+      "first_share_of_total": "0.276909942739634081685655142918038557921581",
+      "second_share_of_total": "0.130204030319304057046876331724044258779168",
+      "third_share_of_total": "0.0845447133606771804574516790672278235327704",
+      "first_share_of_stocks": "0.341016007881000043818919262403847679613532",
+      "second_share_of_stocks": "0.160346927922536303101142072436895297094456",
+      "third_share_of_stocks": "0.104117246034788145715812617490387133600682",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500764/a76945e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000138/a78868e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000498/a81456e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001050/a85825a3e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 34,
+      "company_count": 33
+    },
+    {
+      "date": "2001-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9430000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5410986000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3206400000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "29059814000",
+      "cash_pool_usd": "6498000000",
+      "total_usd": "35557814000",
+      "first_share_of_total": "0.265201904706515423023473827721805395573530",
+      "second_share_of_total": "0.152174315327708278129808542223658630983333",
+      "third_share_of_total": "0.0901742722429449684392859471057472768151608",
+      "first_share_of_stocks": "0.324503109345434901957734485155342012856655",
+      "second_share_of_stocks": "0.186201673555102589438459585460526347484537",
+      "third_share_of_stocks": "0.110337939533955723185289486023551286322755",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000133/a78911e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000499/a81459e13f-hra.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001049/a85825a2e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000208/a87726e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 34,
+      "company_count": 33
+    },
+    {
+      "date": "2002-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10452001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "6209973000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3264960000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "31476149000",
+      "cash_pool_usd": "8545000000",
+      "total_usd": "40021149000",
+      "first_share_of_total": "0.261161942152135612098493224170050689948957",
+      "second_share_of_total": "0.155167284177673159758606630709178289708774",
+      "third_share_of_total": "0.0815808661565413826574544374025843186061450",
+      "first_share_of_stocks": "0.332060983699117703375975250339550749998038",
+      "second_share_of_stocks": "0.197291384025409207460544172668645074719909",
+      "third_share_of_stocks": "0.103728064065270500530417491669644847595556",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000505/a81595e13f-hr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001051/a85825abe13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000243/a87859ae13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp..",
+        "Sealed Air common CUSIP is printed as 81217K100 in the original; grouped with 81211K209 by explicit issuer name. Original CUSIPs and monetary values are preserved."
+      ],
+      "security_count": 31,
+      "company_count": 30
+    },
+    {
+      "date": "2002-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11200001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5506501000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3251520000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "31140289000",
+      "cash_pool_usd": "8723000000",
+      "total_usd": "39863289000",
+      "first_share_of_total": "0.280960284034766925528899534606891067116916",
+      "second_share_of_total": "0.138134638112775892626421266945635118065647",
+      "third_share_of_total": "0.0815667768908882556078099827638406855992239",
+      "first_share_of_stocks": "0.359662718608680863559101843916734362998365",
+      "second_share_of_stocks": "0.176828834183266571482364855380757705877425",
+      "third_share_of_stocks": "0.104415215928150185118705866859488683614979",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000747/a83556e13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001048/a85825a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000244/a87859be13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 30,
+      "company_count": 29
+    },
+    {
+      "date": "2002-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9592000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "4727222000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2841600000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "27862543000",
+      "cash_pool_usd": "10438000000",
+      "total_usd": "38300543000",
+      "first_share_of_total": "0.250440313600775842786354230017052238658862",
+      "second_share_of_total": "0.123424412024654585184340597990999762066037",
+      "third_share_of_total": "0.0741921596255175807820792514612651836293809",
+      "first_share_of_stocks": "0.344261469600962123234767192642825172131632",
+      "second_share_of_stocks": "0.169662259471434463106974837149645673045709",
+      "third_share_of_stocks": "0.101986383654930563947447295101527523887536",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001047/a85825e13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000245/a87859ce13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000527/a89669be13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000977/a92660e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 33,
+      "company_count": 32
+    },
+    {
+      "date": "2002-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8768001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5359437000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2914560000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "28269981000",
+      "cash_pool_usd": "12748000000",
+      "total_usd": "41017981000",
+      "first_share_of_total": "0.213759936160680361132353150195276554445720",
+      "second_share_of_total": "0.130660672937558774528663417148689010314769",
+      "third_share_of_total": "0.0710556670256393165719200074718450915465586",
+      "first_share_of_stocks": "0.310152348528285179958203721466951109730141",
+      "second_share_of_stocks": "0.189580495296406460266103468552030508969921",
+      "third_share_of_stocks": "0.103097345555343670022275572098898828407419",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000203/a87558e13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000246/a87859de13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000526/a89669ae13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000988/a92698a3e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 35,
+      "company_count": 34
+    },
+    {
+      "date": "2003-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8096000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "5038024000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "2970240000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "27339970000",
+      "cash_pool_usd": "19492000000",
+      "total_usd": "46831970000",
+      "first_share_of_total": "0.172873359801007730402970449460059015241084",
+      "second_share_of_total": "0.107576597781387372771207361125316744095967",
+      "third_share_of_total": "0.0634233409356898716838091585726588055125590",
+      "first_share_of_stocks": "0.296123221788465751791241906995508773418552",
+      "second_share_of_stocks": "0.184273208785525368169752929502117229828709",
+      "third_share_of_stocks": "0.108640938523341466724359975523016301773557",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000619/a89669ce13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000940/a92186se13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000987/a92698a2e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001059/a93172a3e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 36,
+      "company_count": 35
+    },
+    {
+      "date": "2003-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9282000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "6338843000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3058560000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "31274726000",
+      "cash_pool_usd": "28444000000",
+      "total_usd": "59718726000",
+      "first_share_of_total": "0.155428633892826179848511838648399833579839",
+      "second_share_of_total": "0.106144980386889030419034726226410121341169",
+      "third_share_of_total": "0.0512160959361390261406447284223712341083767",
+      "first_share_of_stocks": "0.296789170910721967636103350673639794638009",
+      "second_share_of_stocks": "0.202682607035470110913201925414150710704868",
+      "third_share_of_stocks": "0.0977965402478666000143374557462150108045711",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000957/a92186re13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000986/a92698a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001058/a93172a2e13fvhrza.txt"
+      ],
+      "notes": [
+        "0000950150-03-000957: Source table rows sum to USD 29,869,248,000 while the summary and grand-total line show USD 29,889,248,000; retain the individually reported holdings and disclose the USD 20,000,000 discrepancy.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Sealed Air Corp.."
+      ],
+      "security_count": 35,
+      "company_count": 34
+    },
+    {
+      "date": "2003-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8592000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "6831578000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3070080000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "31036994000",
+      "cash_pool_usd": "30745000000",
+      "total_usd": "61781994000",
+      "first_share_of_total": "0.139069645437471636153407415111917559669570",
+      "second_share_of_total": "0.110575550539854702650095754436154974214655",
+      "third_share_of_total": "0.0496921481686071835104577557014427213210373",
+      "first_share_of_stocks": "0.276830932789431863150149141376255703113517",
+      "second_share_of_stocks": "0.220110813566545780818851207046661799786410",
+      "third_share_of_stocks": "0.0989167958726930836149918384493034344756454",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001329/a94337e13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 33,
+      "company_count": 33
+    },
+    {
+      "date": "2003-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10149999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7312184000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3526080000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "34830987000",
+      "cash_pool_usd": "35957000000",
+      "total_usd": "70787987000",
+      "first_share_of_total": "0.143385896818905162538383807975779845244081",
+      "second_share_of_total": "0.103296961954858244521065417498028302457591",
+      "third_share_of_total": "0.0498118416617780076158967481304419632670159",
+      "first_share_of_stocks": "0.291407159952142613701988978951414727351826",
+      "second_share_of_stocks": "0.209933298760669630177290123877339450644910",
+      "third_share_of_stocks": "0.101233996039216459757514192750265733210489",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000209/a96383re13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000233/a96383r1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000249/a96686e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006459/a01452a3e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 30,
+      "company_count": 30
+    },
+    {
+      "date": "2004-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10060001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7861015000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "3753600000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "35843368000",
+      "cash_pool_usd": "40911000000",
+      "total_usd": "76754368000",
+      "first_share_of_total": "0.131067472277278082727487248673586889543537",
+      "second_share_of_total": "0.102417819400193615039602697269294172287367",
+      "third_share_of_total": "0.0489040571606296074250784007497788269196614",
+      "first_share_of_stocks": "0.280665617137318122560357609251452039886430",
+      "second_share_of_stocks": "0.219315746221169840959142009199581914288858",
+      "third_share_of_stocks": "0.104722301765838522763820632034355700055865",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904003325/a98912qe13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904003448/a98912a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006458/a01452a2e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 28,
+      "company_count": 28
+    },
+    {
+      "date": "2004-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10096000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7789757000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "4070400000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "36201008000",
+      "cash_pool_usd": "40201000000",
+      "total_usd": "76402008000",
+      "first_share_of_total": "0.132143123777584484428733862596909756612680",
+      "second_share_of_total": "0.101957490436638785724061074415740486820713",
+      "third_share_of_total": "0.0532760866703922231991598964257588622539868",
+      "first_share_of_stocks": "0.278887261923756377170492048177222026524786",
+      "second_share_of_stocks": "0.215180665687541076204286908254046406663593",
+      "third_share_of_stocks": "0.112438858056107166960654797236585235416649",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006175/a01117e13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006457/a01452a1e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 30,
+      "company_count": 30
+    },
+    {
+      "date": "2004-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8010000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7801887000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "4007040000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "34204155000",
+      "cash_pool_usd": "43017000000",
+      "total_usd": "77221155000",
+      "first_share_of_total": "0.103728052241642850330327227040310391627786",
+      "second_share_of_total": "0.101033026506790788094272871209968304669880",
+      "third_share_of_total": "0.0518904437521039409472702137128096568874164",
+      "first_share_of_stocks": "0.234182075247875587044907263459658629192857",
+      "second_share_of_stocks": "0.228097639014909153580902671035141783213180",
+      "third_share_of_stocks": "0.117150679500779949102674806613407055370904",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012904009025/a03153ae13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005720/a09502c1e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 29,
+      "company_count": 29
+    },
+    {
+      "date": "2004-12-31",
+      "first_name": "American Express Co.",
+      "first_value_usd": "8546296000",
+      "first_company_id": "025816",
+      "first_cusips": [
+        "025816109"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "8328000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "4298880000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "36477717000",
+      "cash_pool_usd": "43427000000",
+      "total_usd": "79904717000",
+      "first_share_of_total": "0.106956088712509926041037101727048229205292",
+      "second_share_of_total": "0.104224134853014997850502367713785908283737",
+      "third_share_of_total": "0.0538000779102940818875561501581940400339569",
+      "first_share_of_stocks": "0.234288127187345633500035103622301801398372",
+      "second_share_of_stocks": "0.228303761444281175820295990563225214999064",
+      "third_share_of_stocks": "0.117849480547261222515652500950100577840439",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905001294/a05449e13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005719/a09502b1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011288/a14387a5e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 30,
+      "company_count": 30
+    },
+    {
+      "date": "2005-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8334000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7788242000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "5097470000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "37392948000",
+      "cash_pool_usd": "46709000000",
+      "total_usd": "84101948000",
+      "first_share_of_total": "0.0990940186070363078867091164166613596155942",
+      "second_share_of_total": "0.0926047753376651870180224600742898369012808",
+      "third_share_of_total": "0.0606106055950095234417162370602878306695108",
+      "first_share_of_stocks": "0.222876249286362765513968034828385288049501",
+      "second_share_of_stocks": "0.208281037376352353925130481822401378997986",
+      "third_share_of_stocks": "0.136321693598482794135407564014476740373613",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005372/a09059ae13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005718/a09502a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011285/a14387a2e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 31,
+      "company_count": 31
+    },
+    {
+      "date": "2005-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8350000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "8070237000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "5112617000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "38955242000",
+      "cash_pool_usd": "47762000000",
+      "total_usd": "86717242000",
+      "first_share_of_total": "0.0962899627273662601031522658435101060986234",
+      "second_share_of_total": "0.0930638107701810903995309260412133494743756",
+      "third_share_of_total": "0.0589573293855448031891973686155747434864222",
+      "first_share_of_stocks": "0.214348559303007282049486433687153066588574",
+      "second_share_of_stocks": "0.207166907087883063337149850076659772772044",
+      "third_share_of_stocks": "0.131243363858450680398802297262073227526093",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905008251/a11621ae13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011286/a14387a3e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012906000307/a16062b2e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 36,
+      "company_count": 36
+    },
+    {
+      "date": "2005-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8638000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7622986000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Gillette Co.",
+      "third_value_usd": "5877036000",
+      "third_company_id": "375766",
+      "third_cusips": [
+        "375766102"
+      ],
+      "stock_total_usd": "42097638000",
+      "cash_pool_usd": "46032000000",
+      "total_usd": "88129638000",
+      "first_share_of_total": "0.0980146996632392839285235688815605937244404",
+      "second_share_of_total": "0.0864974164537019884275480627754308942015625",
+      "third_share_of_total": "0.0666862605290628789375034083312585489117747",
+      "first_share_of_stocks": "0.205189659334331299062431958771653649546799",
+      "second_share_of_stocks": "0.181078710401756982185081262753981589180847",
+      "third_share_of_stocks": "0.139604887096040875262407833902700194248428",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011013/a14387ae13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011287/a14387a4e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012906000305/a16062a2e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012906001497/a17140ve13fvhrza.txt"
+      ],
+      "notes": [
+        "0000950129-05-011287: Source table rows sum to USD 2,798,320,000 while the summary and grand-total line show USD 2,798,328,000; retain the individually reported holdings and disclose the USD 8,000 discrepancy.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 36,
+      "company_count": 36
+    },
+    {
+      "date": "2005-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8062001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7801887000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Procter & Gamble Co.",
+      "third_value_usd": "5787999000",
+      "third_company_id": "742718",
+      "third_cusips": [
+        "742718109"
+      ],
+      "stock_total_usd": "43224069000",
+      "cash_pool_usd": "44660000000",
+      "total_usd": "87884069000",
+      "first_share_of_total": "0.0917344985471712740109928228289020163597569",
+      "second_share_of_total": "0.0887747584832468328247295877936648563689057",
+      "third_share_of_total": "0.0658594790370937422116857151891772330204693",
+      "first_share_of_stocks": "0.186516475346178074997983183859899909006716",
+      "second_share_of_stocks": "0.180498670775303454193542028632241911329542",
+      "third_share_of_stocks": "0.133906851758912378193732755701458833040453",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012906001495/a17140ue13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095015006000009/a17140xe13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012906005538/a20533ve13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 35,
+      "company_count": 35
+    },
+    {
+      "date": "2006-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8373998000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "7967142000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "5913118000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "46060111000",
+      "cash_pool_usd": "42149000000",
+      "total_usd": "88209111000",
+      "first_share_of_total": "0.0949334814178095503082442356776501239197389",
+      "second_share_of_total": "0.0903210780573448926381312243357718456090097",
+      "third_share_of_total": "0.0670352295014060395643257304792472061077682",
+      "first_share_of_stocks": "0.181805858001514586015652459022515165019902",
+      "second_share_of_stocks": "0.172972705167818635955957639789448184351966",
+      "third_share_of_stocks": "0.128378283760540655232029293199054600628296",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012906005536/a20533te13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013406016077/a22881ue13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003315/a27108a2e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 38,
+      "company_count": 38
+    },
+    {
+      "date": "2006-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8604001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "8068722000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "6394119000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "47610473000",
+      "cash_pool_usd": "41675000000",
+      "total_usd": "89285473000",
+      "first_share_of_total": "0.0963650716169695376984786763687750189776113",
+      "second_share_of_total": "0.0903699306157004958690200364397464747708734",
+      "third_share_of_total": "0.0716143263305554756931175130807673494656852",
+      "first_share_of_stocks": "0.180716562089185713403855492046886406694594",
+      "second_share_of_stocks": "0.169473678616887507082737867359561834220803",
+      "third_share_of_stocks": "0.134300682120927469046568808505641185291312",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013406016076/a22881te13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013406019935/a24427a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013406019936/a24427a2e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003317/a27108a3e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 38,
+      "company_count": 38
+    },
+    {
+      "date": "2006-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8935999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "8502328000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "6897413000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "50924699000",
+      "cash_pool_usd": "41816000000",
+      "total_usd": "92740699000",
+      "first_share_of_total": "0.0963546651724072081880685415148747153609442",
+      "second_share_of_total": "0.0916784981316563076584100363530794608308915",
+      "third_share_of_total": "0.0743730969722365366256297033085765290598036",
+      "first_share_of_stocks": "0.175474753419750208047375989399564246810767",
+      "second_share_of_stocks": "0.166958826796403843250993000469182940089641",
+      "third_share_of_stocks": "0.135443372969175527183773830455041079378790",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013406021611/a24929te13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003309/a27108a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011635/a30064be13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 42,
+      "company_count": 42
+    },
+    {
+      "date": "2006-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9649999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "9198221000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "7255026000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "54922647000",
+      "cash_pool_usd": "43400000000",
+      "total_usd": "98322647000",
+      "first_share_of_total": "0.0981462490528758852474750806902096523092996",
+      "second_share_of_total": "0.0935513971669212689117289529440760479119322",
+      "third_share_of_total": "0.0737879442973092455495019372291716271633737",
+      "first_share_of_stocks": "0.175701637249930798127774140237632756483860",
+      "second_share_of_stocks": "0.167475923001307639087387758277564444408515",
+      "third_share_of_stocks": "0.132095344931208432106340395429229767458222",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003329/a27108ue13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011634/a30064ae13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 41,
+      "company_count": 41
+    },
+    {
+      "date": "2007-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9600001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "8550844000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "7996185000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "57503864000",
+      "cash_pool_usd": "45077000000",
+      "total_usd": "102580864000",
+      "first_share_of_total": "0.0935847157614114071022057291309225081200330",
+      "second_share_of_total": "0.0833571064482358035120468472560340298946985",
+      "third_share_of_total": "0.0779500648386038160099723862727457627964608",
+      "first_share_of_stocks": "0.166945320404903573088584099322438575605980",
+      "second_share_of_stocks": "0.148700337772084324629037102619747431233491",
+      "third_share_of_stocks": "0.139054742477827229140636531833756423742238",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011675/a30064ue13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 42,
+      "company_count": 42
+    },
+    {
+      "date": "2007-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10462001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "9275543000",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "9062446000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "64581257000",
+      "cash_pool_usd": "45772000000",
+      "total_usd": "110353257000",
+      "first_share_of_total": "0.0948046417877815785718041833599890939331315",
+      "second_share_of_total": "0.0840531874831750548151016512362657316040976",
+      "third_share_of_total": "0.0821221434361470636068312872722913832982746",
+      "first_share_of_stocks": "0.161997481715166987226649986078778243662863",
+      "second_share_of_stocks": "0.143625928495012105447250740257347422023700",
+      "third_share_of_stocks": "0.140326255959991611807741679602179313419062",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407018234/a32912ce13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407021307/a34345a1e13fvhrza.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002783/a37683xe13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 43,
+      "company_count": 43
+    },
+    {
+      "date": "2007-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11493803000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "9961829000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "9001129000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "69505336000",
+      "cash_pool_usd": "45105000000",
+      "total_usd": "114610336000",
+      "first_share_of_total": "0.100285920111079684820049737922415653680659",
+      "second_share_of_total": "0.0869191152183691355725542938814872683036197",
+      "third_share_of_total": "0.0785367996827092453511348226044813270593675",
+      "first_share_of_stocks": "0.165365764147949734391615630776894596984611",
+      "second_share_of_stocks": "0.143324665030034528572022153809888783215148",
+      "third_share_of_stocks": "0.129502704655654063739796898471219533418269",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013407024008/a35361te13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002781/a37683we13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 40,
+      "company_count": 40
+    },
+    {
+      "date": "2007-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "12274000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8732756000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "7886788000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "68768137000",
+      "cash_pool_usd": "43151000000",
+      "total_usd": "111919137000",
+      "first_share_of_total": "0.109668465367098032573285478425374205664220",
+      "second_share_of_total": "0.0780273707793154266370013199797993438780715",
+      "third_share_of_total": "0.0704686277200296853611371217060045772154230",
+      "first_share_of_stocks": "0.178483823111276084155078972111749951870879",
+      "second_share_of_stocks": "0.126988404528102891605163013213517766229438",
+      "third_share_of_stocks": "0.114686660771397660518271710632498303683870",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002742/a37683ce13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 40,
+      "company_count": 40
+    },
+    {
+      "date": "2008-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "12174000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8458061000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Procter & Gamble Co.",
+      "third_value_usd": "7416700000",
+      "third_company_id": "742718",
+      "third_cusips": [
+        "742718109"
+      ],
+      "stock_total_usd": "66461224000",
+      "cash_pool_usd": "33379000000",
+      "total_usd": "99840224000",
+      "first_share_of_total": "0.121934822582128822146873388425090071913300",
+      "second_share_of_total": "0.0847159657814870287149996778853380777671332",
+      "third_share_of_total": "0.0742856907051811101705861557361890534219955",
+      "first_share_of_stocks": "0.183174477797760691256604001154116571792298",
+      "second_share_of_stocks": "0.127263094041120879747866214441070179507979",
+      "third_share_of_stocks": "0.111594393747548194417845810363047180713975",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095014808000200/v40691ae13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 39,
+      "company_count": 39
+    },
+    {
+      "date": "2008-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10396000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "6903054000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Procter & Gamble Co.",
+      "third_value_usd": "6436556000",
+      "third_company_id": "742718",
+      "third_cusips": [
+        "742718109"
+      ],
+      "stock_total_usd": "63511466000",
+      "cash_pool_usd": "30157000000",
+      "total_usd": "93668466000",
+      "first_share_of_total": "0.110987191783411932891054285014126312263937",
+      "second_share_of_total": "0.0736966696988504114073993696021455075393249",
+      "third_share_of_total": "0.0687163596764785280032236249070204694074952",
+      "first_share_of_stocks": "0.163686978977937621531205089802209887581559",
+      "second_share_of_stocks": "0.108689886012078511933577474026500978579206",
+      "third_share_of_stocks": "0.101344787097183365283994546748456412579108",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013408015283/v42827ve13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013408020619/v50493ve13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 39,
+      "company_count": 39
+    },
+    {
+      "date": "2008-09-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "10899000000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "10576000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "Procter & Gamble Co.",
+      "third_value_usd": "7376477000",
+      "third_company_id": "742718",
+      "third_cusips": [
+        "742718109"
+      ],
+      "stock_total_usd": "69889879000",
+      "cash_pool_usd": "32838000000",
+      "total_usd": "102727879000",
+      "first_share_of_total": "0.106095834023790172870209848292497112687394",
+      "second_share_of_total": "0.102951604792697024339420071157119870059811",
+      "third_share_of_total": "0.0718059894919080340401070677220932401417535",
+      "first_share_of_stocks": "0.155945326504285405902620034583262048572154",
+      "second_share_of_stocks": "0.151323770355933796937894255046571192375365",
+      "third_share_of_stocks": "0.105544280596050252140227628667092126457967",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013408020620/v50493we13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 40,
+      "company_count": 40
+    },
+    {
+      "date": "2008-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9054000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8554419000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Procter & Gamble Co.",
+      "third_value_usd": "5954255000",
+      "third_company_id": "742718",
+      "third_cusips": [
+        "742718109"
+      ],
+      "stock_total_usd": "51869961000",
+      "cash_pool_usd": "25259000000",
+      "total_usd": "77128961000",
+      "first_share_of_total": "0.117387812341981373248370349498160619588795",
+      "second_share_of_total": "0.110910595567338188310354653941208931882280",
+      "third_share_of_total": "0.0771986932379395075735559305667296620266932",
+      "first_share_of_stocks": "0.174551895267474752872862194748902934397811",
+      "second_share_of_stocks": "0.164920482589142490390536441698886181927147",
+      "third_share_of_stocks": "0.114791969864793227818312799579702787900689",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013409003064/v51307e13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 41,
+      "company_count": 41
+    },
+    {
+      "date": "2009-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "8789999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Burlington Northern Santa Fe",
+      "second_value_usd": "4618138000",
+      "second_company_id": "12189T",
+      "second_cusips": [
+        "12189T104"
+      ],
+      "third_name": "Procter & Gamble Co.",
+      "third_value_usd": "4535521000",
+      "third_company_id": "742718",
+      "third_cusips": [
+        "742718109"
+      ],
+      "stock_total_usd": "40871225000",
+      "cash_pool_usd": "24479000000",
+      "total_usd": "65350225000",
+      "first_share_of_total": "0.134506025036639124042801688900076472575267",
+      "second_share_of_total": "0.0706675149167428268227079554814080594213715",
+      "third_share_of_total": "0.0694032958570532848203659589542346640734596",
+      "first_share_of_stocks": "0.215065709432491930447399117594346633848141",
+      "second_share_of_stocks": "0.112992404803134723757362300738477987875333",
+      "third_share_of_stocks": "0.110971007108301745298801296021834432415471",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095013409010823/a52403e13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 41,
+      "company_count": 41
+    },
+    {
+      "date": "2009-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "9597999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "7341299000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Burlington Northern Santa Fe",
+      "third_value_usd": "5646183000",
+      "third_company_id": "12189T",
+      "third_cusips": [
+        "12189T104"
+      ],
+      "stock_total_usd": "49014730000",
+      "cash_pool_usd": "23636000000",
+      "total_usd": "72650730000",
+      "first_share_of_total": "0.132111528679753114662440418699165170122860",
+      "second_share_of_total": "0.101049211756027778385709269542095447630051",
+      "third_share_of_total": "0.0777168102784376702064796871277136513287616",
+      "first_share_of_stocks": "0.195818665123729132038470884160741067022097",
+      "second_share_of_stocks": "0.149777403649882392497112602680867567769934",
+      "third_share_of_stocks": "0.115193595884339258830967751939059951977701",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012309035453/v53429ae13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012309063022/v54313xxe13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "The original table uses ten-character WellPoint CUSIP 949773V107; identity follows its explicit issuer name. No source value or identifier is rewritten."
+      ],
+      "security_count": 42,
+      "company_count": 42
+    },
+    {
+      "date": "2009-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10740000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8830362000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Burlington Northern Santa Fe",
+      "third_value_usd": "6129110000",
+      "third_company_id": "12189T",
+      "third_cusips": [
+        "12189T104"
+      ],
+      "stock_total_usd": "56546051000",
+      "cash_pool_usd": "26175000000",
+      "total_usd": "82721051000",
+      "first_share_of_total": "0.129833940335211650055074856338563686769405",
+      "second_share_of_total": "0.106748667881407841396986119047254368177696",
+      "third_share_of_total": "0.0740937152744831542336182358224631357742299",
+      "first_share_of_stocks": "0.189933687853816705962366850339380905662183",
+      "second_share_of_stocks": "0.156162310963147541461383395279008962093569",
+      "third_share_of_stocks": "0.108391477240382356674208778964953715335488",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012309063028/v54313e13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012309065631/v54467a1e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 43,
+      "company_count": 43
+    },
+    {
+      "date": "2009-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11399999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8639185000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Burlington Northern Santa Fe",
+      "third_value_usd": "7571751000",
+      "third_company_id": "12189T",
+      "third_cusips": [
+        "12189T104"
+      ],
+      "stock_total_usd": "57929532000",
+      "cash_pool_usd": "30129000000",
+      "total_usd": "88058532000",
+      "first_share_of_total": "0.129459335070450640717017630954828999420522",
+      "second_share_of_total": "0.0981073020840274739079229710529355633591530",
+      "third_share_of_total": "0.0859854329617940939555976245436387697219390",
+      "first_share_of_stocks": "0.196790800933796599634190036266821558302940",
+      "second_share_of_stocks": "0.149132656552447204303324943139537188044260",
+      "third_share_of_stocks": "0.130706234602413152586836020011347580021879",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012310013284/v55055ve13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012310013409/v55243a1e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 41,
+      "company_count": 41
+    },
+    {
+      "date": "2010-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11000000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "9961150000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "6255457000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "50934475000",
+      "cash_pool_usd": "23914000000",
+      "total_usd": "74848475000",
+      "first_share_of_total": "0.146963582090349870187735955876188526219138",
+      "second_share_of_total": "0.133084207794480782674596910625099576177070",
+      "third_share_of_total": "0.0835749425756503389013603817579449681506537",
+      "first_share_of_stocks": "0.215963745577037949247538136007095390695595",
+      "second_share_of_stocks": "0.195567933114064688013374045771552568275220",
+      "third_share_of_stocks": "0.122813811274191007171468833241139719217681",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012310050487/v56125ve13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 36,
+      "company_count": 36
+    },
+    {
+      "date": "2010-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "10024000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8194263000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "6018944000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "46440810000",
+      "cash_pool_usd": "25967000000",
+      "total_usd": "72407810000",
+      "first_share_of_total": "0.138438104950280915829383598261016318543538",
+      "second_share_of_total": "0.113168220389485609356228285318945566783473",
+      "third_share_of_total": "0.0831256186314708316685727686005142262968594",
+      "first_share_of_stocks": "0.215844641813956302657081131875176165101341",
+      "second_share_of_stocks": "0.176445307478487132330379250491109005204690",
+      "third_share_of_stocks": "0.129604630065668535927775592200049912996780",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012310078001/v56978ae13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 37,
+      "company_count": 37
+    },
+    {
+      "date": "2010-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "11704001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "8448907000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "6372197000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "48563369000",
+      "cash_pool_usd": "31815000000",
+      "total_usd": "80378369000",
+      "first_share_of_total": "0.145611327346042565257824527392438132204449",
+      "second_share_of_total": "0.105114188121931162848054306750115817851442",
+      "third_share_of_total": "0.0792775105949213774168520388862331854481894",
+      "first_share_of_stocks": "0.241004716950341727733098583008110495793651",
+      "second_share_of_stocks": "0.173976953699402527036375915352989616515279",
+      "third_share_of_stocks": "0.131214063834821673924640607203342914697701",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012310105654/v57789ce13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012311001432/v58285e13fvhrza.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 33,
+      "company_count": 33
+    },
+    {
+      "date": "2010-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "13154000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "10617915000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "6507132000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "52560379000",
+      "cash_pool_usd": "35670000000",
+      "total_usd": "88230379000",
+      "first_share_of_total": "0.149086971506718791268027988409751702415332",
+      "second_share_of_total": "0.120343073670804474272971217770695510669857",
+      "third_share_of_total": "0.0737516043085341387913566595922703675567346",
+      "first_share_of_stocks": "0.250264557643315319320661671788934398665580",
+      "second_share_of_stocks": "0.202013668889259721662204909138878165243063",
+      "third_share_of_stocks": "0.123802988559119788691021425092844174506428",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012311013623/v58511e13fvhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 25,
+      "company_count": 25
+    },
+    {
+      "date": "2011-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "13268001000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "10864604000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "6852803000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "54338419000",
+      "cash_pool_usd": "39021000000",
+      "total_usd": "93359419000",
+      "first_share_of_total": "0.142117433271515967767537199433514041041751",
+      "second_share_of_total": "0.116373946157484120589910697709033514872238",
+      "third_share_of_total": "0.0734023741086049389403333797525025300339540",
+      "first_share_of_stocks": "0.244173482485752851955446108949176456532532",
+      "second_share_of_stocks": "0.199943321869559730841635270985709024769381",
+      "third_share_of_stocks": "0.126113404219581729089320762166451695990640",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012311050728/v59465ae13fvhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310911/d254132d13fhra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 27,
+      "company_count": 27
+    },
+    {
+      "date": "2011-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "13457999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "9886312000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "7838273000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "56621324000",
+      "cash_pool_usd": "45087000000",
+      "total_usd": "101708324000",
+      "first_share_of_total": "0.132319543482006448164458987643921848520481",
+      "second_share_of_total": "0.0972025849133056208850713143203500236617801",
+      "third_share_of_total": "0.0770661897840338023857319682113727486061023",
+      "first_share_of_stocks": "0.237684286577261951698621529938084810591854",
+      "second_share_of_stocks": "0.174604041403199967559924949829855621179046",
+      "third_share_of_stocks": "0.138433234093925461721806434621698355199183",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312511223118/d13fhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310942/d254132d13fhra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 28,
+      "company_count": 28
+    },
+    {
+      "date": "2011-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "13512000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "International Business Machines Corp.",
+      "second_value_usd": "10028617000",
+      "second_company_id": "459200",
+      "second_cusips": [
+        "459200101"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "8716240000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "59054804000",
+      "cash_pool_usd": "31811000000",
+      "total_usd": "90865804000",
+      "first_share_of_total": "0.148702805733166681714498448723350315592871",
+      "second_share_of_total": "0.110367339070702549443132644267363770863679",
+      "third_share_of_total": "0.0959243149381036676899925961145955413545892",
+      "first_share_of_stocks": "0.228804416995440370947637045751603883064280",
+      "second_share_of_stocks": "0.169818817788303894802529528334392575411816",
+      "third_share_of_stocks": "0.147595782385460122770029005599612183963899",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310972/d254132d13fhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312511312418/d258700d13fhra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 33,
+      "company_count": 33
+    },
+    {
+      "date": "2011-12-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "13994002000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "International Business Machines Corp.",
+      "second_value_usd": "11751023000",
+      "second_company_id": "459200",
+      "second_cusips": [
+        "459200101"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "10574872000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "66151587000",
+      "cash_pool_usd": "35053000000",
+      "total_usd": "101204587000",
+      "first_share_of_total": "0.138274384737126588936131916629431035571540",
+      "second_share_of_total": "0.116111565180341084737591982861409236322460",
+      "third_share_of_total": "0.104490046483762638149988201621730841112963",
+      "first_share_of_stocks": "0.211544463778321750618016163391514703948070",
+      "second_share_of_stocks": "0.177637809354445268259399430583577684991896",
+      "third_share_of_stocks": "0.159858175435760898676550269307975937145695",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512060928/d289257d13fhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 34,
+      "company_count": 34
+    },
+    {
+      "date": "2012-03-31",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "14802000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "13462596000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "13436163000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "75302369000",
+      "cash_pool_usd": "35168000000",
+      "total_usd": "110470369000",
+      "first_share_of_total": "0.133990681247747076865471500326028602294250",
+      "second_share_of_total": "0.121866126834427429132602969761058732409955",
+      "third_share_of_total": "0.121626850001741190888934208230987261389522",
+      "first_share_of_stocks": "0.196567521003223683440822426184228015455928",
+      "second_share_of_stocks": "0.178780510876092092135906109408058596403521",
+      "third_share_of_stocks": "0.178429486063048029737284892059637592543735",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512234582/d352241d13fhr.txt",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512260151/d361607d13fhra.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 36,
+      "company_count": 36
+    },
+    {
+      "date": "2012-06-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "15637999000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "13745352000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "13034507000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "74321382000",
+      "cash_pool_usd": "38063000000",
+      "total_usd": "112384382000",
+      "first_share_of_total": "0.139147439543690332345289757432665332448062",
+      "second_share_of_total": "0.122306603065183914967828892808255154172579",
+      "third_share_of_total": "0.115981480416024354700815990606239219253793",
+      "first_share_of_stocks": "0.210410498017918988643133681233214958247143",
+      "second_share_of_stocks": "0.184944784799615270878574351591040112790152",
+      "third_share_of_stocks": "0.175380309801020653787089158272110709674371",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512355534/d392985d13fhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 37,
+      "company_count": 37
+    },
+    {
+      "date": "2012-09-30",
+      "first_name": "Coca-Cola Co.",
+      "first_value_usd": "15172000000",
+      "first_company_id": "191216",
+      "first_cusips": [
+        "191216100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "14590638000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "14006587000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "75326633000",
+      "cash_pool_usd": "43657000000",
+      "total_usd": "118983633000",
+      "first_share_of_total": "0.127513336224991549888210254934811076074640",
+      "second_share_of_total": "0.122627269248031786018838406119268521578930",
+      "third_share_of_total": "0.117718602524096738582524203139771333087468",
+      "first_share_of_stocks": "0.201416144539475168098911310691399149620825",
+      "second_share_of_stocks": "0.193698263401737337708961450593444154074960",
+      "third_share_of_stocks": "0.185944684398677423959730152813281857427505",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312512470800/d434976d13fhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 38,
+      "company_count": 38
+    },
+    {
+      "date": "2012-12-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "15034342000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "14500000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "13047521000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "75313620000",
+      "cash_pool_usd": "44422000000",
+      "total_usd": "119735620000",
+      "first_share_of_total": "0.125562819151059642903256357631922731097062",
+      "second_share_of_total": "0.121100137118762152816346547501904612846202",
+      "third_share_of_total": "0.108969419459305426405275222193696412145358",
+      "first_share_of_stocks": "0.199623149172752551264963760870875679591553",
+      "second_share_of_stocks": "0.192528257173138138891743618219387144051766",
+      "third_share_of_stocks": "0.173242515762753138144202867954030094423824",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312513060317/d481559d13fhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 41,
+      "company_count": 41
+    },
+    {
+      "date": "2013-03-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "16947720000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "16176000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "14530420000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "85001344000",
+      "cash_pool_usd": "46086000000",
+      "total_usd": "131087344000",
+      "first_share_of_total": "0.129285707398267219450262109208650989221355",
+      "second_share_of_total": "0.123398640222659481147165511264001199078379",
+      "third_share_of_total": "0.110845330728495040680662505451327170073718",
+      "first_share_of_stocks": "0.199381788598542630102413439486321533927746",
+      "second_share_of_stocks": "0.190302873328685249964988788883149894665195",
+      "third_share_of_stocks": "0.170943414730007092593735929634242018573259",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312513222307/d535016d13fhr.txt"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 41,
+      "company_count": 41
+    },
+    {
+      "date": "2013-06-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "19113442000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "16044001000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "13018792000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "91854111000",
+      "cash_pool_usd": "33131000000",
+      "total_usd": "124985111000",
+      "first_share_of_total": "0.152925751292087903174322899949258756108958",
+      "second_share_of_total": "0.128367298085609573127474359725935675650198",
+      "third_share_of_total": "0.104162743032648104781056681223413883274465",
+      "first_share_of_stocks": "0.208084774779432572157821003787190319658093",
+      "second_share_of_stocks": "0.174668295466927985400675207667079810940634",
+      "third_share_of_stocks": "0.141733362375038391041637755331386311060155",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012313006925/form13fInfoTable.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012313009874/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 43,
+      "company_count": 43
+    },
+    {
+      "date": "2013-09-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "19136598000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "15152001000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "12614828000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "92035233000",
+      "cash_pool_usd": "37388000000",
+      "total_usd": "129423233000",
+      "first_share_of_total": "0.147860608612674665606599396261411581334860",
+      "second_share_of_total": "0.117073269217436408809228247296217673684600",
+      "third_share_of_total": "0.0974695787424812668680591528724985567313096",
+      "first_share_of_stocks": "0.207926870788711970773192914065855627268309",
+      "second_share_of_stocks": "0.164632614120724831543589399072852893195805",
+      "third_share_of_stocks": "0.137065204148502563143399658693752641447651",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012313009777/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 43,
+      "company_count": 43
+    },
+    {
+      "date": "2013-12-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "21040998000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "16524000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "13755639000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "104836593000",
+      "cash_pool_usd": "44786000000",
+      "total_usd": "149622593000",
+      "first_share_of_total": "0.140627144458056544976466221247749663047211",
+      "second_share_of_total": "0.110437866826703103588105841742764075743561",
+      "third_share_of_total": "0.0919355741950014193377867739533159941961439",
+      "first_share_of_stocks": "0.200702802312547489978046119831459994126288",
+      "second_share_of_stocks": "0.157616720718881049482407349884023796919841",
+      "third_share_of_stocks": "0.131210282653882123010235557731258969852254",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012314002615/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again."
+      ],
+      "security_count": 43,
+      "company_count": 43
+    },
+    {
+      "date": "2014-03-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "23052408000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "15464001000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "13649511000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "105772705000",
+      "cash_pool_usd": "45101000000",
+      "total_usd": "150873705000",
+      "first_share_of_total": "0.152792748080256927474539052381592935627848",
+      "second_share_of_total": "0.102496329628811064194386954307246580840578",
+      "third_share_of_total": "0.0904697806685399553222345802404733150816439",
+      "first_share_of_stocks": "0.217942880443494377873762422923759017035633",
+      "second_share_of_stocks": "0.146200298082572436811557386189565635104066",
+      "third_share_of_stocks": "0.129045683383061821100254550547799642639375",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012314006252/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc."
+      ],
+      "security_count": 45,
+      "company_count": 44
+    },
+    {
+      "date": "2014-06-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "24359359000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "16944000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "14383308000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "107580386000",
+      "cash_pool_usd": "52045000000",
+      "total_usd": "159625386000",
+      "first_share_of_total": "0.152603289554457208955472784260017388462259",
+      "second_share_of_total": "0.106148529532764919985847363902380790484040",
+      "third_share_of_total": "0.0901066450670947790221788406513234680603999",
+      "first_share_of_stocks": "0.226429369755189389262834583991918378132609",
+      "second_share_of_stocks": "0.157500829193901572355391994968302121541003",
+      "third_share_of_stocks": "0.133698237520731706614252155592749035126161",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012314009048/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc."
+      ],
+      "security_count": 46,
+      "company_count": 45
+    },
+    {
+      "date": "2014-09-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "24039574000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "17064001000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "13378840000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "108405828000",
+      "cash_pool_usd": "58429000000",
+      "total_usd": "166834828000",
+      "first_share_of_total": "0.144092059722685721233218761732412371354499",
+      "second_share_of_total": "0.102280807937776637381734226381076737766050",
+      "third_share_of_total": "0.0801921287082814626691736092418304887754013",
+      "first_share_of_stocks": "0.221755365403417240630273125168141329080573",
+      "second_share_of_stocks": "0.157408520508694421853408102745177131989620",
+      "third_share_of_stocks": "0.123414397978676939767481873760514056495191",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012314012218/form13fInfoTable.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012315002964/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc, Liberty Media Corp.."
+      ],
+      "security_count": 48,
+      "company_count": 46
+    },
+    {
+      "date": "2014-12-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "25406775000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "16887999000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "14105859000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "109365274000",
+      "cash_pool_usd": "60268000000",
+      "total_usd": "169633274000",
+      "first_share_of_total": "0.149774713420905853647557377215981812624804",
+      "second_share_of_total": "0.0995559338199179012485486780146682778757191",
+      "third_share_of_total": "0.0831550241729107934331327001328760535506731",
+      "first_share_of_stocks": "0.232311172191641013947443683083535272814294",
+      "second_share_of_stocks": "0.154418293689823334598878250878793573909027",
+      "third_share_of_stocks": "0.128979322997901509395020580298642144854865",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012315002961/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc, Liberty Media Corp.."
+      ],
+      "security_count": 47,
+      "company_count": 45
+    },
+    {
+      "date": "2015-03-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "25583903000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "16220000000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "12770201000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "107133479000",
+      "cash_pool_usd": "60189000000",
+      "total_usd": "167322479000",
+      "first_share_of_total": "0.152901768805373723873646409458229458816469",
+      "second_share_of_total": "0.0969385589846538192874849768392446540312136",
+      "third_share_of_total": "0.0763208929028597526337151626829530776913722",
+      "first_share_of_stocks": "0.238803997021323278412343913521187900562811",
+      "second_share_of_stocks": "0.151399918600608498861499681159425430401639",
+      "third_share_of_stocks": "0.119198976073576402760149327363857940242938",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012315006438/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc, Liberty Media Corp.."
+      ],
+      "security_count": 47,
+      "company_count": 45
+    },
+    {
+      "date": "2015-06-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "26449243000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Coca-Cola Co.",
+      "second_value_usd": "15692001000",
+      "second_company_id": "191216",
+      "second_cusips": [
+        "191216100"
+      ],
+      "third_name": "International Business Machines Corp.",
+      "third_value_usd": "12942062000",
+      "third_company_id": "459200",
+      "third_cusips": [
+        "459200101"
+      ],
+      "stock_total_usd": "109574892000",
+      "cash_pool_usd": "62727000000",
+      "total_usd": "172301892000",
+      "first_share_of_total": "0.153505238352228889047834715593256515140298",
+      "second_share_of_total": "0.0910727143959626398066482055809346539270735",
+      "third_share_of_total": "0.0751127097315913396934724315157258981230456",
+      "first_share_of_stocks": "0.241380507132966190831381335059860246086302",
+      "second_share_of_stocks": "0.143207998781326656475280851748409663045801",
+      "third_share_of_stocks": "0.118111565193237881539504506196547289318798",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012315009404/form13fInfoTable.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012315009742/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc, Liberty Media Corp.."
+      ],
+      "security_count": 47,
+      "company_count": 45
+    },
+    {
+      "date": "2015-09-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "24149513000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Kraft Heinz Co.",
+      "second_value_usd": "22983305000",
+      "second_company_id": "500754",
+      "second_cusips": [
+        "500754106"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "16047999000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "127407562000",
+      "cash_pool_usd": "61569000000",
+      "total_usd": "188976562000",
+      "first_share_of_total": "0.127791048500501347886728937316575798431554",
+      "second_share_of_total": "0.121619870510714445106690003176161073350461",
+      "third_share_of_total": "0.0849205786694330908612889253430274596698399",
+      "first_share_of_stocks": "0.189545366231872484931467411643902266962773",
+      "second_share_of_stocks": "0.180392000594124860500823334175407892978911",
+      "third_share_of_stocks": "0.125957978852150078815572972034422886139207",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012315011992/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Global plc, Liberty Media Corp.."
+      ],
+      "security_count": 48,
+      "company_count": 44
+    },
+    {
+      "date": "2015-12-31",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "26076724000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Kraft Heinz Co.",
+      "second_value_usd": "23693189000",
+      "second_company_id": "500754",
+      "second_cusips": [
+        "500754106"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "17184000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "131855536000",
+      "cash_pool_usd": "68293000000",
+      "total_usd": "200148536000",
+      "first_share_of_total": "0.130286858555887713313076644237857428045339",
+      "second_share_of_total": "0.118378028006160384805412716084018720976305",
+      "third_share_of_total": "0.0858562362904318220943669555494525325930938",
+      "first_share_of_stocks": "0.197767380809858449932659634404732160809691",
+      "second_share_of_stocks": "0.179690513714949367010270998405406353207650",
+      "third_share_of_stocks": "0.130324448417546912857720285631389796178145",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012316015025/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 48,
+      "company_count": 44
+    },
+    {
+      "date": "2016-03-31",
+      "first_name": "Kraft Heinz Co.",
+      "first_value_usd": "25581871000",
+      "first_company_id": "500754",
+      "first_cusips": [
+        "500754106"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "23198499000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "18556000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "128569639000",
+      "cash_pool_usd": "55650000000",
+      "total_usd": "184219639000",
+      "first_share_of_total": "0.138866144450538196961725671387294380703894",
+      "second_share_of_total": "0.125928479319189198932259334196176554227207",
+      "third_share_of_total": "0.100727588549883109910990543196102995294655",
+      "first_share_of_stocks": "0.198972877259148250389036248285646971444013",
+      "second_share_of_stocks": "0.180435281458634258123723906543752526208773",
+      "third_share_of_stocks": "0.144326453308311770246162081858221597713283",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012316017295/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 47,
+      "company_count": 43
+    },
+    {
+      "date": "2016-06-30",
+      "first_name": "Kraft Heinz Co.",
+      "first_value_usd": "28812169000",
+      "first_company_id": "500754",
+      "first_cusips": [
+        "500754106"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "22704405000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "18132000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "129704731000",
+      "cash_pool_usd": "69643000000",
+      "total_usd": "199347731000",
+      "first_share_of_total": "0.144532214414820703427018188634411896065173",
+      "second_share_of_total": "0.113893470901858421453515314904687829128088",
+      "third_share_of_total": "0.0909566409862974562775434850572741156507069",
+      "first_share_of_stocks": "0.222136608108766672512508429626980992697946",
+      "second_share_of_stocks": "0.175046853148325021390314590760764154393104",
+      "third_share_of_stocks": "0.139794438184371239318942036123570542696704",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012316020120/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 49,
+      "company_count": 43
+    },
+    {
+      "date": "2016-09-30",
+      "first_name": "Kraft Heinz Co.",
+      "first_value_usd": "29147573000",
+      "first_company_id": "500754",
+      "first_cusips": [
+        "500754106"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "21241306000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "16928001000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "128787110000",
+      "cash_pool_usd": "80942000000",
+      "total_usd": "209729110000",
+      "first_share_of_total": "0.138977240689191881851784904823178813851830",
+      "second_share_of_total": "0.101279722209282249850771788427462453829132",
+      "third_share_of_total": "0.0807136453303978641782249493167638960562032",
+      "first_share_of_stocks": "0.226323682548665002266142939305028274957020",
+      "second_share_of_stocks": "0.164933478202904001805770779389334848805909",
+      "third_share_of_stocks": "0.131441733571007222694879945671581573652829",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012316022377/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 50,
+      "company_count": 44
+    },
+    {
+      "date": "2016-12-31",
+      "first_name": "Kraft Heinz Co.",
+      "first_value_usd": "28434432000",
+      "first_company_id": "500754",
+      "first_cusips": [
+        "500754106"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "26436503000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "16584000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "147985198000",
+      "cash_pool_usd": "82431000000",
+      "total_usd": "230416198000",
+      "first_share_of_total": "0.123404657514572825301110124210972355337623",
+      "second_share_of_total": "0.114733700275707179232251718692103408459157",
+      "third_share_of_total": "0.0719741066120707364505684622050746623290781",
+      "first_share_of_stocks": "0.192143757512829087136133709805219843676528",
+      "second_share_of_stocks": "0.178642886973060643538146294874707671776741",
+      "third_share_of_stocks": "0.112065262094658953661027638723705326258373",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012317002417/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 47,
+      "company_count": 43
+    },
+    {
+      "date": "2017-03-31",
+      "first_name": "Kraft Heinz Co.",
+      "first_value_usd": "29570898000",
+      "first_company_id": "500754",
+      "first_cusips": [
+        "500754106"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "26700340000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Apple Inc.",
+      "third_value_usd": "18583441000",
+      "third_company_id": "037833",
+      "third_cusips": [
+        "037833100"
+      ],
+      "stock_total_usd": "161873831000",
+      "cash_pool_usd": "90880000000",
+      "total_usd": "252753831000",
+      "first_share_of_total": "0.116994855757497895254454125365957361097328",
+      "second_share_of_total": "0.105637726219073609214651231141972285278635",
+      "third_share_of_total": "0.0735238746984610492412279203000487854128708",
+      "first_share_of_stocks": "0.182678681398477558735234974453653351788530",
+      "second_share_of_stocks": "0.164945376501282656367106058050853198130586",
+      "third_share_of_stocks": "0.114802008979450174376857739284616053845047",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012317005259/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 46,
+      "company_count": 42
+    },
+    {
+      "date": "2017-06-30",
+      "first_name": "Kraft Heinz Co.",
+      "first_value_usd": "27887366000",
+      "first_company_id": "500754",
+      "first_cusips": [
+        "500754106"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "25931175000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Apple Inc.",
+      "third_value_usd": "18750246000",
+      "third_company_id": "037833",
+      "third_cusips": [
+        "037833100"
+      ],
+      "stock_total_usd": "162143689000",
+      "cash_pool_usd": "94787000000",
+      "total_usd": "256930689000",
+      "first_share_of_total": "0.108540424300967799140568996022113963972595",
+      "second_share_of_total": "0.100926732812365594831686299646361046422134",
+      "third_share_of_total": "0.0729778372251981155898429867986692706841260",
+      "first_share_of_stocks": "0.171991683253240895487458657734128646844836",
+      "second_share_of_stocks": "0.159927131052260689591193401304690927563638",
+      "third_share_of_stocks": "0.115639690422980323335310324659012784641899",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012317007953/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 47,
+      "company_count": 43
+    },
+    {
+      "date": "2017-09-30",
+      "first_name": "Wells Fargo & Co.",
+      "first_value_usd": "25602410000",
+      "first_company_id": "949746",
+      "first_cusips": [
+        "949746101"
+      ],
+      "second_name": "Kraft Heinz Co.",
+      "second_value_usd": "25252980000",
+      "second_company_id": "500754",
+      "second_cusips": [
+        "500754106"
+      ],
+      "third_name": "Apple Inc.",
+      "third_value_usd": "20666379000",
+      "third_company_id": "037833",
+      "third_cusips": [
+        "037833100"
+      ],
+      "stock_total_usd": "177678767000",
+      "cash_pool_usd": "104852000000",
+      "total_usd": "282530767000",
+      "first_share_of_total": "0.0906181308034321090417738468816035175383218",
+      "second_share_of_total": "0.0893813451474472512935201850069659846992876",
+      "third_share_of_total": "0.0731473574345267678404738128927388640827213",
+      "first_share_of_stocks": "0.144093807224585253903748667954230006560097",
+      "second_share_of_stocks": "0.142127168183241613782698075566902149878156",
+      "third_share_of_stocks": "0.116313160817915851475939159348173549628471",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012317010896/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 47,
+      "company_count": 43
+    },
+    {
+      "date": "2017-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "27979467000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "27800952000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Kraft Heinz Co.",
+      "third_value_usd": "25321363000",
+      "third_company_id": "500754",
+      "third_cusips": [
+        "500754106"
+      ],
+      "stock_total_usd": "191242697000",
+      "cash_pool_usd": "113044000000",
+      "total_usd": "304286697000",
+      "first_share_of_total": "0.0919510030371127266204476891738714426940590",
+      "second_share_of_total": "0.0913643359177151277172002034646950076821794",
+      "third_share_of_total": "0.0832154781975236991711142731947956305168346",
+      "first_share_of_stocks": "0.146303453354875036090920637874083108125169",
+      "second_share_of_stocks": "0.145370005945900250507343556235248031458163",
+      "third_share_of_stocks": "0.132404339602050268094681806333237394157854",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012318002390/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc."
+      ],
+      "security_count": 48,
+      "company_count": 44
+    },
+    {
+      "date": "2018-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "40194658000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "23925858000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Bank of America Corp.",
+      "third_value_usd": "20363209000",
+      "third_company_id": "060505",
+      "third_cusips": [
+        "060505104"
+      ],
+      "stock_total_usd": "188943876000",
+      "cash_pool_usd": "105012000000",
+      "total_usd": "293955876000",
+      "first_share_of_total": "0.136737045528560891907464370605063189823768",
+      "second_share_of_total": "0.0813926849347961324644519097825416492099651",
+      "third_share_of_total": "0.0692730122530362345946097025799885694409456",
+      "first_share_of_stocks": "0.212733319813974812287644612519751632490063",
+      "second_share_of_stocks": "0.126629444184790620046346461104672162012809",
+      "third_share_of_stocks": "0.107773850262286352165232388902617833456534",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012318005732/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 46,
+      "company_count": 43
+    },
+    {
+      "date": "2018-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "46639553000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Wells Fargo & Co.",
+      "second_value_usd": "25059643000",
+      "second_company_id": "949746",
+      "second_cusips": [
+        "949746101"
+      ],
+      "third_name": "Kraft Heinz Co.",
+      "third_value_usd": "20456379000",
+      "third_company_id": "500754",
+      "third_cusips": [
+        "500754106"
+      ],
+      "stock_total_usd": "195615793000",
+      "cash_pool_usd": "107736000000",
+      "total_usd": "303351793000",
+      "first_share_of_total": "0.153747411672625254600028027525124929787377",
+      "second_share_of_total": "0.0826091804243926127049461678968879541120761",
+      "third_share_of_total": "0.0674345082905114063393717933290738782612041",
+      "first_share_of_stocks": "0.238424271807133690887626849228886135998232",
+      "second_share_of_stocks": "0.128106440771885938677763098606256193230779",
+      "third_share_of_stocks": "0.104574271260398693882553746567895977601359",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012318008866/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 44,
+      "company_count": 41
+    },
+    {
+      "date": "2018-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "56994561000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "25843745000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "23250531000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "221020177000",
+      "cash_pool_usd": "100346000000",
+      "total_usd": "321366177000",
+      "first_share_of_total": "0.177350838635392547859820356888397748217293",
+      "second_share_of_total": "0.0804183727150601788438986844592547149104618",
+      "third_share_of_total": "0.0723490294375316292230715990998642025728800",
+      "first_share_of_stocks": "0.257870397959187228413087371656570522065956",
+      "second_share_of_stocks": "0.116929347133768696601849160585913384731386",
+      "third_share_of_stocks": "0.105196418334241040807781092311766631152413",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012318011885/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 46,
+      "company_count": 43
+    },
+    {
+      "date": "2018-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "39370221000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "22081569000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "19665511000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "183066067000",
+      "cash_pool_usd": "107175000000",
+      "total_usd": "290241067000",
+      "first_share_of_total": "0.135646624397229079922035981214195302003903",
+      "second_share_of_total": "0.0760800986167818904827827138604062532611899",
+      "third_share_of_total": "0.0677557838498436887292727600122831687357324",
+      "first_share_of_stocks": "0.215060178247015051675305833713027767183090",
+      "second_share_of_stocks": "0.120620764742818230753818510778406573840907",
+      "third_share_of_stocks": "0.107423026682492719964317581586542742517104",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012319002221/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 48,
+      "company_count": 45
+    },
+    {
+      "date": "2019-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "47409494000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "24725263000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Wells Fargo & Co.",
+      "third_value_usd": "19801718000",
+      "third_company_id": "949746",
+      "third_cusips": [
+        "949746101"
+      ],
+      "stock_total_usd": "199483708000",
+      "cash_pool_usd": "110516000000",
+      "total_usd": "309999708000",
+      "first_share_of_total": "0.152933995666860434591119034215348357682969",
+      "second_share_of_total": "0.0797589880310467905343962453022697685895885",
+      "third_share_of_total": "0.0638765698450270798319590675227345698015948",
+      "first_share_of_stocks": "0.237660982319418285527357452168474831037330",
+      "second_share_of_stocks": "0.123946277357146379091770241206865875984218",
+      "third_share_of_stocks": "0.0992648382092436340716104996404017114019156",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012319005436/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 48,
+      "company_count": 45
+    },
+    {
+      "date": "2019-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "49398720000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "26890210000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "20368000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "208101077000",
+      "cash_pool_usd": "119120000000",
+      "total_usd": "327221077000",
+      "first_share_of_total": "0.150964358570337448036698442869558796788631",
+      "second_share_of_total": "0.0821774998314060313419236133129651669718085",
+      "third_share_of_total": "0.0622453791385815895960760498322056436480710",
+      "first_share_of_stocks": "0.237378492760035066997755134155312420607991",
+      "second_share_of_stocks": "0.129217063110153918136617812890992390202767",
+      "third_share_of_stocks": "0.0978755145990907101360172201319265637438292",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012319008356/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 47,
+      "company_count": 44
+    },
+    {
+      "date": "2019-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "55732400000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "27047843000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "21776000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "214673311000",
+      "cash_pool_usd": "116319000000",
+      "total_usd": "330992311000",
+      "first_share_of_total": "0.168379742210990514519837290117594302666445",
+      "second_share_of_total": "0.0817174360282949291834153815131977491767173",
+      "third_share_of_total": "0.0657900479144362963766853182278303739811044",
+      "first_share_of_stocks": "0.259614945800132555835038105878005487137616",
+      "second_share_of_stocks": "0.125995368842100730444316853155537345767216",
+      "third_share_of_stocks": "0.101437854098220900873886460902445390614952",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012319011362/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd.."
+      ],
+      "security_count": 48,
+      "company_count": 45
+    },
+    {
+      "date": "2019-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "71989933000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "32578803000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "22140000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "242050717000",
+      "cash_pool_usd": "124973000000",
+      "total_usd": "367023717000",
+      "first_share_of_total": "0.196145179904000590784709425194993597648078",
+      "second_share_of_total": "0.0887648440441248106045419402692169890481492",
+      "third_share_of_total": "0.0603230771596158185058106204073999937175722",
+      "first_share_of_stocks": "0.297416731056409140899177753726711745290967",
+      "second_share_of_stocks": "0.134594945240339858195916849938519289740422",
+      "third_share_of_stocks": "0.0914684338654530818844878695401674848168287",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012320002466/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 52,
+      "company_count": 47
+    },
+    {
+      "date": "2020-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "62340609000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "19637932000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "17700001000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "175526846000",
+      "cash_pool_usd": "124710000000",
+      "total_usd": "300236846000",
+      "first_share_of_total": "0.207638102486594866507490556305670757012948",
+      "second_share_of_total": "0.0654081344832672536135021882024433470101135",
+      "third_share_of_total": "0.0589534603624233382734109856722915347971648",
+      "first_share_of_stocks": "0.355162816518676578966159968487099688443100",
+      "second_share_of_stocks": "0.111879934309307876471499977843845037812620",
+      "third_share_of_stocks": "0.100839281302872610153320934166389567553672",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012320005345/form13fInfoTable.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 50,
+      "company_count": 45
+    },
+    {
+      "date": "2020-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "89432750000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "21968954000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "17871999000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "202411166000",
+      "cash_pool_usd": "141722000000",
+      "total_usd": "344133166000",
+      "first_share_of_total": "0.259878322800191830391610670852922092373974",
+      "second_share_of_total": "0.0638385258106741156125591219533894039146462",
+      "third_share_of_total": "0.0519333815096450192191007826313375444899722",
+      "first_share_of_stocks": "0.441837037784763316861679458928664044156536",
+      "second_share_of_stocks": "0.108536275118340062326403475191679889833746",
+      "third_share_of_stocks": "0.0882955192303966076654091306405497412133874",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/960.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 44,
+      "company_count": 39
+    },
+    {
+      "date": "2020-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "109358868000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "24333323000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "19748000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "235935559000",
+      "cash_pool_usd": "135189000000",
+      "total_usd": "371124559000",
+      "first_share_of_total": "0.294668906565140573194995699543559444148777",
+      "second_share_of_total": "0.0655664585107664621030913774693094347334745",
+      "third_share_of_total": "0.0532112454460336590120407526034945049271180",
+      "first_share_of_stocks": "0.463511598097004106108481935103305051189846",
+      "second_share_of_stocks": "0.103135462509913565000178714053018180273538",
+      "third_share_of_stocks": "0.0837008210364763202141988270619266848199003",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012320012127/1653.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012321002781/3281.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 52,
+      "company_count": 47
+    },
+    {
+      "date": "2020-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "117714016000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "30616150000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "21935999000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "269927528000",
+      "cash_pool_usd": "135014000000",
+      "total_usd": "404941528000",
+      "first_share_of_total": "0.290693860373836491277328315904413735506031",
+      "second_share_of_total": "0.0756063477885626983656761427541212814310317",
+      "third_share_of_total": "0.0541707814171136332552190102863443534000790",
+      "first_share_of_stocks": "0.436094891366544874963623569360439591770722",
+      "second_share_of_stocks": "0.113423592720783928343907183857142573468831",
+      "third_share_of_stocks": "0.0812662538072070959728123765131505964815860",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012321002786/3286.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 47,
+      "company_count": 42
+    },
+    {
+      "date": "2021-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "108363609000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "39080793000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "21443817000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "270435200000",
+      "cash_pool_usd": "138127000000",
+      "total_usd": "408562200000",
+      "first_share_of_total": "0.265231607329312403350089655871248000916384",
+      "second_share_of_total": "0.0956544511459944165172402145866651393594415",
+      "third_share_of_total": "0.0524860523073353335183724779238020551093567",
+      "first_share_of_stocks": "0.400700829625729195016033415768361515069044",
+      "second_share_of_stocks": "0.144510747861225165954727786915312799517223",
+      "third_share_of_stocks": "0.0792937346913419554850847818627160961294979",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012321007024/4471.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Global plc, Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 46,
+      "company_count": 41
+    },
+    {
+      "date": "2021-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "121502087000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "41646448000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "25050635000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "293023412000",
+      "cash_pool_usd": "140684000000",
+      "total_usd": "433707412000",
+      "first_share_of_total": "0.280147591759395617615130820037726263253255",
+      "second_share_of_total": "0.0960242939080782875806604845388254512929560",
+      "third_share_of_total": "0.0577592964908794318691514545755561124696665",
+      "first_share_of_stocks": "0.414649758429541459301552327839251288221297",
+      "second_share_of_stocks": "0.142126691228344580193476144493191554263930",
+      "third_share_of_stocks": "0.0854902167339447948275204712994059327928377",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012321011396/5309.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 44,
+      "company_count": 40
+    },
+    {
+      "date": "2021-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "125529681000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "42878771000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "25399340000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "293447417000",
+      "cash_pool_usd": "144365000000",
+      "total_usd": "437812417000",
+      "first_share_of_total": "0.286720239366806263971266031954502560396774",
+      "second_share_of_total": "0.0979386818076473148544802465024650043217025",
+      "third_share_of_total": "0.0580142065728574345117306254929722561980237",
+      "first_share_of_stocks": "0.427775723103400157037333881183898783474383",
+      "second_share_of_stocks": "0.146120798875527331699089380636804174016635",
+      "third_share_of_stocks": "0.0865549959841697976165862792378915367995895",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012321015518/6820.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 43,
+      "company_count": 39
+    },
+    {
+      "date": "2021-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "157528660000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "44939376000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "24803511000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "330952724000",
+      "cash_pool_usd": "143854000000",
+      "total_usd": "474806724000",
+      "first_share_of_total": "0.331774282118211956914072682761754654510748",
+      "second_share_of_total": "0.0946477244917871045145519042817936167222434",
+      "third_share_of_total": "0.0522391738496104364351840981931839701579289",
+      "first_share_of_stocks": "0.475985385755580002417505407811660737380726",
+      "second_share_of_stocks": "0.135787901839418007026284515488683513600571",
+      "third_share_of_stocks": "0.0749457828907309431905446410527202670795965",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012322002973/9815.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 44,
+      "company_count": 39
+    },
+    {
+      "date": "2022-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "155564138000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "41636348000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "28351201000",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "363553518000",
+      "cash_pool_usd": "102687000000",
+      "total_usd": "466240518000",
+      "first_share_of_total": "0.333656411217353700692310915800758440303552",
+      "second_share_of_total": "0.0893022944007624837101781016809868935500797",
+      "third_share_of_total": "0.0608081020534555943505536342081706420890687",
+      "first_share_of_stocks": "0.427898865773044176676073314740967518295339",
+      "second_share_of_stocks": "0.114526048954366052923190252280821004185689",
+      "third_share_of_stocks": "0.0779835693956893576257457643416340149402708",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012322006442/13095.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 49,
+      "company_count": 44
+    },
+    {
+      "date": "2022-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "122337373000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "31444432000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "25164000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "300130772000",
+      "cash_pool_usd": "101337000000",
+      "total_usd": "401467772000",
+      "first_share_of_total": "0.304725264472785626239507962297905197730293",
+      "second_share_of_total": "0.0783236767508202376951941238262083961250070",
+      "third_share_of_total": "0.0626800001271334925484379852039530585284440",
+      "first_share_of_stocks": "0.407613561864292942277841473715997371972241",
+      "second_share_of_stocks": "0.104769103782533834951119240782148123085493",
+      "third_share_of_stocks": "0.0838434520802818579362465372261128892175042",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012322009450/15796.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 47,
+      "company_count": 42
+    },
+    {
+      "date": "2022-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "123661679000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "30505039000",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Chevron Corp.",
+      "third_value_usd": "23757173000",
+      "third_company_id": "166764",
+      "third_cusips": [
+        "166764100"
+      ],
+      "stock_total_usd": "296096640000",
+      "cash_pool_usd": "105201000000",
+      "total_usd": "401297640000",
+      "first_share_of_total": "0.308154513442939759127414753797206482450283",
+      "second_share_of_total": "0.0760159940138197672929250219363363313076050",
+      "third_share_of_total": "0.0592008789286675097316794586681347042060850",
+      "first_share_of_stocks": "0.417639588885574655625946988118473752353286",
+      "second_share_of_stocks": "0.103023928268824664812137010403090018177849",
+      "third_share_of_stocks": "0.0802345241067240749506647559391420314664834",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012322012275/18337.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 49,
+      "company_count": 44
+    },
+    {
+      "date": "2022-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "116305043218",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "33454532071",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "Chevron Corp.",
+      "third_value_usd": "29252521137",
+      "third_company_id": "166764",
+      "third_cusips": [
+        "166764100"
+      ],
+      "stock_total_usd": "299007622119",
+      "cash_pool_usd": "125034000000",
+      "total_usd": "424041622119",
+      "first_share_of_total": "0.274277422666214088537564653179328245923132",
+      "second_share_of_total": "0.0788944535770395671779887010851480625901091",
+      "third_share_of_total": "0.0689850231937627628448752401514487330726643",
+      "first_share_of_stocks": "0.388970162010494002459747376296949588196996",
+      "second_share_of_stocks": "0.111885214945074742681763830157045642840876",
+      "third_share_of_stocks": "0.0978320249152644979567896257278084855589092",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012323002585/20651.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 49,
+      "company_count": 44
+    },
+    {
+      "date": "2023-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "150975906991",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "29539567372",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "25008184965",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "325108752692",
+      "cash_pool_usd": "127674000000",
+      "total_usd": "452782752692",
+      "first_share_of_total": "0.333440057275546309602628047445988824166552",
+      "second_share_of_total": "0.0652400454663385422801920881078682852065777",
+      "third_share_of_total": "0.0552321942837153866578136625504518898173208",
+      "first_share_of_stocks": "0.464385857781044868381509923424009000503886",
+      "second_share_of_stocks": "0.0908605724312352067273330031566961993553660",
+      "third_share_of_stocks": "0.0769225213345521231507478173939854758612037",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012323005270/22815.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 48,
+      "company_count": 43
+    },
+    {
+      "date": "2023-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "177591247296",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "29632524052",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "26410583940",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "348194055552",
+      "cash_pool_usd": "141933000000",
+      "total_usd": "490127055552",
+      "first_share_of_total": "0.362337163974736888348155434169652602299932",
+      "second_share_of_total": "0.0604588620773581008159166572627050861148377",
+      "third_share_of_total": "0.0538851786303765283800384296970074153675355",
+      "first_share_of_stocks": "0.510035264715994458540571747801967483946025",
+      "second_share_of_stocks": "0.0851034748569239123826453624108537980328490",
+      "third_share_of_stocks": "0.0758501861788843500767290204241010970905181",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012323008074/25376.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 48,
+      "company_count": 43
+    },
+    {
+      "date": "2023-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "156753093002",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "28279487924",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "22618800333",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "314952628264",
+      "cash_pool_usd": "151974000000",
+      "total_usd": "466926628264",
+      "first_share_of_total": "0.335712472824256891972321142754161406089056",
+      "second_share_of_total": "0.0605651642296373738688891679542706646836868",
+      "third_share_of_total": "0.0484418727993626989741271458838934186607411",
+      "first_share_of_stocks": "0.497703714574517598095188315440474066225969",
+      "second_share_of_stocks": "0.0897896552883995335446526997838280849559045",
+      "third_share_of_stocks": "0.0718165155746547378810604787187234824986347",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012323011029/28498.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005653/32497.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 46,
+      "company_count": 39
+    },
+    {
+      "date": "2023-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "174347466800",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "34776127042",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "28402748537",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "351900674461",
+      "cash_pool_usd": "163887000000",
+      "total_usd": "515787674461",
+      "first_share_of_total": "0.338021778015912726783510210352180290814094",
+      "second_share_of_total": "0.0674233386409265780293401263568663755029644",
+      "third_share_of_total": "0.0550667453747920125408442432431427274954834",
+      "first_share_of_stocks": "0.495445105545889935815652173456719062824110",
+      "second_share_of_stocks": "0.0988237010209371574813976355188103164185143",
+      "third_share_of_stocks": "0.0807124015334838002983306819766692336848309",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012324002518/30197.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005664/32498.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 42,
+      "company_count": 35
+    },
+    {
+      "date": "2024-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "135360901805",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "39165748068",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "34520240283",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "331680406332",
+      "cash_pool_usd": "182747000000",
+      "total_usd": "514427406332",
+      "first_share_of_total": "0.263129258159393409710915339483246946784095",
+      "second_share_of_total": "0.0761346452111909795682320136407098253845448",
+      "third_share_of_total": "0.0671042014054776178339562081556878384747481",
+      "first_share_of_stocks": "0.408106415757066668474392382607315455874024",
+      "second_share_of_stocks": "0.118082790904436222318562810099301274513732",
+      "third_share_of_stocks": "0.104076814982090010544506257325384251272209",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005622/32398.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 41,
+      "company_count": 34
+    },
+    {
+      "date": "2024-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "84248000000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "Bank of America Corp.",
+      "second_value_usd": "41076524279",
+      "second_company_id": "060505",
+      "second_cusips": [
+        "060505104"
+      ],
+      "third_name": "American Express Co.",
+      "third_value_usd": "35105457585",
+      "third_company_id": "025816",
+      "third_cusips": [
+        "025816109"
+      ],
+      "stock_total_usd": "279969062343",
+      "cash_pool_usd": "271586000000",
+      "total_usd": "551555062343",
+      "first_share_of_total": "0.152746309030535225153144216401864033248888",
+      "second_share_of_total": "0.0744740227829790277320275840164703967168933",
+      "third_share_of_total": "0.0636481468157909602181906919841859644639146",
+      "first_share_of_stocks": "0.300918963313113488173925708821153538294686",
+      "second_share_of_stocks": "0.146718083545515816115025149002165010261946",
+      "third_share_of_stocks": "0.125390488831909085478363261726831092600142",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/34725.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 41,
+      "company_count": 34
+    },
+    {
+      "date": "2024-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "69900000000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "41116821840",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Bank of America Corp.",
+      "third_value_usd": "31652073622",
+      "third_company_id": "060505",
+      "third_cusips": [
+        "060505104"
+      ],
+      "stock_total_usd": "266378900503",
+      "cash_pool_usd": "305768000000",
+      "total_usd": "572146900503",
+      "first_share_of_total": "0.122171421253086882249466523769539498586677",
+      "second_share_of_total": "0.0718640995937448195635532688537379224925798",
+      "third_share_of_total": "0.0553215854078266307828692329124159824077606",
+      "first_share_of_stocks": "0.262408170722263250305116452904214351020971",
+      "second_share_of_stocks": "0.154354649570065839547565076316385294078691",
+      "third_share_of_stocks": "0.118823501269176270573999426761197258263015",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012324011775/36917.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd..",
+        "Index funds remain in the full 13F denominator and rank_all, but are ineligible for largest-individual-company rankings."
+      ],
+      "security_count": 40,
+      "company_count": 35
+    },
+    {
+      "date": "2024-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "75126000000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "44996539653",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Bank of America Corp.",
+      "third_value_usd": "29896266149",
+      "third_company_id": "060505",
+      "third_cusips": [
+        "060505104"
+      ],
+      "stock_total_usd": "267175474249",
+      "cash_pool_usd": "318036000000",
+      "total_usd": "585211474249",
+      "first_share_of_total": "0.128374106294496282437330382338171200651810",
+      "second_share_of_total": "0.0768893667212248604790941090480149520223595",
+      "third_share_of_total": "0.0510862610603556296573423784498827987196628",
+      "first_share_of_stocks": "0.281185989137553429416762992531365415897756",
+      "second_share_of_stocks": "0.168415681789206801349166901689701658316378",
+      "third_share_of_stocks": "0.111897494457659402823938879572603355749719",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012325002701/39042.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Liberty Latin America Ltd.."
+      ],
+      "security_count": 38,
+      "company_count": 35
+    },
+    {
+      "date": "2025-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "66639000000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "40790858835",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "28648000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "259807694872",
+      "cash_pool_usd": "328013000000",
+      "total_usd": "587820694872",
+      "first_share_of_total": "0.113366202621550903265762896656807312257135",
+      "second_share_of_total": "0.0693933697653879833713062141705085687971995",
+      "third_share_of_total": "0.0487359500097869157213880079746727274050093",
+      "first_share_of_stocks": "0.256493557794087566950791078646462946629611",
+      "second_share_of_stocks": "0.157004044299367336561447955111049879620442",
+      "third_share_of_stocks": "0.110266172116703741322742880611411793319904",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012325005701/form13fInfoTable.xml",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012325008361/43981.xml"
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows.",
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Lennar Corp., Liberty Latin America Ltd.."
+      ],
+      "security_count": 39,
+      "company_count": 35
+    },
+    {
+      "date": "2025-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "57447600000",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "48360781086",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Bank of America Corp.",
+      "third_value_usd": "28641252185",
+      "third_company_id": "060505",
+      "third_cusips": [
+        "060505104"
+      ],
+      "stock_total_usd": "257521776925",
+      "cash_pool_usd": "339798000000",
+      "total_usd": "597319776925",
+      "first_share_of_total": "0.0961756201941613788464300310844759662651111",
+      "second_share_of_total": "0.0809629664950340703136095145122253562825142",
+      "third_share_of_total": "0.0479496130739970810987391450164648338376294",
+      "first_share_of_stocks": "0.223078609840172451660322823395724749735163",
+      "second_share_of_stocks": "0.187792976824963712726602839706621055888398",
+      "third_share_of_stocks": "0.111218757990091870363479552555514427199932",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000095012325008343/43977.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Lennar Corp., Liberty Latin America Ltd.."
+      ],
+      "security_count": 41,
+      "company_count": 37
+    },
+    {
+      "date": "2025-09-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "60656116097",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "50359010112",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Bank of America Corp.",
+      "third_value_usd": "29306731919",
+      "third_company_id": "060505",
+      "third_cusips": [
+        "060505104"
+      ],
+      "stock_total_usd": "267334501955",
+      "cash_pool_usd": "354282000000",
+      "total_usd": "621616501955",
+      "first_share_of_total": "0.0975780338942659078977313987964204865105703",
+      "second_share_of_total": "0.0810129878367443733864283686638506848871803",
+      "third_share_of_total": "0.0471460005112952584116054992190703577313624",
+      "first_share_of_stocks": "0.226892210520623894155749770140064972445281",
+      "second_share_of_stocks": "0.188374526085214596333078836322400868536258",
+      "third_share_of_stocks": "0.109625700030043845598919263522339390590539",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312525282901/46994.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Media Corp., Lennar Corp., Liberty Latin America Ltd.."
+      ],
+      "security_count": 41,
+      "company_count": 37
+    },
+    {
+      "date": "2025-12-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "61961735283",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "56088378465",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Bank of America Corp.",
+      "third_value_usd": "28451276370",
+      "third_company_id": "060505",
+      "third_cusips": [
+        "060505104"
+      ],
+      "stock_total_usd": "274160086701",
+      "cash_pool_usd": "368986000000",
+      "total_usd": "643146086701",
+      "first_share_of_total": "0.0963416190570807967895902913890969488637190",
+      "second_share_of_total": "0.0872093908752578756989344861457291449828459",
+      "third_share_of_total": "0.0442376575995976783767320127295478232554881",
+      "first_share_of_stocks": "0.226005674380223320543689398678091060733976",
+      "second_share_of_stocks": "0.204582582169118556154260515281073331688288",
+      "third_share_of_stocks": "0.103776143027810852588894330647332355360510",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/50240.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Liberty Live Holdings Inc., Lennar Corp., Liberty Latin America Ltd.."
+      ],
+      "security_count": 42,
+      "company_count": 39
+    },
+    {
+      "date": "2026-03-31",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "57843260493",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "45859204536",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Coca-Cola Co.",
+      "third_value_usd": "30420000000",
+      "third_company_id": "191216",
+      "third_cusips": [
+        "191216100"
+      ],
+      "stock_total_usd": "263095703570",
+      "cash_pool_usd": "373510000000",
+      "total_usd": "636605703570",
+      "first_share_of_total": "0.0908619890909281819898665536550747243566673",
+      "second_share_of_total": "0.0720370619974462821635382351684386433371144",
+      "third_share_of_total": "0.0477846802650505508413913565276478944443900",
+      "first_share_of_stocks": "0.219856347740053670842998935712342693198470",
+      "second_share_of_stocks": "0.174306170392473049536238004481374359221734",
+      "third_share_of_stocks": "0.115623324848048562908731045075347750195114",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/53405.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Alphabet Inc., Liberty Live Holdings Inc., Lennar Corp.."
+      ],
+      "security_count": 29,
+      "company_count": 26
+    },
+    {
+      "date": "2026-06-30",
+      "first_name": "Apple Inc.",
+      "first_value_usd": "65950296923",
+      "first_company_id": "037833",
+      "first_cusips": [
+        "037833100"
+      ],
+      "second_name": "American Express Co.",
+      "second_value_usd": "51282319275",
+      "second_company_id": "025816",
+      "second_cusips": [
+        "025816109"
+      ],
+      "third_name": "Alphabet Inc.",
+      "third_value_usd": "37764088383",
+      "third_company_id": "02079K",
+      "third_cusips": [
+        "02079K107",
+        "02079K305"
+      ],
+      "stock_total_usd": "299253556246",
+      "cash_pool_usd": "359230000000",
+      "total_usd": "658483556246",
+      "first_share_of_total": "0.100154812215784347080820725336561178404288",
+      "second_share_of_total": "0.0778794227867425469839087879089852900964312",
+      "third_share_of_total": "0.0573500857003813758375861120880501022357188",
+      "first_share_of_stocks": "0.220382667294973978004914338965419253412337",
+      "second_share_of_stocks": "0.171367451462610546022042276679170355245249",
+      "third_share_of_stocks": "0.126194284394589469937429884359978159950238",
+      "sources": [
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml"
+      ],
+      "notes": [
+        "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+        "Multiple CUSIP classes merged: Alphabet Inc., Liberty Live Holdings Inc., Lennar Corp.."
+      ],
+      "security_count": 29,
+      "company_count": 26
+    }
+  ]
+}

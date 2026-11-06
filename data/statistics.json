@@ -1,0 +1,358 @@
+{
+  "snapshot_date": "2026-11-06",
+  "currency": "USD",
+  "ratio_unit": "Fraction of cash plus securities; multiply by 100 for percent",
+  "observations": 141,
+  "annual_observations": 30,
+  "quarterly_observations": 111,
+  "first_observation": "1968-12-28",
+  "last_observation": "2026-06-30",
+  "verified_ranks": {
+    "first": 128,
+    "second": 126,
+    "third": 124
+  },
+  "missing_ranks": {
+    "first": [
+      "FY 1968",
+      "FY 1969",
+      "FY 1970",
+      "FY 1971",
+      "FY 1972",
+      "FY 1973",
+      "FY 1974",
+      "FY 1975",
+      "FY 1976",
+      "FY 1978",
+      "FY 1979",
+      "FY 1980",
+      "FY 1981"
+    ],
+    "second": [
+      "FY 1968",
+      "FY 1969",
+      "FY 1970",
+      "FY 1971",
+      "FY 1972",
+      "FY 1973",
+      "FY 1974",
+      "FY 1975",
+      "FY 1976",
+      "FY 1977",
+      "FY 1978",
+      "FY 1979",
+      "FY 1980",
+      "FY 1981",
+      "FY 1982"
+    ],
+    "third": [
+      "FY 1968",
+      "FY 1969",
+      "FY 1970",
+      "FY 1971",
+      "FY 1972",
+      "FY 1973",
+      "FY 1974",
+      "FY 1975",
+      "FY 1976",
+      "FY 1977",
+      "FY 1978",
+      "FY 1979",
+      "FY 1980",
+      "FY 1981",
+      "FY 1982",
+      "FY 1985",
+      "FY 1993"
+    ]
+  },
+  "latest": {
+    "date": "2026-06-30",
+    "period": "2026-06-30",
+    "year": 2026,
+    "frequency": "quarterly",
+    "scope": "cash_plus_13f_securities",
+    "first_name": "Apple Inc.",
+    "second_name": "American Express Co.",
+    "third_name": "Alphabet Inc.",
+    "second_rank_verified": true,
+    "third_rank_verified": true,
+    "notes": [
+      "Issuer/company ranking sums different classes of the same issuer; manager rows were already aggregated in the input and are not counted again.",
+      "Multiple CUSIP classes merged: Alphabet Inc., Liberty Live Holdings Inc., Lennar Corp.."
+    ],
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml"
+    ],
+    "cash_usd": "359230000000",
+    "stock_usd": "299253556246",
+    "first_value_usd": "65950296923",
+    "second_value_usd": "51282319275",
+    "third_value_usd": "37764088383",
+    "total_usd": "658483556246",
+    "cash_share": "0.545541337505771869227331350655742856",
+    "stock_share": "0.454458662494228130772668649344257144",
+    "first_share": "0.100154812215784347080820725336561178",
+    "second_share": "0.0778794227867425469839087879089852901",
+    "third_share": "0.0573500857003813758375861120880501022"
+  },
+  "segments": {
+    "annual": {
+      "observations": 30,
+      "first_date": "1968-12-28",
+      "last_date": "1997-12-31",
+      "series": {
+        "cash_share": {
+          "verified_observations": 30,
+          "maximum": {
+            "date": "1985-12-28",
+            "period": "FY 1985",
+            "year": 1985,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "2201143000",
+            "share_of_total": "0.462335704677070049515183702285585262",
+            "value_usd": "1017667000"
+          },
+          "minimum": {
+            "date": "1994-12-31",
+            "period": "FY 1994",
+            "year": 1994,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "15775111000",
+            "share_of_total": "0.0183743239587981346058357370670799083",
+            "value_usd": "289857000"
+          }
+        },
+        "stock_share": {
+          "verified_observations": 30,
+          "maximum": {
+            "date": "1994-12-31",
+            "period": "FY 1994",
+            "year": 1994,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "15775111000",
+            "share_of_total": "0.981625676041201865394164262932920092",
+            "value_usd": "15485254000"
+          },
+          "minimum": {
+            "date": "1985-12-28",
+            "period": "FY 1985",
+            "year": 1985,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "2201143000",
+            "share_of_total": "0.537664295322929950484816297714414738",
+            "value_usd": "1183476000"
+          }
+        },
+        "first_share": {
+          "verified_observations": 17,
+          "maximum": {
+            "date": "1987-12-31",
+            "period": "FY 1987",
+            "year": 1987,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "2609446000",
+            "share_of_total": "0.396635914289853095254701572670980737",
+            "company": "Capital Cities/ABC, Inc.",
+            "value_usd": "1035000000"
+          },
+          "minimum": {
+            "date": "1977-12-31",
+            "period": "FY 1977",
+            "year": 1977,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "204628488",
+            "share_of_total": "0.212819829856730407938116612580355869",
+            "company": "GEICO",
+            "value_usd": "43549000"
+          }
+        },
+        "second_share": {
+          "verified_observations": 15,
+          "maximum": {
+            "date": "1986-12-31",
+            "period": "FY 1986",
+            "year": 1986,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "2169187000",
+            "share_of_total": "0.311049715861288123153974276998709655",
+            "company": "GEICO Corporation",
+            "value_usd": "674725000"
+          },
+          "minimum": {
+            "date": "1985-12-28",
+            "period": "FY 1985",
+            "year": 1985,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "2201143000",
+            "share_of_total": "0.0932115723512738608986331192475909107",
+            "company": "The Washington Post Company",
+            "value_usd": "205172000"
+          }
+        },
+        "third_share": {
+          "verified_observations": 13,
+          "maximum": {
+            "date": "1989-12-31",
+            "period": "FY 1989",
+            "year": 1989,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "5586085000",
+            "share_of_total": "0.187004852235510200793579045073607007",
+            "company": "GEICO Corporation",
+            "value_usd": "1044625000"
+          },
+          "minimum": {
+            "date": "1996-12-31",
+            "period": "FY 1996",
+            "year": 1996,
+            "frequency": "annual",
+            "scope": "annual_report_disclosed_equities",
+            "total_usd": "29100900000",
+            "share_of_total": "0.0960210852585315230800421980076217574",
+            "company": "American Express Company",
+            "value_usd": "2794300000"
+          }
+        }
+      }
+    },
+    "quarterly": {
+      "observations": 111,
+      "first_date": "1998-12-31",
+      "last_date": "2026-06-30",
+      "series": {
+        "cash_share": {
+          "verified_observations": 111,
+          "maximum": {
+            "date": "2026-03-31",
+            "period": "2026-03-31",
+            "year": 2026,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "636605703570",
+            "share_of_total": "0.586721102097272558999608335852786491",
+            "value_usd": "373510000000"
+          },
+          "minimum": {
+            "date": "2000-06-30",
+            "period": "2000-06-30",
+            "year": 2000,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "38079876000",
+            "share_of_total": "0.0843752747514198838252519519758940392",
+            "value_usd": "3213000000"
+          }
+        },
+        "stock_share": {
+          "verified_observations": 111,
+          "maximum": {
+            "date": "2000-06-30",
+            "period": "2000-06-30",
+            "year": 2000,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "38079876000",
+            "share_of_total": "0.915624725248580116174748048024105961",
+            "value_usd": "34866876000"
+          },
+          "minimum": {
+            "date": "2026-03-31",
+            "period": "2026-03-31",
+            "year": 2026,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "636605703570",
+            "share_of_total": "0.413278897902727441000391664147213509",
+            "value_usd": "263095703570"
+          }
+        },
+        "first_share": {
+          "verified_observations": 111,
+          "maximum": {
+            "date": "2023-06-30",
+            "period": "2023-06-30",
+            "year": 2023,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "490127055552",
+            "share_of_total": "0.362337163974736888348155434169652602",
+            "company": "Apple Inc.",
+            "value_usd": "177591247296"
+          },
+          "minimum": {
+            "date": "2017-09-30",
+            "period": "2017-09-30",
+            "year": 2017,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "282530767000",
+            "share_of_total": "0.0906181308034321090417738468816035175",
+            "company": "Wells Fargo & Co.",
+            "value_usd": "25602410000"
+          }
+        },
+        "second_share": {
+          "verified_observations": 111,
+          "maximum": {
+            "date": "2000-09-30",
+            "period": "2000-09-30",
+            "year": 2000,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "39934773000",
+            "share_of_total": "0.230634840468480940157090663818221779",
+            "company": "American Express Co.",
+            "value_usd": "9210350000"
+          },
+          "minimum": {
+            "date": "2023-06-30",
+            "period": "2023-06-30",
+            "year": 2023,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "490127055552",
+            "share_of_total": "0.0604588620773581008159166572627050861",
+            "company": "Bank of America Corp.",
+            "value_usd": "29632524052"
+          }
+        },
+        "third_share": {
+          "verified_observations": 111,
+          "maximum": {
+            "date": "2012-03-31",
+            "period": "2012-03-31",
+            "year": 2012,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "110470369000",
+            "share_of_total": "0.121626850001741190888934208230987261",
+            "company": "International Business Machines Corp.",
+            "value_usd": "13436163000"
+          },
+          "minimum": {
+            "date": "2025-12-31",
+            "period": "2025-12-31",
+            "year": 2025,
+            "frequency": "quarterly",
+            "scope": "cash_plus_13f_securities",
+            "total_usd": "643146086701",
+            "share_of_total": "0.0442376575995976783767320127295478233",
+            "company": "Bank of America Corp.",
+            "value_usd": "28451276370"
+          }
+        }
+      }
+    }
+  },
+  "limitation": "Extrema are sampled observations, not daily historical extrema. Annual-report and quarterly-13F scopes are summarized separately."
+}

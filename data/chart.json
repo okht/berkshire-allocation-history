@@ -1,0 +1,1180 @@
+{
+  "id": "berkshire-allocation-history",
+  "title": "Cash, equities and the top three holdings | 1968-2026 Q2",
+  "description": "All five series use cash plus disclosed equities as the denominator. The top three company holdings are subsets of equities, ranked separately at each observation; share classes of the same issuer are combined. There are 141 observations: 30 annual points for 1968-1997 and 111 quarterly points for 1998 Q4-2026 Q2. Early cash includes other reported short-term investments; historical consolidation and equity coverage vary. The later stock series uses Form 13F securities, excluding non-13F foreign holdings and operating subsidiaries. Unverified rankings remain null. The scope transition is broken with an empty separator, which is not an observation. This is a disclosure snapshot, not daily holdings or a real-time portfolio.",
+  "summary": "Five historical allocation lines. At 2026-06-30, cash is 54.55% and equities are 45.45% of cash plus disclosed equities. Apple Inc.: 10.02%; American Express Co.: 7.79%; Alphabet Inc.: 5.74%.",
+  "height": 540,
+  "spec": {
+    "type": "line",
+    "x": "date",
+    "y": [
+      "Cash + net T-bills / early cash proxy",
+      "Disclosed equities",
+      "Largest holding",
+      "Second-largest holding",
+      "Third-largest holding"
+    ],
+    "yLabel": "Share of cash + disclosed equities",
+    "yDomain": [
+      0,
+      1
+    ],
+    "showLegend": true,
+    "colors": {
+      "Cash + net T-bills / early cash proxy": "#0D9488",
+      "Disclosed equities": "#5965D9",
+      "Largest holding": "#D58A26",
+      "Second-largest holding": "#C45678",
+      "Third-largest holding": "#427FA5"
+    },
+    "valueFormat": {
+      "style": "percent",
+      "maximumFractionDigits": 2
+    },
+    "referenceLines": [
+      {
+        "axis": "x",
+        "value": "1998-12-31",
+        "label": "1998 Q4: quarterly 13F scope"
+      }
+    ]
+  },
+  "rows": [
+    {
+      "date": "1968-12-28",
+      "Cash + net T-bills / early cash proxy": 0.1524460130290715,
+      "Disclosed equities": 0.8475539869709285,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1970-01-03",
+      "Cash + net T-bills / early cash proxy": 0.21898724496713515,
+      "Disclosed equities": 0.7810127550328648,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1971-01-02",
+      "Cash + net T-bills / early cash proxy": 0.16078268180432198,
+      "Disclosed equities": 0.839217318195678,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1972-01-01",
+      "Cash + net T-bills / early cash proxy": 0.3035801119640769,
+      "Disclosed equities": 0.6964198880359231,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1972-12-30",
+      "Cash + net T-bills / early cash proxy": 0.18811982324457913,
+      "Disclosed equities": 0.8118801767554209,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1973-12-29",
+      "Cash + net T-bills / early cash proxy": 0.09781711466761253,
+      "Disclosed equities": 0.9021828853323874,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1974-12-28",
+      "Cash + net T-bills / early cash proxy": 0.295066797319947,
+      "Disclosed equities": 0.704933202680053,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1976-01-03",
+      "Cash + net T-bills / early cash proxy": 0.34509737125739587,
+      "Disclosed equities": 0.6549026287426042,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1977-01-01",
+      "Cash + net T-bills / early cash proxy": 0.13520854715312539,
+      "Disclosed equities": 0.8647914528468746,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1977-12-31",
+      "Cash + net T-bills / early cash proxy": 0.1151157164392477,
+      "Disclosed equities": 0.8848842835607523,
+      "Largest holding": 0.2128198298567304,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1978-12-30",
+      "Cash + net T-bills / early cash proxy": 0.20730205295010104,
+      "Disclosed equities": 0.7926979470498989,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1979-12-29",
+      "Cash + net T-bills / early cash proxy": 0.07255317189945677,
+      "Disclosed equities": 0.9274468281005432,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1981-01-03",
+      "Cash + net T-bills / early cash proxy": 0.10048083546198877,
+      "Disclosed equities": 0.8995191645380113,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1982-01-02",
+      "Cash + net T-bills / early cash proxy": 0.09670119125547148,
+      "Disclosed equities": 0.9032988087445285,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1983-01-01",
+      "Cash + net T-bills / early cash proxy": 0.0589506845850621,
+      "Disclosed equities": 0.9410493154149379,
+      "Largest holding": 0.308264904697754,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1983-12-31",
+      "Cash + net T-bills / early cash proxy": 0.05886027545256997,
+      "Disclosed equities": 0.94113972454743,
+      "Largest holding": 0.2875389162874638,
+      "Second-largest holding": 0.23963983612370307,
+      "Third-largest holding": 0.1700639054006527
+    },
+    {
+      "date": "1984-12-29",
+      "Cash + net T-bills / early cash proxy": 0.12219691512948352,
+      "Disclosed equities": 0.8778030848705165,
+      "Largest holding": 0.2794643962499859,
+      "Second-largest holding": 0.1638084814243751,
+      "Third-largest holding": 0.10688721821435404
+    },
+    {
+      "date": "1985-12-28",
+      "Cash + net T-bills / early cash proxy": 0.46233570467707,
+      "Disclosed equities": 0.5376642953229299,
+      "Largest holding": 0.2707456989391421,
+      "Second-largest holding": 0.09321157235127386,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1986-12-31",
+      "Cash + net T-bills / early cash proxy": 0.13483069924354146,
+      "Disclosed equities": 0.8651693007564585,
+      "Largest holding": 0.3708186523338006,
+      "Second-largest holding": 0.3110497158612881,
+      "Third-largest holding": 0.12425438655127474
+    },
+    {
+      "date": "1987-12-31",
+      "Cash + net T-bills / early cash proxy": 0.08889319801980956,
+      "Disclosed equities": 0.9111068019801905,
+      "Largest holding": 0.3966359142898531,
+      "Second-largest holding": 0.2900711492017846,
+      "Third-largest holding": 0.12381631963259634
+    },
+    {
+      "date": "1988-12-31",
+      "Cash + net T-bills / early cash proxy": 0.06817930461898386,
+      "Disclosed equities": 0.9318206953810162,
+      "Largest holding": 0.2795140326718275,
+      "Second-largest holding": 0.21846719056954247,
+      "Third-largest holding": 0.16266675034297856
+    },
+    {
+      "date": "1989-12-31",
+      "Cash + net T-bills / early cash proxy": 0.03672106672204236,
+      "Disclosed equities": 0.9632789332779577,
+      "Largest holding": 0.3229071881290743,
+      "Second-largest holding": 0.3029626294623157,
+      "Third-largest holding": 0.1870048522355102
+    },
+    {
+      "date": "1990-12-31",
+      "Cash + net T-bills / early cash proxy": 0.04112785941965404,
+      "Disclosed equities": 0.958872140580346,
+      "Largest holding": 0.36154868807382984,
+      "Second-largest holding": 0.22932381213220573,
+      "Third-largest holding": 0.18490021635814058
+    },
+    {
+      "date": "1991-12-31",
+      "Cash + net T-bills / early cash proxy": 0.07454156934850668,
+      "Disclosed equities": 0.9254584306514934,
+      "Largest holding": 0.3666109920054656,
+      "Second-largest holding": 0.13334821556091456,
+      "Third-largest holding": 0.13176836471448622
+    },
+    {
+      "date": "1992-12-31",
+      "Cash + net T-bills / early cash proxy": 0.09066323690877737,
+      "Disclosed equities": 0.9093367630912227,
+      "Largest holding": 0.29738867480359743,
+      "Second-largest holding": 0.16927649647646362,
+      "Third-largest holding": 0.11582276171039785
+    },
+    {
+      "date": "1993-12-31",
+      "Cash + net T-bills / early cash proxy": 0.12883948932178232,
+      "Disclosed equities": 0.8711605106782176,
+      "Largest holding": 0.289546905004287,
+      "Second-largest holding": 0.12223801648621052,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1994-12-31",
+      "Cash + net T-bills / early cash proxy": 0.018374323958798136,
+      "Disclosed equities": 0.9816256760412019,
+      "Largest holding": 0.32646362995480666,
+      "Second-largest holding": 0.11391362000558981,
+      "Third-largest holding": 0.10808164836367871
+    },
+    {
+      "date": "1995-12-31",
+      "Cash + net T-bills / early cash proxy": 0.10987009347665086,
+      "Disclosed equities": 0.8901299065233491,
+      "Largest holding": 0.29724373986669067,
+      "Second-largest holding": 0.1001621329490182,
+      "Third-largest holding": 0.09878100042034468
+    },
+    {
+      "date": "1996-12-31",
+      "Cash + net T-bills / early cash proxy": 0.046400626784738615,
+      "Disclosed equities": 0.9535993732152613,
+      "Largest holding": 0.36167266304478557,
+      "Second-largest holding": 0.12824345638794676,
+      "Third-largest holding": 0.09602108525853152
+    },
+    {
+      "date": "1997-12-31",
+      "Cash + net T-bills / early cash proxy": 0.028373299880448826,
+      "Disclosed equities": 0.9716267001195512,
+      "Largest holding": 0.3575143005720229,
+      "Second-largest holding": 0.1292278495263522,
+      "Third-largest holding": 0.11831813478724716
+    },
+    {
+      "date": "1998-06-30",
+      "Cash + net T-bills / early cash proxy": null,
+      "Disclosed equities": null,
+      "Largest holding": null,
+      "Second-largest holding": null,
+      "Third-largest holding": null
+    },
+    {
+      "date": "1998-12-31",
+      "Cash + net T-bills / early cash proxy": 0.27438469199679183,
+      "Disclosed equities": 0.7256153080032082,
+      "Largest holding": 0.25376179159171225,
+      "Second-largest holding": 0.09809658947156641,
+      "Third-largest holding": 0.08692288883051105
+    },
+    {
+      "date": "1999-03-31",
+      "Cash + net T-bills / early cash proxy": 0.28939708505131356,
+      "Disclosed equities": 0.7106029149486864,
+      "Largest holding": 0.2290951385918273,
+      "Second-largest holding": 0.11106159047830212,
+      "Third-largest holding": 0.10649424527942701
+    },
+    {
+      "date": "1999-06-30",
+      "Cash + net T-bills / early cash proxy": 0.1055676064103193,
+      "Disclosed equities": 0.8944323935896807,
+      "Largest holding": 0.2962965865749116,
+      "Second-largest holding": 0.15713551834065118,
+      "Third-largest holding": 0.09405027135152032
+    },
+    {
+      "date": "1999-09-30",
+      "Cash + net T-bills / early cash proxy": 0.1446501841716094,
+      "Disclosed equities": 0.8553498158283906,
+      "Largest holding": 0.25087603832782723,
+      "Second-largest holding": 0.17736761726413985,
+      "Third-largest holding": 0.0846999101421825
+    },
+    {
+      "date": "1999-12-31",
+      "Cash + net T-bills / early cash proxy": 0.10616780152060488,
+      "Disclosed equities": 0.8938321984793951,
+      "Largest holding": 0.27744611519678003,
+      "Second-largest holding": 0.20008889231403226,
+      "Third-largest holding": 0.09416498142944633
+    },
+    {
+      "date": "2000-03-31",
+      "Cash + net T-bills / early cash proxy": 0.09139566654814237,
+      "Disclosed equities": 0.9086043334518576,
+      "Largest holding": 0.25057734220814437,
+      "Second-largest holding": 0.20091135146190225,
+      "Third-largest holding": 0.09657404251494715
+    },
+    {
+      "date": "2000-06-30",
+      "Cash + net T-bills / early cash proxy": 0.08437527475141988,
+      "Disclosed equities": 0.9156247252485801,
+      "Largest holding": 0.30166852434078306,
+      "Second-largest holding": 0.20752977241837658,
+      "Third-largest holding": 0.08807801790110871
+    },
+    {
+      "date": "2000-09-30",
+      "Cash + net T-bills / early cash proxy": 0.09197498130263568,
+      "Disclosed equities": 0.9080250186973643,
+      "Largest holding": 0.2761002297421348,
+      "Second-largest holding": 0.23063484046848093,
+      "Third-largest holding": 0.07423304997877414
+    },
+    {
+      "date": "2000-12-31",
+      "Cash + net T-bills / early cash proxy": 0.12981225242812497,
+      "Disclosed equities": 0.870187747571875,
+      "Largest holding": 0.28232541091751157,
+      "Second-largest holding": 0.1929461309960827,
+      "Third-largest holding": 0.08034461122446519
+    },
+    {
+      "date": "2001-03-31",
+      "Cash + net T-bills / early cash proxy": 0.173848508733431,
+      "Disclosed equities": 0.826151491266569,
+      "Largest holding": 0.24381983398763182,
+      "Second-largest holding": 0.16903047548161032,
+      "Third-largest holding": 0.08077800771012737
+    },
+    {
+      "date": "2001-06-30",
+      "Cash + net T-bills / early cash proxy": 0.21687877345558065,
+      "Disclosed equities": 0.7831212265444193,
+      "Largest holding": 0.23771878712705224,
+      "Second-largest holding": 0.15537553493330403,
+      "Third-largest holding": 0.07350898814734128
+    },
+    {
+      "date": "2001-09-30",
+      "Cash + net T-bills / early cash proxy": 0.18798550114907284,
+      "Disclosed equities": 0.8120144988509271,
+      "Largest holding": 0.2769099427396341,
+      "Second-largest holding": 0.13020403031930405,
+      "Third-largest holding": 0.08454471336067718
+    },
+    {
+      "date": "2001-12-31",
+      "Cash + net T-bills / early cash proxy": 0.18274464228875262,
+      "Disclosed equities": 0.8172553577112474,
+      "Largest holding": 0.26520190470651545,
+      "Second-largest holding": 0.15217431532770828,
+      "Third-largest holding": 0.09017427224294497
+    },
+    {
+      "date": "2002-03-31",
+      "Cash + net T-bills / early cash proxy": 0.2135121108092124,
+      "Disclosed equities": 0.7864878891907876,
+      "Largest holding": 0.2611619421521356,
+      "Second-largest holding": 0.15516728417767317,
+      "Third-largest holding": 0.08158086615654138
+    },
+    {
+      "date": "2002-06-30",
+      "Cash + net T-bills / early cash proxy": 0.2188228873939629,
+      "Disclosed equities": 0.7811771126060371,
+      "Largest holding": 0.2809602840347669,
+      "Second-largest holding": 0.1381346381127759,
+      "Third-largest holding": 0.08156677689088826
+    },
+    {
+      "date": "2002-09-30",
+      "Cash + net T-bills / early cash proxy": 0.27252877328658237,
+      "Disclosed equities": 0.7274712267134176,
+      "Largest holding": 0.25044031360077584,
+      "Second-largest holding": 0.12342441202465458,
+      "Third-largest holding": 0.07419215962551758
+    },
+    {
+      "date": "2002-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3107905286708285,
+      "Disclosed equities": 0.6892094713291714,
+      "Largest holding": 0.21375993616068037,
+      "Second-largest holding": 0.13066067293755879,
+      "Third-largest holding": 0.07105566702563931
+    },
+    {
+      "date": "2003-03-31",
+      "Cash + net T-bills / early cash proxy": 0.41621140430351317,
+      "Disclosed equities": 0.5837885956964868,
+      "Largest holding": 0.17287335980100774,
+      "Second-largest holding": 0.10757659778138737,
+      "Third-largest holding": 0.06342334093568987
+    },
+    {
+      "date": "2003-06-30",
+      "Cash + net T-bills / early cash proxy": 0.47629951114496316,
+      "Disclosed equities": 0.5237004888550368,
+      "Largest holding": 0.15542863389282618,
+      "Second-largest holding": 0.10614498038688903,
+      "Third-largest holding": 0.051216095936139024
+    },
+    {
+      "date": "2003-09-30",
+      "Cash + net T-bills / early cash proxy": 0.49763690048592474,
+      "Disclosed equities": 0.5023630995140752,
+      "Largest holding": 0.13906964543747163,
+      "Second-largest holding": 0.1105755505398547,
+      "Third-largest holding": 0.04969214816860718
+    },
+    {
+      "date": "2003-12-31",
+      "Cash + net T-bills / early cash proxy": 0.5079534187064819,
+      "Disclosed equities": 0.4920465812935181,
+      "Largest holding": 0.14338589681890515,
+      "Second-largest holding": 0.10329696195485824,
+      "Third-largest holding": 0.04981184166177801
+    },
+    {
+      "date": "2004-03-31",
+      "Cash + net T-bills / early cash proxy": 0.533012010469554,
+      "Disclosed equities": 0.466987989530446,
+      "Largest holding": 0.13106747227727808,
+      "Second-largest holding": 0.10241781940019362,
+      "Third-largest holding": 0.04890405716062961
+    },
+    {
+      "date": "2004-06-30",
+      "Cash + net T-bills / early cash proxy": 0.526177270105257,
+      "Disclosed equities": 0.47382272989474306,
+      "Largest holding": 0.1321431237775845,
+      "Second-largest holding": 0.10195749043663879,
+      "Third-largest holding": 0.05327608667039222
+    },
+    {
+      "date": "2004-09-30",
+      "Cash + net T-bills / early cash proxy": 0.5570623749411674,
+      "Disclosed equities": 0.44293762505883266,
+      "Largest holding": 0.10372805224164285,
+      "Second-largest holding": 0.10103302650679079,
+      "Third-largest holding": 0.05189044375210394
+    },
+    {
+      "date": "2004-12-31",
+      "Cash + net T-bills / early cash proxy": 0.5434848107903317,
+      "Disclosed equities": 0.4565151892096683,
+      "Largest holding": 0.10695608871250993,
+      "Second-largest holding": 0.104224134853015,
+      "Third-largest holding": 0.053800077910294085
+    },
+    {
+      "date": "2005-03-31",
+      "Cash + net T-bills / early cash proxy": 0.555385470976249,
+      "Disclosed equities": 0.44461452902375104,
+      "Largest holding": 0.0990940186070363,
+      "Second-largest holding": 0.09260477533766519,
+      "Third-largest holding": 0.060610605595009526
+    },
+    {
+      "date": "2005-06-30",
+      "Cash + net T-bills / early cash proxy": 0.550778586800535,
+      "Disclosed equities": 0.449221413199465,
+      "Largest holding": 0.09628996272736626,
+      "Second-largest holding": 0.0930638107701811,
+      "Third-largest holding": 0.0589573293855448
+    },
+    {
+      "date": "2005-09-30",
+      "Cash + net T-bills / early cash proxy": 0.5223214465036154,
+      "Disclosed equities": 0.4776785534963845,
+      "Largest holding": 0.09801469966323928,
+      "Second-largest holding": 0.08649741645370199,
+      "Third-largest holding": 0.06668626052906287
+    },
+    {
+      "date": "2005-12-31",
+      "Cash + net T-bills / early cash proxy": 0.5081694612933773,
+      "Disclosed equities": 0.4918305387066227,
+      "Largest holding": 0.09173449854717128,
+      "Second-largest holding": 0.08877475848324683,
+      "Third-largest holding": 0.06585947903709374
+    },
+    {
+      "date": "2006-03-31",
+      "Cash + net T-bills / early cash proxy": 0.47783045903274096,
+      "Disclosed equities": 0.5221695409672591,
+      "Largest holding": 0.09493348141780955,
+      "Second-largest holding": 0.09032107805734489,
+      "Third-largest holding": 0.06703522950140604
+    },
+    {
+      "date": "2006-06-30",
+      "Cash + net T-bills / early cash proxy": 0.46676126137563273,
+      "Disclosed equities": 0.5332387386243672,
+      "Largest holding": 0.09636507161696954,
+      "Second-largest holding": 0.09036993061570049,
+      "Third-largest holding": 0.07161432633055548
+    },
+    {
+      "date": "2006-09-30",
+      "Cash + net T-bills / early cash proxy": 0.45089157673914015,
+      "Disclosed equities": 0.5491084232608598,
+      "Largest holding": 0.0963546651724072,
+      "Second-largest holding": 0.09167849813165631,
+      "Third-largest holding": 0.07437309697223654
+    },
+    {
+      "date": "2006-12-31",
+      "Cash + net T-bills / early cash proxy": 0.4414039015853591,
+      "Disclosed equities": 0.558596098414641,
+      "Largest holding": 0.09814624905287589,
+      "Second-largest holding": 0.09355139716692126,
+      "Third-largest holding": 0.07378794429730924
+    },
+    {
+      "date": "2007-03-31",
+      "Cash + net T-bills / early cash proxy": 0.43942893676543804,
+      "Disclosed equities": 0.560571063234562,
+      "Largest holding": 0.0935847157614114,
+      "Second-largest holding": 0.08335710644823581,
+      "Third-largest holding": 0.07795006483860381
+    },
+    {
+      "date": "2007-06-30",
+      "Cash + net T-bills / early cash proxy": 0.41477706453195123,
+      "Disclosed equities": 0.5852229354680487,
+      "Largest holding": 0.09480464178778159,
+      "Second-largest holding": 0.08405318748317506,
+      "Third-largest holding": 0.08212214343614706
+    },
+    {
+      "date": "2007-09-30",
+      "Cash + net T-bills / early cash proxy": 0.39355089230346557,
+      "Disclosed equities": 0.6064491076965345,
+      "Largest holding": 0.10028592011107969,
+      "Second-largest holding": 0.08691911521836913,
+      "Third-largest holding": 0.07853679968270924
+    },
+    {
+      "date": "2007-12-31",
+      "Cash + net T-bills / early cash proxy": 0.38555515309236166,
+      "Disclosed equities": 0.6144448469076383,
+      "Largest holding": 0.10966846536709804,
+      "Second-largest holding": 0.07802737077931543,
+      "Third-largest holding": 0.07046862772002968
+    },
+    {
+      "date": "2008-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3343241697855165,
+      "Disclosed equities": 0.6656758302144835,
+      "Largest holding": 0.12193482258212882,
+      "Second-largest holding": 0.08471596578148703,
+      "Third-largest holding": 0.07428569070518111
+    },
+    {
+      "date": "2008-06-30",
+      "Cash + net T-bills / early cash proxy": 0.32195466935478584,
+      "Disclosed equities": 0.6780453306452141,
+      "Largest holding": 0.11098719178341193,
+      "Second-largest holding": 0.07369666969885041,
+      "Third-largest holding": 0.06871635967647853
+    },
+    {
+      "date": "2008-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3196600603425288,
+      "Disclosed equities": 0.6803399396574712,
+      "Largest holding": 0.10609583402379018,
+      "Second-largest holding": 0.10295160479269702,
+      "Third-largest holding": 0.07180598949190803
+    },
+    {
+      "date": "2008-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3274904740386688,
+      "Disclosed equities": 0.6725095259613312,
+      "Largest holding": 0.11738781234198137,
+      "Second-largest holding": 0.11091059556733819,
+      "Third-largest holding": 0.07719869323793951
+    },
+    {
+      "date": "2009-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3745817248525158,
+      "Disclosed equities": 0.6254182751474842,
+      "Largest holding": 0.13450602503663914,
+      "Second-largest holding": 0.07066751491674282,
+      "Third-largest holding": 0.06940329585705328
+    },
+    {
+      "date": "2009-06-30",
+      "Cash + net T-bills / early cash proxy": 0.3253374054190509,
+      "Disclosed equities": 0.6746625945809491,
+      "Largest holding": 0.13211152867975312,
+      "Second-largest holding": 0.10104921175602778,
+      "Third-largest holding": 0.07771681027843767
+    },
+    {
+      "date": "2009-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3164248964873524,
+      "Disclosed equities": 0.6835751035126476,
+      "Largest holding": 0.12983394033521165,
+      "Second-largest holding": 0.10674866788140784,
+      "Third-largest holding": 0.07409371527448315
+    },
+    {
+      "date": "2009-12-31",
+      "Cash + net T-bills / early cash proxy": 0.34214742530570463,
+      "Disclosed equities": 0.6578525746942954,
+      "Largest holding": 0.12945933507045065,
+      "Second-largest holding": 0.09810730208402747,
+      "Third-largest holding": 0.08598543296179409
+    },
+    {
+      "date": "2010-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3194988274644206,
+      "Disclosed equities": 0.6805011725355794,
+      "Largest holding": 0.14696358209034988,
+      "Second-largest holding": 0.13308420779448077,
+      "Third-largest holding": 0.08357494257565033
+    },
+    {
+      "date": "2010-06-30",
+      "Cash + net T-bills / early cash proxy": 0.35862153543934006,
+      "Disclosed equities": 0.6413784645606599,
+      "Largest holding": 0.13843810495028092,
+      "Second-largest holding": 0.11316822038948561,
+      "Third-largest holding": 0.08312561863147083
+    },
+    {
+      "date": "2010-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3958154463174041,
+      "Disclosed equities": 0.6041845536825958,
+      "Largest holding": 0.14561132734604257,
+      "Second-largest holding": 0.10511418812193116,
+      "Third-largest holding": 0.07927751059492137
+    },
+    {
+      "date": "2010-12-31",
+      "Cash + net T-bills / early cash proxy": 0.4042825204230393,
+      "Disclosed equities": 0.5957174795769606,
+      "Largest holding": 0.1490869715067188,
+      "Second-largest holding": 0.12034307367080448,
+      "Third-largest holding": 0.07375160430853414
+    },
+    {
+      "date": "2011-03-31",
+      "Cash + net T-bills / early cash proxy": 0.4179653260267183,
+      "Disclosed equities": 0.5820346739732817,
+      "Largest holding": 0.14211743327151596,
+      "Second-largest holding": 0.11637394615748411,
+      "Third-largest holding": 0.07340237410860494
+    },
+    {
+      "date": "2011-06-30",
+      "Cash + net T-bills / early cash proxy": 0.44329705010181863,
+      "Disclosed equities": 0.5567029498981814,
+      "Largest holding": 0.13231954348200645,
+      "Second-largest holding": 0.09720258491330562,
+      "Third-largest holding": 0.0770661897840338
+    },
+    {
+      "date": "2011-09-30",
+      "Cash + net T-bills / early cash proxy": 0.35008769635714665,
+      "Disclosed equities": 0.6499123036428534,
+      "Largest holding": 0.1487028057331667,
+      "Second-largest holding": 0.11036733907070255,
+      "Third-largest holding": 0.09592431493810366
+    },
+    {
+      "date": "2011-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3463578187419509,
+      "Disclosed equities": 0.6536421812580491,
+      "Largest holding": 0.13827438473712658,
+      "Second-largest holding": 0.11611156518034109,
+      "Third-largest holding": 0.10449004648376264
+    },
+    {
+      "date": "2012-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3183478096284806,
+      "Disclosed equities": 0.6816521903715195,
+      "Largest holding": 0.13399068124774707,
+      "Second-largest holding": 0.12186612683442744,
+      "Third-largest holding": 0.12162685000174119
+    },
+    {
+      "date": "2012-06-30",
+      "Cash + net T-bills / early cash proxy": 0.33868585049477784,
+      "Disclosed equities": 0.6613141495052222,
+      "Largest holding": 0.13914743954369033,
+      "Second-largest holding": 0.12230660306518391,
+      "Third-largest holding": 0.11598148041602435
+    },
+    {
+      "date": "2012-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3669160110449813,
+      "Disclosed equities": 0.6330839889550187,
+      "Largest holding": 0.12751333622499156,
+      "Second-largest holding": 0.12262726924803179,
+      "Third-largest holding": 0.11771860252409674
+    },
+    {
+      "date": "2012-12-31",
+      "Cash + net T-bills / early cash proxy": 0.37100070973032084,
+      "Disclosed equities": 0.6289992902696792,
+      "Largest holding": 0.12556281915105963,
+      "Second-largest holding": 0.12110013711876215,
+      "Third-largest holding": 0.10896941945930542
+    },
+    {
+      "date": "2013-03-31",
+      "Cash + net T-bills / early cash proxy": 0.35156712001121937,
+      "Disclosed equities": 0.6484328799887806,
+      "Largest holding": 0.12928570739826722,
+      "Second-largest holding": 0.12339864022265948,
+      "Third-largest holding": 0.11084533072849503
+    },
+    {
+      "date": "2013-06-30",
+      "Cash + net T-bills / early cash proxy": 0.26507957415823713,
+      "Disclosed equities": 0.7349204258417629,
+      "Largest holding": 0.1529257512920879,
+      "Second-largest holding": 0.12836729808560957,
+      "Third-largest holding": 0.10416274303264811
+    },
+    {
+      "date": "2013-09-30",
+      "Cash + net T-bills / early cash proxy": 0.28888167242739177,
+      "Disclosed equities": 0.7111183275726083,
+      "Largest holding": 0.14786060861267467,
+      "Second-largest holding": 0.11707326921743641,
+      "Third-largest holding": 0.09746957874248127
+    },
+    {
+      "date": "2013-12-31",
+      "Cash + net T-bills / early cash proxy": 0.2993264526567856,
+      "Disclosed equities": 0.7006735473432144,
+      "Largest holding": 0.14062714445805655,
+      "Second-largest holding": 0.1104378668267031,
+      "Third-largest holding": 0.09193557419500142
+    },
+    {
+      "date": "2014-03-31",
+      "Cash + net T-bills / early cash proxy": 0.29893214327837975,
+      "Disclosed equities": 0.7010678567216202,
+      "Largest holding": 0.15279274808025692,
+      "Second-largest holding": 0.10249632962881107,
+      "Third-largest holding": 0.09046978066853996
+    },
+    {
+      "date": "2014-06-30",
+      "Cash + net T-bills / early cash proxy": 0.3260446305201104,
+      "Disclosed equities": 0.6739553694798897,
+      "Largest holding": 0.1526032895544572,
+      "Second-largest holding": 0.10614852953276492,
+      "Third-largest holding": 0.09010664506709477
+    },
+    {
+      "date": "2014-09-30",
+      "Cash + net T-bills / early cash proxy": 0.35022063858273045,
+      "Disclosed equities": 0.6497793614172696,
+      "Largest holding": 0.1440920597226857,
+      "Second-largest holding": 0.10228080793777664,
+      "Third-largest holding": 0.08019212870828146
+    },
+    {
+      "date": "2014-12-31",
+      "Cash + net T-bills / early cash proxy": 0.35528407003451457,
+      "Disclosed equities": 0.6447159299654854,
+      "Largest holding": 0.14977471342090584,
+      "Second-largest holding": 0.0995559338199179,
+      "Third-largest holding": 0.08315502417291079
+    },
+    {
+      "date": "2015-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3597185528191941,
+      "Disclosed equities": 0.6402814471808058,
+      "Largest holding": 0.15290176880537373,
+      "Second-largest holding": 0.09693855898465382,
+      "Third-largest holding": 0.07632089290285975
+    },
+    {
+      "date": "2015-06-30",
+      "Cash + net T-bills / early cash proxy": 0.3640528799300706,
+      "Disclosed equities": 0.6359471200699294,
+      "Largest holding": 0.1535052383522289,
+      "Second-largest holding": 0.09107271439596264,
+      "Third-largest holding": 0.07511270973159134
+    },
+    {
+      "date": "2015-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3258023076957025,
+      "Disclosed equities": 0.6741976923042975,
+      "Largest holding": 0.12779104850050135,
+      "Second-largest holding": 0.12161987051071445,
+      "Third-largest holding": 0.08492057866943309
+    },
+    {
+      "date": "2015-12-31",
+      "Cash + net T-bills / early cash proxy": 0.34121158897709847,
+      "Disclosed equities": 0.6587884110229015,
+      "Largest holding": 0.1302868585558877,
+      "Second-largest holding": 0.11837802800616039,
+      "Third-largest holding": 0.08585623629043182
+    },
+    {
+      "date": "2016-03-31",
+      "Cash + net T-bills / early cash proxy": 0.30208505619750997,
+      "Disclosed equities": 0.69791494380249,
+      "Largest holding": 0.1388661444505382,
+      "Second-largest holding": 0.1259284793191892,
+      "Third-largest holding": 0.1007275885498831
+    },
+    {
+      "date": "2016-06-30",
+      "Cash + net T-bills / early cash proxy": 0.34935436511188583,
+      "Disclosed equities": 0.6506456348881142,
+      "Largest holding": 0.1445322144148207,
+      "Second-largest holding": 0.11389347090185842,
+      "Third-largest holding": 0.09095664098629745
+    },
+    {
+      "date": "2016-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3859359342153314,
+      "Disclosed equities": 0.6140640657846687,
+      "Largest holding": 0.13897724068919187,
+      "Second-largest holding": 0.10127972220928225,
+      "Third-largest holding": 0.08071364533039786
+    },
+    {
+      "date": "2016-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3577482864290643,
+      "Disclosed equities": 0.6422517135709357,
+      "Largest holding": 0.12340465751457283,
+      "Second-largest holding": 0.11473370027570717,
+      "Third-largest holding": 0.07197410661207074
+    },
+    {
+      "date": "2017-03-31",
+      "Cash + net T-bills / early cash proxy": 0.35955933740129936,
+      "Disclosed equities": 0.6404406625987006,
+      "Largest holding": 0.11699485575749789,
+      "Second-largest holding": 0.10563772621907361,
+      "Third-largest holding": 0.07352387469846106
+    },
+    {
+      "date": "2017-06-30",
+      "Cash + net T-bills / early cash proxy": 0.3689205068064096,
+      "Disclosed equities": 0.6310794931935905,
+      "Largest holding": 0.1085404243009678,
+      "Second-largest holding": 0.1009267328123656,
+      "Third-largest holding": 0.07297783722519811
+    },
+    {
+      "date": "2017-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3711171038586392,
+      "Disclosed equities": 0.6288828961413607,
+      "Largest holding": 0.0906181308034321,
+      "Second-largest holding": 0.08938134514744725,
+      "Third-largest holding": 0.07314735743452677
+    },
+    {
+      "date": "2017-12-31",
+      "Cash + net T-bills / early cash proxy": 0.37150490348252063,
+      "Disclosed equities": 0.6284950965174794,
+      "Largest holding": 0.09195100303711273,
+      "Second-largest holding": 0.09136433591771513,
+      "Third-largest holding": 0.0832154781975237
+    },
+    {
+      "date": "2018-03-31",
+      "Cash + net T-bills / early cash proxy": 0.35723728822484907,
+      "Disclosed equities": 0.6427627117751509,
+      "Largest holding": 0.1367370455285609,
+      "Second-largest holding": 0.08139268493479614,
+      "Third-largest holding": 0.06927301225303624
+    },
+    {
+      "date": "2018-06-30",
+      "Cash + net T-bills / early cash proxy": 0.35515201322709833,
+      "Disclosed equities": 0.6448479867729017,
+      "Largest holding": 0.15374741167262526,
+      "Second-largest holding": 0.08260918042439261,
+      "Third-largest holding": 0.06743450829051141
+    },
+    {
+      "date": "2018-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3122481679209197,
+      "Disclosed equities": 0.6877518320790803,
+      "Largest holding": 0.17735083863539255,
+      "Second-largest holding": 0.08041837271506018,
+      "Third-largest holding": 0.07234902943753163
+    },
+    {
+      "date": "2018-12-31",
+      "Cash + net T-bills / early cash proxy": 0.36926201074088527,
+      "Disclosed equities": 0.6307379892591147,
+      "Largest holding": 0.13564662439722908,
+      "Second-largest holding": 0.07608009861678189,
+      "Third-largest holding": 0.0677557838498437
+    },
+    {
+      "date": "2019-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3565035616098064,
+      "Disclosed equities": 0.6434964383901935,
+      "Largest holding": 0.15293399566686044,
+      "Second-largest holding": 0.07975898803104679,
+      "Third-largest holding": 0.06387656984502708
+    },
+    {
+      "date": "2019-06-30",
+      "Cash + net T-bills / early cash proxy": 0.3640352299188845,
+      "Disclosed equities": 0.6359647700811155,
+      "Largest holding": 0.15096435857033744,
+      "Second-largest holding": 0.08217749983140603,
+      "Third-largest holding": 0.06224537913858159
+    },
+    {
+      "date": "2019-09-30",
+      "Cash + net T-bills / early cash proxy": 0.35142508189563354,
+      "Disclosed equities": 0.6485749181043665,
+      "Largest holding": 0.1683797422109905,
+      "Second-largest holding": 0.08171743602829493,
+      "Third-largest holding": 0.0657900479144363
+    },
+    {
+      "date": "2019-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3405038808432099,
+      "Disclosed equities": 0.6594961191567901,
+      "Largest holding": 0.1961451799040006,
+      "Second-largest holding": 0.08876484404412481,
+      "Third-largest holding": 0.060323077159615816
+    },
+    {
+      "date": "2020-03-31",
+      "Cash + net T-bills / early cash proxy": 0.41537206928959014,
+      "Disclosed equities": 0.5846279307104099,
+      "Largest holding": 0.20763810248659487,
+      "Second-largest holding": 0.06540813448326725,
+      "Third-largest holding": 0.05895346036242334
+    },
+    {
+      "date": "2020-06-30",
+      "Cash + net T-bills / early cash proxy": 0.411823137093389,
+      "Disclosed equities": 0.588176862906611,
+      "Largest holding": 0.25987832280019185,
+      "Second-largest holding": 0.06383852581067412,
+      "Third-largest holding": 0.05193338150964502
+    },
+    {
+      "date": "2020-09-30",
+      "Cash + net T-bills / early cash proxy": 0.36426853659124186,
+      "Disclosed equities": 0.6357314634087582,
+      "Largest holding": 0.29466890656514055,
+      "Second-largest holding": 0.06556645851076646,
+      "Third-largest holding": 0.05321124544603366
+    },
+    {
+      "date": "2020-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3334160382780005,
+      "Disclosed equities": 0.6665839617219995,
+      "Largest holding": 0.2906938603738365,
+      "Second-largest holding": 0.07560634778856269,
+      "Third-largest holding": 0.054170781417113636
+    },
+    {
+      "date": "2021-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3380807132916359,
+      "Disclosed equities": 0.6619192867083641,
+      "Largest holding": 0.2652316073293124,
+      "Second-largest holding": 0.09565445114599441,
+      "Third-largest holding": 0.052486052307335336
+    },
+    {
+      "date": "2021-06-30",
+      "Cash + net T-bills / early cash proxy": 0.3243753648369745,
+      "Disclosed equities": 0.6756246351630255,
+      "Largest holding": 0.28014759175939563,
+      "Second-largest holding": 0.09602429390807829,
+      "Third-largest holding": 0.05775929649087943
+    },
+    {
+      "date": "2021-09-30",
+      "Cash + net T-bills / early cash proxy": 0.3297416756455311,
+      "Disclosed equities": 0.6702583243544689,
+      "Largest holding": 0.28672023936680624,
+      "Second-largest holding": 0.09793868180764731,
+      "Third-largest holding": 0.058014206572857434
+    },
+    {
+      "date": "2021-12-31",
+      "Cash + net T-bills / early cash proxy": 0.30297380540044755,
+      "Disclosed equities": 0.6970261945995525,
+      "Largest holding": 0.33177428211821197,
+      "Second-largest holding": 0.0946477244917871,
+      "Third-largest holding": 0.05223917384961044
+    },
+    {
+      "date": "2022-03-31",
+      "Cash + net T-bills / early cash proxy": 0.22024469353390688,
+      "Disclosed equities": 0.7797553064660931,
+      "Largest holding": 0.3336564112173537,
+      "Second-largest holding": 0.08930229440076248,
+      "Third-largest holding": 0.0608081020534556
+    },
+    {
+      "date": "2022-06-30",
+      "Cash + net T-bills / early cash proxy": 0.25241627614382955,
+      "Disclosed equities": 0.7475837238561704,
+      "Largest holding": 0.30472526447278564,
+      "Second-largest holding": 0.07832367675082023,
+      "Third-largest holding": 0.0626800001271335
+    },
+    {
+      "date": "2022-09-30",
+      "Cash + net T-bills / early cash proxy": 0.2621520525263991,
+      "Disclosed equities": 0.7378479474736009,
+      "Largest holding": 0.30815451344293976,
+      "Second-largest holding": 0.07601599401381977,
+      "Third-largest holding": 0.05920087892866751
+    },
+    {
+      "date": "2022-12-31",
+      "Cash + net T-bills / early cash proxy": 0.29486256413978,
+      "Disclosed equities": 0.7051374358602199,
+      "Largest holding": 0.2742774226662141,
+      "Second-largest holding": 0.07889445357703957,
+      "Third-largest holding": 0.06898502319376276
+    },
+    {
+      "date": "2023-03-31",
+      "Cash + net T-bills / early cash proxy": 0.281976288277148,
+      "Disclosed equities": 0.718023711722852,
+      "Largest holding": 0.3334400572755463,
+      "Second-largest holding": 0.06524004546633855,
+      "Third-largest holding": 0.05523219428371539
+    },
+    {
+      "date": "2023-06-30",
+      "Cash + net T-bills / early cash proxy": 0.28958409537328966,
+      "Disclosed equities": 0.7104159046267103,
+      "Largest holding": 0.36233716397473686,
+      "Second-largest holding": 0.0604588620773581,
+      "Third-largest holding": 0.05388517863037653
+    },
+    {
+      "date": "2023-09-30",
+      "Cash + net T-bills / early cash proxy": 0.32547726088149764,
+      "Disclosed equities": 0.6745227391185024,
+      "Largest holding": 0.33571247282425687,
+      "Second-largest holding": 0.060565164229637376,
+      "Third-largest holding": 0.0484418727993627
+    },
+    {
+      "date": "2023-12-31",
+      "Cash + net T-bills / early cash proxy": 0.3177412104142708,
+      "Disclosed equities": 0.6822587895857293,
+      "Largest holding": 0.3380217780159127,
+      "Second-largest holding": 0.06742333864092658,
+      "Third-largest holding": 0.05506674537479201
+    },
+    {
+      "date": "2024-03-31",
+      "Cash + net T-bills / early cash proxy": 0.3552435149266895,
+      "Disclosed equities": 0.6447564850733105,
+      "Largest holding": 0.2631292581593934,
+      "Second-largest holding": 0.07613464521119098,
+      "Third-largest holding": 0.06710420140547761
+    },
+    {
+      "date": "2024-06-30",
+      "Cash + net T-bills / early cash proxy": 0.4924005208950591,
+      "Disclosed equities": 0.5075994791049409,
+      "Largest holding": 0.15274630903053524,
+      "Second-largest holding": 0.07447402278297903,
+      "Third-largest holding": 0.06364814681579097
+    },
+    {
+      "date": "2024-09-30",
+      "Cash + net T-bills / early cash proxy": 0.5344221907541327,
+      "Disclosed equities": 0.4655778092458674,
+      "Largest holding": 0.12217142125308689,
+      "Second-largest holding": 0.07186409959374482,
+      "Third-largest holding": 0.05532158540782663
+    },
+    {
+      "date": "2024-12-31",
+      "Cash + net T-bills / early cash proxy": 0.5434548261517507,
+      "Disclosed equities": 0.45654517384824933,
+      "Largest holding": 0.12837410629449628,
+      "Second-largest holding": 0.07688936672122486,
+      "Third-largest holding": 0.05108626106035563
+    },
+    {
+      "date": "2025-03-31",
+      "Cash + net T-bills / early cash proxy": 0.5580153996984165,
+      "Disclosed equities": 0.4419846003015835,
+      "Largest holding": 0.11336620262155091,
+      "Second-largest holding": 0.06939336976538799,
+      "Third-largest holding": 0.048735950009786914
+    },
+    {
+      "date": "2025-06-30",
+      "Cash + net T-bills / early cash proxy": 0.568871169391509,
+      "Disclosed equities": 0.43112883060849105,
+      "Largest holding": 0.09617562019416138,
+      "Second-largest holding": 0.08096296649503407,
+      "Third-largest holding": 0.04794961307399708
+    },
+    {
+      "date": "2025-09-30",
+      "Cash + net T-bills / early cash proxy": 0.5699366070330726,
+      "Disclosed equities": 0.43006339296692747,
+      "Largest holding": 0.0975780338942659,
+      "Second-largest holding": 0.08101298783674438,
+      "Third-largest holding": 0.04714600051129526
+    },
+    {
+      "date": "2025-12-31",
+      "Cash + net T-bills / early cash proxy": 0.5737203531668885,
+      "Disclosed equities": 0.42627964683311154,
+      "Largest holding": 0.0963416190570808,
+      "Second-largest holding": 0.08720939087525788,
+      "Third-largest holding": 0.04423765759959768
+    },
+    {
+      "date": "2026-03-31",
+      "Cash + net T-bills / early cash proxy": 0.5867211020972726,
+      "Disclosed equities": 0.4132788979027274,
+      "Largest holding": 0.09086198909092819,
+      "Second-largest holding": 0.07203706199744628,
+      "Third-largest holding": 0.047784680265050554
+    },
+    {
+      "date": "2026-06-30",
+      "Cash + net T-bills / early cash proxy": 0.5455413375057718,
+      "Disclosed equities": 0.4544586624942281,
+      "Largest holding": 0.10015481221578434,
+      "Second-largest holding": 0.07787942278674255,
+      "Third-largest holding": 0.05735008570038137
+    }
+  ]
+}

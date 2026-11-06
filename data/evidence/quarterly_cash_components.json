@@ -1,0 +1,1952 @@
+{
+  "rows": [
+    {
+      "date": "1998-12-31",
+      "cash_pool_usd": "14489000000",
+      "cash_equivalents_usd": "14489000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/1998ar/1998ar.pdf"
+      ],
+      "cash_source_pages": [
+        23
+      ],
+      "notes": [
+        "PDF hidden text incorrectly renders Finance cash as 16,907. Corrected to 907 using cash-flow breakdown and the following quarter comparative; 13,582+907=14,489.",
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "1999-03-31",
+      "cash_pool_usd": "15506000000",
+      "cash_equivalents_usd": "15506000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://berkshirehathaway.com/qtrly/1stqtr99.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "1999-06-30",
+      "cash_pool_usd": "4418000000",
+      "cash_equivalents_usd": "4418000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://berkshirehathaway.com/qtrly/2ndqtr99.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "1999-09-30",
+      "cash_pool_usd": "5564000000",
+      "cash_equivalents_usd": "5564000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr99.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "1999-12-31",
+      "cash_pool_usd": "4458000000",
+      "cash_equivalents_usd": "4458000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/1999ar/1999ar.pdf"
+      ],
+      "cash_source_pages": [
+        23
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2000-03-31",
+      "cash_pool_usd": "3424000000",
+      "cash_equivalents_usd": "3424000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr00.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2000-06-30",
+      "cash_pool_usd": "3213000000",
+      "cash_equivalents_usd": "3213000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr00.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained.",
+        "0000950150-00-000752: restates only Shaw Communications, replacing USD 340,401,000 with USD 352,745,000; other holdings retained.",
+        "0000950150-00-000938: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset.",
+        "0001095811-01-001370: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset."
+      ]
+    },
+    {
+      "date": "2000-09-30",
+      "cash_pool_usd": "3673000000",
+      "cash_equivalents_usd": "3673000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr00.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained.",
+        "0001095811-01-001371: although the restatement checkbox is marked, the introductory statement identifies expired confidential treatment and the table contains only newly disclosed securities; append this nonoverlapping subset."
+      ]
+    },
+    {
+      "date": "2000-12-31",
+      "cash_pool_usd": "5604000000",
+      "cash_equivalents_usd": "5604000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2000ar/2000ar.pdf"
+      ],
+      "cash_source_pages": [
+        25
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained.",
+        "0001095811-01-001489: cover/summary correction only, adding omitted names to the confidentiality explanation; no information table. Preserve original holdings.",
+        "0000950150-01-000126: Source table rows sum to USD 3,452,079,000 while the summary and grand-total line show USD 3,425,079,000; retain the individually reported holdings and disclose the USD 27,000,000 discrepancy."
+      ]
+    },
+    {
+      "date": "2001-03-31",
+      "cash_pool_usd": "6440000000",
+      "cash_equivalents_usd": "6440000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://berkshirehathaway.com/qtrly/1stqtr01.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained.",
+        "0000950150-01-500330: cover/summary correction only, adding omitted names to the confidentiality explanation; no information table. Preserve original holdings."
+      ]
+    },
+    {
+      "date": "2001-06-30",
+      "cash_pool_usd": "8211000000",
+      "cash_equivalents_usd": "8211000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr01.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2001-09-30",
+      "cash_pool_usd": "6361000000",
+      "cash_equivalents_usd": "6361000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr01a.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2001-12-31",
+      "cash_pool_usd": "6498000000",
+      "cash_equivalents_usd": "6498000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2001ar/2001ar.pdf"
+      ],
+      "cash_source_pages": [
+        23
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2002-03-31",
+      "cash_pool_usd": "8545000000",
+      "cash_equivalents_usd": "8545000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr02.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2002-06-30",
+      "cash_pool_usd": "8723000000",
+      "cash_equivalents_usd": "8723000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr02.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "Balance-sheet top-level cash excludes separately grouped finance businesses; finance cash added from the finance note or cash-flow breakdown.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2002-09-30",
+      "cash_pool_usd": "10438000000",
+      "cash_equivalents_usd": "10438000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr02.pdf"
+      ],
+      "cash_source_pages": [
+        1
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2002-12-31",
+      "cash_pool_usd": "12748000000",
+      "cash_equivalents_usd": "12748000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2002ar/2002ar.pdf"
+      ],
+      "cash_source_pages": [
+        27
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2003-03-31",
+      "cash_pool_usd": "19492000000",
+      "cash_equivalents_usd": "19492000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr03.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2003-06-30",
+      "cash_pool_usd": "28444000000",
+      "cash_equivalents_usd": "28444000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr03.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained.",
+        "0000950150-03-000957: Source table rows sum to USD 29,869,248,000 while the summary and grand-total line show USD 29,889,248,000; retain the individually reported holdings and disclose the USD 20,000,000 discrepancy."
+      ]
+    },
+    {
+      "date": "2003-09-30",
+      "cash_pool_usd": "30745000000",
+      "cash_equivalents_usd": "30745000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr03.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2003-12-31",
+      "cash_pool_usd": "35957000000",
+      "cash_equivalents_usd": "35957000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2003ar/2003ar.pdf"
+      ],
+      "cash_source_pages": [
+        27
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2004-03-31",
+      "cash_pool_usd": "40911000000",
+      "cash_equivalents_usd": "40911000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr04.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2004-06-30",
+      "cash_pool_usd": "40201000000",
+      "cash_equivalents_usd": "40201000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr04.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2004-09-30",
+      "cash_pool_usd": "43017000000",
+      "cash_equivalents_usd": "43017000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr04.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2004-12-31",
+      "cash_pool_usd": "43427000000",
+      "cash_equivalents_usd": "43427000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2004ar/2004ar.pdf"
+      ],
+      "cash_source_pages": [
+        30
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2005-03-31",
+      "cash_pool_usd": "46709000000",
+      "cash_equivalents_usd": "46709000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr05.pdf"
+      ],
+      "cash_source_pages": [
+        2
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2005-06-30",
+      "cash_pool_usd": "47762000000",
+      "cash_equivalents_usd": "47762000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr05.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2005-09-30",
+      "cash_pool_usd": "46032000000",
+      "cash_equivalents_usd": "46032000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr05.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained.",
+        "0000950129-05-011287: Source table rows sum to USD 2,798,320,000 while the summary and grand-total line show USD 2,798,328,000; retain the individually reported holdings and disclose the USD 8,000 discrepancy."
+      ]
+    },
+    {
+      "date": "2005-12-31",
+      "cash_pool_usd": "44660000000",
+      "cash_equivalents_usd": "44660000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2005ar/2005ar.pdf"
+      ],
+      "cash_source_pages": [
+        27
+      ],
+      "notes": [
+        "Utilities cash 358 is the unaudited pro-forma consolidated column. Audited cash-flow cash excludes MidAmerican before its 2006 consolidation. The selected I&O and Finance values are unchanged between pro-forma and audited columns.",
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2006-03-31",
+      "cash_pool_usd": "42149000000",
+      "cash_equivalents_usd": "42149000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr06.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2006-06-30",
+      "cash_pool_usd": "41675000000",
+      "cash_equivalents_usd": "41675000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr06.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2006-09-30",
+      "cash_pool_usd": "41816000000",
+      "cash_equivalents_usd": "41816000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr06.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2006-12-31",
+      "cash_pool_usd": "43400000000",
+      "cash_equivalents_usd": "43400000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2006ar/2006ar.pdf"
+      ],
+      "cash_source_pages": [
+        27
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2007-03-31",
+      "cash_pool_usd": "45077000000",
+      "cash_equivalents_usd": "45077000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr07.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2007-06-30",
+      "cash_pool_usd": "45772000000",
+      "cash_equivalents_usd": "45772000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr07.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2007-09-30",
+      "cash_pool_usd": "45105000000",
+      "cash_equivalents_usd": "45105000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr07.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2007-12-31",
+      "cash_pool_usd": "43151000000",
+      "cash_equivalents_usd": "43151000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2007ar/2007ar.pdf"
+      ],
+      "cash_source_pages": [
+        26
+      ],
+      "notes": [
+        "No separate Treasury-bill balance or unsettled Treasury-purchase payable is disclosed in this report; neither missing component is asserted to be zero. Reported historical cash-and-equivalents pool is retained."
+      ]
+    },
+    {
+      "date": "2008-03-31",
+      "cash_pool_usd": "33379000000",
+      "cash_equivalents_usd": "33379000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr08.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2008-06-30",
+      "cash_pool_usd": "30157000000",
+      "cash_equivalents_usd": "30157000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr08.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2008-09-30",
+      "cash_pool_usd": "32838000000",
+      "cash_equivalents_usd": "32838000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr08.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2008-12-31",
+      "cash_pool_usd": "25259000000",
+      "cash_equivalents_usd": "25259000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2008ar/2008ar.pdf"
+      ],
+      "cash_source_pages": [
+        29
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2009-03-31",
+      "cash_pool_usd": "24479000000",
+      "cash_equivalents_usd": "24479000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr09.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2009-06-30",
+      "cash_pool_usd": "23636000000",
+      "cash_equivalents_usd": "23636000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr09.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2009-09-30",
+      "cash_pool_usd": "26175000000",
+      "cash_equivalents_usd": "26175000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr09.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2009-12-31",
+      "cash_pool_usd": "30129000000",
+      "cash_equivalents_usd": "30129000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2009ar/2009ar.pdf"
+      ],
+      "cash_source_pages": [
+        26
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2010-03-31",
+      "cash_pool_usd": "23914000000",
+      "cash_equivalents_usd": "23914000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr10.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2010-06-30",
+      "cash_pool_usd": "25967000000",
+      "cash_equivalents_usd": "25967000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr10.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2010-09-30",
+      "cash_pool_usd": "31815000000",
+      "cash_equivalents_usd": "31815000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr10.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2010-12-31",
+      "cash_pool_usd": "35670000000",
+      "cash_equivalents_usd": "35670000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2010ar/2010ar.pdf"
+      ],
+      "cash_source_pages": [
+        32
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2011-03-31",
+      "cash_pool_usd": "39021000000",
+      "cash_equivalents_usd": "39021000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr11.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2011-06-30",
+      "cash_pool_usd": "45087000000",
+      "cash_equivalents_usd": "45087000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr11.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2011-09-30",
+      "cash_pool_usd": "31811000000",
+      "cash_equivalents_usd": "31811000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr11.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2011-12-31",
+      "cash_pool_usd": "35053000000",
+      "cash_equivalents_usd": "35053000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2011ar/2011ar.pdf"
+      ],
+      "cash_source_pages": [
+        28
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2012-03-31",
+      "cash_pool_usd": "35168000000",
+      "cash_equivalents_usd": "35168000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr12.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2012-06-30",
+      "cash_pool_usd": "38063000000",
+      "cash_equivalents_usd": "38063000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr12.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2012-09-30",
+      "cash_pool_usd": "43657000000",
+      "cash_equivalents_usd": "43657000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr12.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2012-12-31",
+      "cash_pool_usd": "44422000000",
+      "cash_equivalents_usd": "44422000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2012ar/2012ar.pdf"
+      ],
+      "cash_source_pages": [
+        30
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2013-03-31",
+      "cash_pool_usd": "46086000000",
+      "cash_equivalents_usd": "46086000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr13.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2013-06-30",
+      "cash_pool_usd": "33131000000",
+      "cash_equivalents_usd": "33131000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr13.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time.",
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2013-09-30",
+      "cash_pool_usd": "37388000000",
+      "cash_equivalents_usd": "37388000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr13.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2013-12-31",
+      "cash_pool_usd": "44786000000",
+      "cash_equivalents_usd": "44786000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2013ar/2013ar.pdf"
+      ],
+      "cash_source_pages": [
+        30
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2014-03-31",
+      "cash_pool_usd": "45101000000",
+      "cash_equivalents_usd": "45101000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr14.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2014-06-30",
+      "cash_pool_usd": "52045000000",
+      "cash_equivalents_usd": "52045000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr14.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2014-09-30",
+      "cash_pool_usd": "58429000000",
+      "cash_equivalents_usd": "58429000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr14.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time.",
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2014-12-31",
+      "cash_pool_usd": "60268000000",
+      "cash_equivalents_usd": "60268000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2014ar/2014ar.pdf"
+      ],
+      "cash_source_pages": [
+        50
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2015-03-31",
+      "cash_pool_usd": "60189000000",
+      "cash_equivalents_usd": "60189000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr15.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2015-06-30",
+      "cash_pool_usd": "62727000000",
+      "cash_equivalents_usd": "62727000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr15.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time.",
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2015-09-30",
+      "cash_pool_usd": "61569000000",
+      "cash_equivalents_usd": "61569000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr15.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2015-12-31",
+      "cash_pool_usd": "68293000000",
+      "cash_equivalents_usd": "68293000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2015ar/2015ar.pdf"
+      ],
+      "cash_source_pages": [
+        38
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2016-03-31",
+      "cash_pool_usd": "55650000000",
+      "cash_equivalents_usd": "55650000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr16.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2016-06-30",
+      "cash_pool_usd": "69643000000",
+      "cash_equivalents_usd": "69643000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr16.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2016-09-30",
+      "cash_pool_usd": "80942000000",
+      "cash_equivalents_usd": "80942000000",
+      "separately_reported_treasury_bills_usd": null,
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr16.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. No separate U.S. Treasury-bill line is reported for this period, so the original cash-and-equivalents total is retained. The 2016 annual report explains that longer-dated Treasury bills had previously been included in cash equivalents; they are not added a second time."
+      ]
+    },
+    {
+      "date": "2016-12-31",
+      "cash_pool_usd": "82431000000",
+      "cash_equivalents_usd": "24109000000",
+      "separately_reported_treasury_bills_usd": "58322000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2016ar/2016ar.pdf"
+      ],
+      "cash_source_pages": [
+        36
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made."
+      ]
+    },
+    {
+      "date": "2017-03-31",
+      "cash_pool_usd": "90880000000",
+      "cash_equivalents_usd": "20379000000",
+      "separately_reported_treasury_bills_usd": "70501000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr17.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made."
+      ]
+    },
+    {
+      "date": "2017-06-30",
+      "cash_pool_usd": "94787000000",
+      "cash_equivalents_usd": "21456000000",
+      "separately_reported_treasury_bills_usd": "73331000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr17.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made."
+      ]
+    },
+    {
+      "date": "2017-09-30",
+      "cash_pool_usd": "104852000000",
+      "cash_equivalents_usd": "38258000000",
+      "separately_reported_treasury_bills_usd": "66594000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr17.pdf"
+      ],
+      "cash_source_pages": [
+        3
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made."
+      ]
+    },
+    {
+      "date": "2017-12-31",
+      "cash_pool_usd": "113044000000",
+      "cash_equivalents_usd": "28673000000",
+      "separately_reported_treasury_bills_usd": "84371000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2017ar/2017ar.pdf"
+      ],
+      "cash_source_pages": [
+        94
+      ],
+      "notes": [
+        "Combine the historical Insurance and Other and Finance and Financial Products segments to align with the post-2018 scope; exclude railroad and energy businesses. Unsettled Treasury purchase payables were not separately disclosed, so no additional deduction is made. The combined historical segments match the restated 2018 annual-report comparative: cash of USD 28,673 million and Treasury bills of USD 84,371 million."
+      ]
+    },
+    {
+      "date": "2018-03-31",
+      "cash_pool_usd": "105012000000",
+      "cash_equivalents_usd": "54331000000",
+      "separately_reported_treasury_bills_usd": "50681000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr18.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "2018 quarterly presentation retains Finance and Financial Products separately. Add this former segment for comparability to subsequent Insurance and Other presentation; original components retained.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2018-06-30",
+      "cash_pool_usd": "107736000000",
+      "cash_equivalents_usd": "61198000000",
+      "separately_reported_treasury_bills_usd": "46538000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr18.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "2018 quarterly presentation retains Finance and Financial Products separately. Add this former segment for comparability to subsequent Insurance and Other presentation; original components retained.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2018-09-30",
+      "cash_pool_usd": "100346000000",
+      "cash_equivalents_usd": "38141000000",
+      "separately_reported_treasury_bills_usd": "62205000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr18.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "2018 quarterly presentation retains Finance and Financial Products separately. Add this former segment for comparability to subsequent Insurance and Other presentation; original components retained.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2018-12-31",
+      "cash_pool_usd": "107175000000",
+      "cash_equivalents_usd": "27749000000",
+      "separately_reported_treasury_bills_usd": "81506000000",
+      "unsettled_treasury_payable_usd": "2080000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2018ar/2018ar.pdf",
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr19.pdf"
+      ],
+      "cash_source_pages": [
+        84,
+        85
+      ],
+      "notes": [
+        "Original 2018 annual report did not separately present Treasury-purchase payable. Deduct 2,080 million disclosed in 2019 quarterly comparative balance sheet."
+      ]
+    },
+    {
+      "date": "2019-03-31",
+      "cash_pool_usd": "110516000000",
+      "cash_equivalents_usd": "22487000000",
+      "separately_reported_treasury_bills_usd": "88029000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr19.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2019-06-30",
+      "cash_pool_usd": "119120000000",
+      "cash_equivalents_usd": "41375000000",
+      "separately_reported_treasury_bills_usd": "77745000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr19.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2019-09-30",
+      "cash_pool_usd": "116319000000",
+      "cash_equivalents_usd": "71064000000",
+      "separately_reported_treasury_bills_usd": "53378000000",
+      "unsettled_treasury_payable_usd": "8123000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr19.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2019-12-31",
+      "cash_pool_usd": "124973000000",
+      "cash_equivalents_usd": "61151000000",
+      "separately_reported_treasury_bills_usd": "63822000000",
+      "unsettled_treasury_payable_usd": "0",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2019ar/2019ar.pdf",
+        "https://www.berkshirehathaway.com/qtrly/1stqtr20.pdf"
+      ],
+      "cash_source_pages": [
+        86,
+        87
+      ],
+      "notes": [
+        "Year-end Treasury-purchase payable is confirmed as a dash in the following first-quarter comparative balance sheet."
+      ]
+    },
+    {
+      "date": "2020-03-31",
+      "cash_pool_usd": "124710000000",
+      "cash_equivalents_usd": "38717000000",
+      "separately_reported_treasury_bills_usd": "94623000000",
+      "unsettled_treasury_payable_usd": "8630000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr20.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2020-06-30",
+      "cash_pool_usd": "141722000000",
+      "cash_equivalents_usd": "32318000000",
+      "separately_reported_treasury_bills_usd": "110518000000",
+      "unsettled_treasury_payable_usd": "1114000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr20.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2020-09-30",
+      "cash_pool_usd": "135189000000",
+      "cash_equivalents_usd": "23078000000",
+      "separately_reported_treasury_bills_usd": "118906000000",
+      "unsettled_treasury_payable_usd": "6795000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr20.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2020-12-31",
+      "cash_pool_usd": "135014000000",
+      "cash_equivalents_usd": "44714000000",
+      "separately_reported_treasury_bills_usd": "90300000000",
+      "unsettled_treasury_payable_usd": "0",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2020ar/2020ar.pdf",
+        "https://www.berkshirehathaway.com/qtrly/1stqtr21.pdf"
+      ],
+      "cash_source_pages": [
+        90,
+        91
+      ],
+      "notes": [
+        "Year-end Treasury-purchase payable is confirmed as a dash in the following first-quarter comparative balance sheet."
+      ]
+    },
+    {
+      "date": "2021-03-31",
+      "cash_pool_usd": "138127000000",
+      "cash_equivalents_usd": "56826000000",
+      "separately_reported_treasury_bills_usd": "85385000000",
+      "unsettled_treasury_payable_usd": "4084000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr21.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2021-06-30",
+      "cash_pool_usd": "140684000000",
+      "cash_equivalents_usd": "38924000000",
+      "separately_reported_treasury_bills_usd": "101760000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr21.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2021-09-30",
+      "cash_pool_usd": "144365000000",
+      "cash_equivalents_usd": "65156000000",
+      "separately_reported_treasury_bills_usd": "79209000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr21.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2021-12-31",
+      "cash_pool_usd": "143854000000",
+      "cash_equivalents_usd": "85319000000",
+      "separately_reported_treasury_bills_usd": "58535000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2021ar/2021ar.pdf"
+      ],
+      "cash_source_pages": [
+        85,
+        86
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2022-03-31",
+      "cash_pool_usd": "102687000000",
+      "cash_equivalents_usd": "35542000000",
+      "separately_reported_treasury_bills_usd": "67145000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr22.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2022-06-30",
+      "cash_pool_usd": "101337000000",
+      "cash_equivalents_usd": "26534000000",
+      "separately_reported_treasury_bills_usd": "74803000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr22.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2022-09-30",
+      "cash_pool_usd": "105201000000",
+      "cash_equivalents_usd": "28869000000",
+      "separately_reported_treasury_bills_usd": "76332000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr22.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2022-12-31",
+      "cash_pool_usd": "125034000000",
+      "cash_equivalents_usd": "32260000000",
+      "separately_reported_treasury_bills_usd": "92774000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2022ar/2022ar.pdf"
+      ],
+      "cash_source_pages": [
+        86,
+        87
+      ],
+      "notes": [
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2023-03-31",
+      "cash_pool_usd": "127674000000",
+      "cash_equivalents_usd": "23805000000",
+      "separately_reported_treasury_bills_usd": "103869000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr23.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Uses original quarterly Insurance and Other presentation. Pilot was then presented under Railroad, Utilities and Energy; no quarter-specific reclassification has been applied.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2023-06-30",
+      "cash_pool_usd": "141933000000",
+      "cash_equivalents_usd": "44611000000",
+      "separately_reported_treasury_bills_usd": "97322000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr23.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Uses original quarterly Insurance and Other presentation. Pilot was then presented under Railroad, Utilities and Energy; no quarter-specific reclassification has been applied.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2023-09-30",
+      "cash_pool_usd": "151974000000",
+      "cash_equivalents_usd": "25573000000",
+      "separately_reported_treasury_bills_usd": "126401000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr23.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Uses original quarterly Insurance and Other presentation. Pilot was then presented under Railroad, Utilities and Energy; no quarter-specific reclassification has been applied.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed.",
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2023-12-31",
+      "cash_pool_usd": "163887000000",
+      "cash_equivalents_usd": "34268000000",
+      "separately_reported_treasury_bills_usd": "129619000000",
+      "unsettled_treasury_payable_usd": "0",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2023ar/2023ar.pdf",
+        "https://www.berkshirehathaway.com/2024ar/2024ar.pdf",
+        "https://www.berkshirehathaway.com/2024ar/2024ar.pdf"
+      ],
+      "cash_source_pages": [
+        94,
+        95
+      ],
+      "notes": [
+        "2023 year-end cash includes explicit comparable Pilot reclassification +596 million; not a cash inflow.",
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2024-03-31",
+      "cash_pool_usd": "182747000000",
+      "cash_equivalents_usd": "29303000000",
+      "separately_reported_treasury_bills_usd": "153444000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr24.pdf",
+        "https://www.berkshirehathaway.com/qtrly/1stqtr25.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Use explicit 2025-report same-quarter comparative cash balance, reflecting Pilot presentation change: original 28891, adjustment +412, revised 29303. No inferred 596-million annual adjustment applied to quarters.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "cash_pool_usd": "271586000000",
+      "cash_equivalents_usd": "36968000000",
+      "separately_reported_treasury_bills_usd": "234618000000",
+      "unsettled_treasury_payable_usd": null,
+      "payable_status": "Not separately disclosed; no additional deduction. This does not establish a zero balance.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr24.pdf",
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr25.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Use explicit 2025-report same-quarter comparative cash balance, reflecting Pilot presentation change: original 36884, adjustment +84, revised 36968. No inferred 596-million annual adjustment applied to quarters.",
+        "Treasury-purchase payable not separately disclosed in examined balance sheet; no additional deduction. Null does not assert no unsettled purchases existed."
+      ]
+    },
+    {
+      "date": "2024-09-30",
+      "cash_pool_usd": "305768000000",
+      "cash_equivalents_usd": "32605000000",
+      "separately_reported_treasury_bills_usd": "288031000000",
+      "unsettled_treasury_payable_usd": "14868000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr24.pdf",
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Use explicit 2025-report same-quarter comparative cash balance, reflecting Pilot presentation change: original 32287, adjustment +318, revised 32605. No inferred 596-million annual adjustment applied to quarters."
+      ]
+    },
+    {
+      "date": "2024-12-31",
+      "cash_pool_usd": "318036000000",
+      "cash_equivalents_usd": "44333000000",
+      "separately_reported_treasury_bills_usd": "286472000000",
+      "unsettled_treasury_payable_usd": "12769000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2024ar/2024ar.pdf"
+      ],
+      "cash_source_pages": [
+        88,
+        89
+      ],
+      "notes": []
+    },
+    {
+      "date": "2025-03-31",
+      "cash_pool_usd": "328013000000",
+      "cash_equivalents_usd": "36892000000",
+      "separately_reported_treasury_bills_usd": "305501000000",
+      "unsettled_treasury_payable_usd": "14380000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr25.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": [
+        "Amendments applied in filing order: RESTATEMENT replaces active holdings; NEW HOLDINGS adds newly disclosed rows."
+      ]
+    },
+    {
+      "date": "2025-06-30",
+      "cash_pool_usd": "339798000000",
+      "cash_equivalents_usd": "96193000000",
+      "separately_reported_treasury_bills_usd": "243605000000",
+      "unsettled_treasury_payable_usd": "0",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr25.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2025-09-30",
+      "cash_pool_usd": "354282000000",
+      "cash_equivalents_usd": "72156000000",
+      "separately_reported_treasury_bills_usd": "305367000000",
+      "unsettled_treasury_payable_usd": "23241000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2025-12-31",
+      "cash_pool_usd": "368986000000",
+      "cash_equivalents_usd": "47719000000",
+      "separately_reported_treasury_bills_usd": "321434000000",
+      "unsettled_treasury_payable_usd": "167000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/2025ar/2025ar.pdf"
+      ],
+      "cash_source_pages": [
+        92,
+        93
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-03-31",
+      "cash_pool_usd": "373510000000",
+      "cash_equivalents_usd": "51478000000",
+      "separately_reported_treasury_bills_usd": "339261000000",
+      "unsettled_treasury_payable_usd": "17229000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    },
+    {
+      "date": "2026-06-30",
+      "cash_pool_usd": "359230000000",
+      "cash_equivalents_usd": "35096000000",
+      "separately_reported_treasury_bills_usd": "324905000000",
+      "unsettled_treasury_payable_usd": "771000000",
+      "payable_status": "Disclosed and deducted.",
+      "cash_sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+      ],
+      "cash_source_pages": [
+        3,
+        4
+      ],
+      "notes": []
+    }
+  ]
+}
