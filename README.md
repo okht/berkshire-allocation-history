@@ -6,9 +6,9 @@ Five historical series for Berkshire Hathaway: cash, disclosed stocks, and the t
 
 ![Berkshire allocation history](assets/allocation-history.png)
 
-[Download the interactive chart](docs/index.html) · [CSV](data/allocation.csv) · [JSON](data/allocation.json) · [Methodology](docs/methodology.md) · [Data dictionary](docs/data-dictionary.md)
+[Open the interactive chart](https://okht.github.io/berkshire-allocation-history/) · [HTML source](docs/index.html) · [CSV](data/allocation.csv) · [JSON](data/allocation.json) · [Methodology](docs/methodology.md) · [Data dictionary](docs/data-dictionary.md)
 
-Download the HTML and open it in a browser, or serve the repository locally. Its data are embedded; the pinned Data charts 1.2.1 component loads over the internet. GitHub's source-file view does not run the chart.
+Open the hosted chart, download the HTML and open it in a browser, or serve the repository locally. Its data are embedded; the pinned Data charts 1.2.1 component loads over the internet. GitHub's source-file view does not run the chart.
 
 ## What the percentages mean
 
