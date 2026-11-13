@@ -1,5 +1,6 @@
 """Build the saved Data chart and a portable HTML period-by-period holdings explorer."""
 
+import csv
 import json
 from collections import defaultdict
 from decimal import Decimal
@@ -42,6 +43,28 @@ def display(value, is_money=False):
 
 def number(value):
     return None if value is None else float(value)
+
+
+def range_rows():
+    with (DATA / "percentage-ranges.csv").open(encoding="utf-8-sig", newline="") as handle:
+        ranges = {(r["series"], r["sample"]): r for r in csv.DictReader(handle)}
+    rows = []
+    for series in ["Cash", *RANKS]:
+        cells = [f'<th scope="row">{escape(series)}</th>']
+        for sample in ("all", "quarterly"):
+            row = ranges[series, sample]
+            for bound in ("minimum", "maximum"):
+                share = display(row[f"{bound}_share"])
+                period = escape(row[f"{bound}_period"])
+                date = escape(row[f"{bound}_date"])
+                company = row[f"{bound}_company"]
+                details = f'<time datetime="{date}">{period}</time>'
+                if company:
+                    details += " &middot; " + escape(LABELS.get(company, company))
+                cells.append(f"<td><strong>{share}</strong><small>{details}</small></td>")
+            cells.append(f'<td class="count">{int(row["verified_observations"])}</td>')
+        rows.append("<tr>" + "".join(cells) + "</tr>")
+    return "\n".join(rows)
 
 
 def main():
@@ -87,6 +110,7 @@ def main():
     def cells(values, tag="td"):
         return "".join(f"<{tag}>{escape(str(x)) if x is not None else '&mdash;'}</{tag}>" for x in values)
     replacements = {
+        "__RANGE_ROWS__": range_rows(),
         "__CONFIG__": js(config), "__PANELS__": js(panels), "__RUNTIME__": RUNTIME,
         "__OPTIONS__": "".join(f'<option value="{i}"{" selected" if i==len(panels)-1 else ""}>{escape(p["period"])}</option>' for i,p in reversed(list(enumerate(panels)))),
         "__LATEST_ROWS__": "".join("<tr>"+cells([i,*row])+"</tr>" for i,row in enumerate(latest["rows"],1)),

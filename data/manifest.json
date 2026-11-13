@@ -58,6 +58,11 @@
       "bytes": 228565
     },
     {
+      "path": "data/percentage-ranges.csv",
+      "sha256": "9f6851a311dea6452d9dc3c1a512237c2fb34349f5cd82c382e6d18efb6e43a6",
+      "bytes": 3811
+    },
+    {
       "path": "data/sources.json",
       "sha256": "1670700ba22f4edf6ecc387973815da109a0213c614ee2251a57ff3b87e2cd4c",
       "bytes": 163833
@@ -89,13 +94,13 @@
     },
     {
       "path": "scripts/build.py",
-      "sha256": "88a13413eaf2f0c7b3d8cb7146ef0e0188a35341f753984a1ef49ce9b3449058",
-      "bytes": 9415
+      "sha256": "bd80a4017df05339495d80f2da3ec3bbd1a8e38d1ba968d2e8c34dfd2770a558",
+      "bytes": 10704
     },
     {
       "path": "scripts/render_chart.py",
-      "sha256": "656ae84d1889d410ed68c534eebec72b8fafc4a945f3f7a07a0ebcd1fa344635",
-      "bytes": 5591
+      "sha256": "60520d927690fea911154f04e14a4528f1832c65283acb4523e4c713111e62ee",
+      "bytes": 6732
     },
     {
       "path": "scripts/render_preview.py",
@@ -109,8 +114,8 @@
     },
     {
       "path": "scripts/validate.py",
-      "sha256": "96b224b84d826ba7777ca338eaf0ec78408cde1f562080a47abb2cc5cd033224",
-      "bytes": 15975
+      "sha256": "268e31efbdf5a3d8fb222cc246871f3bdb1963d2eadb50d4139379a06f0605c7",
+      "bytes": 16115
     }
   ]
 }

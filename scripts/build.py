@@ -103,6 +103,31 @@ def build_statistics(rows: list[dict], inputs: dict) -> dict:
     return stats
 
 
+def percentage_ranges(observations: list[dict], holdings: list[dict]) -> list[dict]:
+    series = {"Cash": [(row, row["cash_share"]) for row in observations]}
+    for rank in range(1, 11):
+        series[f"Rank {rank}"] = [
+            (row, row["share_of_total"]) for row in holdings
+            if row["rank"] == rank and row["verified"]
+        ]
+
+    ranges = []
+    for name, points in series.items():
+        for sample in ("all", "quarterly"):
+            eligible = [point for point in points if sample == "all" or point[0]["frequency"] == sample]
+            result = {"series": name, "sample": sample, "verified_observations": len(eligible)}
+            for bound, select in (("minimum", min), ("maximum", max)):
+                row, share = select(eligible, key=lambda point: Decimal(point[1]))
+                day = row["date"]
+                period = row["period"] if row["frequency"] == "annual" else f"{day[:4]}Q{int(day[5:7]) // 3}"
+                result.update({
+                    f"{bound}_share": share, f"{bound}_period": period,
+                    f"{bound}_date": day, f"{bound}_company": row.get("company"),
+                })
+            ranges.append(result)
+    return ranges
+
+
 def build_sources(rows: list[dict]) -> dict:
     entries = {}
 
@@ -198,6 +223,7 @@ def main() -> None:
     for name, records in (("top-ten-holdings", holdings), ("top-ten-totals", totals)):
         save_json(DATA / (name + ".json"), records)
         save_csv(DATA / (name + ".csv"), records)
+    save_csv(DATA / "percentage-ranges.csv", percentage_ranges(rows, holdings))
     statistics = build_statistics(rows, inputs)
     statistics["top_ten"] = top_ten_statistics(holdings, totals)
     save_json(DATA / "statistics.json", statistics)

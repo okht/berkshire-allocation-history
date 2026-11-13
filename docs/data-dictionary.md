@@ -80,4 +80,10 @@ Every verified top-ten value is a subset of the stock total. Companies can move 
 
 Chart data may contain an all-null separator between the annual and quarterly regimes. It is a rendering instruction, not a 142nd observation. Chart display values can be floating-point numbers; use `allocation.json` for exact calculations. Dates, missing rankings, and the regime break should be preserved when making another chart.
 
+## Percentage ranges
+
+Each row of [percentage-ranges.csv](../data/percentage-ranges.csv) summarizes one series (`Cash` or `Rank 1` through `Rank 10`) in one sample. The `all` sample includes available annual and quarterly observations. The `quarterly` sample covers 1998Q4 through 2026Q2. The `verified_observations` field counts the reporting dates with a verified value for that series.
+
+The `minimum_share` and `maximum_share` fields are decimal fractions of cash plus disclosed equities. Multiply by 100 for percentages. Each endpoint includes its reporting period, date and, for a ranked holding, company. The company fields are empty for cash.
+
 For the inclusion rules behind these fields, see [Methodology](methodology.md).

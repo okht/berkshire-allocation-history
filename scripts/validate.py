@@ -14,7 +14,7 @@ import json
 from pathlib import Path
 import re
 
-from build import DATA, ROOT, POSITIONS, build_observations, build_sources, build_statistics, canonical_hash, load_json
+from build import DATA, ROOT, POSITIONS, build_observations, build_sources, build_statistics, canonical_hash, load_json, percentage_ranges
 from top_ten import ISSUER_LABELS, build_top_ten, top_ten_statistics
 
 
@@ -142,7 +142,7 @@ def validate_csv(path: Path, rows: list[dict]) -> None:
                 expected = json.dumps(value, ensure_ascii=False, separators=(",", ":"))
             else:
                 expected = str(value)
-            require(csv_row[key] == expected, f"CSV differs at {row['date']} {key}")
+            require(csv_row[key] == expected, f"{path.name} differs for {row.get('date') or row.get('series')} at {key}")
 
 
 def validate_top_ten(rows: list[dict], inputs: dict, holdings: list[dict], totals: list[dict]) -> None:
@@ -202,6 +202,7 @@ def validate_top_ten(rows: list[dict], inputs: dict, holdings: list[dict], total
 def validate_outputs(rows: list[dict], inputs: dict, holdings: list[dict], totals: list[dict]) -> None:
     for name, records in (("allocation", rows), ("top-ten-holdings", holdings), ("top-ten-totals", totals)):
         validate_csv(DATA / (name + ".csv"), records)
+    validate_csv(DATA / "percentage-ranges.csv", percentage_ranges(rows, holdings))
     statistics = build_statistics(rows, inputs)
     statistics["top_ten"] = top_ten_statistics(holdings, totals)
     require(load_json(DATA / "statistics.json") == statistics, "Statistics are stale")

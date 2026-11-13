@@ -47,20 +47,29 @@ The two historical segments have different coverage. Early annual values use the
 
 Alphabet combines its reported share classes. These figures are traceable to the [quarterly report](https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf) and [13F information table](https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml).
 
-## Observed concentration peaks
+## Historical percentage ranges
 
-Annual and quarterly samples are reported separately. These are maxima among verified observations, not claims about every historical trading day.
+The table shows the lowest and highest observed shares of **cash + disclosed equities** across 30 annual reports (FY 1968–1997) and 111 quarter ends (1998Q4–2026Q2). The last column gives the range for the 111 quarters alone. Each rank follows the company occupying that position on the reporting date.
 
-| Rank | Annual-report sample, 1968–1997 | Quarterly 13F sample, 1998Q4–2026Q2 |
-| --- | --- | --- |
-| Second-largest | GEICO, fiscal 1986: **31.10%** | American Express, 2000-09-30: **23.06%** |
-| Third-largest | GEICO, fiscal 1989: **18.70%** | IBM, 2012-03-31: **12.16%** |
+| Series | Verified dates (of 141) | Full-sample low | Full-sample high | Quarterly range |
+| --- | ---: | --- | --- | ---: |
+| Cash-like assets | 141 | 1.84% · FY 1994 | 58.67% · 2026Q1 | 8.44%–58.67% |
+| Rank 1 | 128 | 9.06% · 2017Q3 · Wells Fargo | 39.66% · FY 1987 · Capital Cities/ABC | 9.06%–36.23% |
+| Rank 2 | 126 | 6.05% · 2023Q2 · Bank of America | 31.10% · FY 1986 · GEICO | 6.05%–23.06% |
+| Rank 3 | 124 | 4.42% · 2025Q4 · Bank of America | 18.70% · FY 1989 · GEICO | 4.42%–12.16% |
+| Rank 4 | 121 | 3.93% · 2026Q1 · Bank of America | 12.72% · FY 1991 · Capital Cities/ABC | 3.93%–9.07% |
+| Rank 5 | 116 | 2.46% · 2021Q4 · Kraft Heinz | 8.19% · FY 1995 · American Express | 2.46%–6.43% |
+| Rank 6 | 115 | 1.93% · 2020Q3 · Moody’s | 6.01% · 2008Q2 · ConocoPhillips | 1.93%–6.01% |
+| Rank 7 | 115 | 1.27% · 2020Q3 · U.S. Bancorp | 4.70% · FY 1996 · McDonald’s | 1.27%–4.41% |
+| Rank 8 | 114 | 0.90% · 2004Q2 · H&R Block | 4.20% · 2008Q2 · Kraft Foods | 0.90%–4.20% |
+| Rank 9 | 111 | 0.73% · 2023Q3 · DaVita | 2.56% · 2008Q3 · U.S. Bancorp | 0.73%–2.56% |
+| Rank 10 | 111 | 0.56% · 2023Q3 · HP Inc. | 2.24% · 2009Q3 · Wesco Financial | 0.56%–2.24% |
+
+All quarters have ten verified company positions. Early annual reports identify fewer positions and use cash and short-term investment figures whose scope varies by year. Thus the 1.84% cash low in FY 1994 and the 8.44% quarterly low in 2000Q2 come from different reporting scopes. Ranks 9 and 10 have quarterly evidence only. [Explore the ranges on the chart](https://okht.github.io/berkshire-allocation-history/#historical-percentage-ranges) · [Download ranges and endpoint details (CSV)](data/percentage-ranges.csv) · [Ranking coverage](docs/methodology.md#ranking-gaps)
 
 Across the 111 quarterly filings, the ten companies combined reached **80.95%** of cash plus equities on 2000-06-30. At the last date in this snapshot their combined share was **41.37%** on that denominator, or **91.04%** on an equities-only denominator.
 
-All 111 quarterly observations have ten verified company values. The [rank-by-date file](data/top-ten-holdings.csv) explicitly retains all ten slots at every date; the [totals file](data/top-ten-totals.csv) leaves incomplete periods blank. Select a date on the live chart to look up the company behind each line.
-
-Second-place values are verified for **126 of 141** observations; third-place values for **124 of 141**. Missing evidence stays `null`. See [ranking gaps](docs/methodology.md#ranking-gaps) and [machine-readable statistics](data/statistics.json).
+The [rank-by-date file](data/top-ten-holdings.csv) retains all ten slots at every date. The [totals file](data/top-ten-totals.csv) leaves incomplete periods blank. Select a date on the live chart to look up the company behind each line. [Machine-readable statistics](data/statistics.json)
 
 ## Rebuild
 
