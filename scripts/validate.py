@@ -6,6 +6,7 @@ The checks are read-only and require only Python's standard library.
 from __future__ import annotations
 
 from calendar import monthrange
+from collections import defaultdict
 import csv
 from decimal import Decimal, localcontext
 import hashlib
@@ -14,6 +15,7 @@ from pathlib import Path
 import re
 
 from build import DATA, ROOT, POSITIONS, build_observations, build_sources, build_statistics, canonical_hash, load_json
+from top_ten import ISSUER_LABELS, build_top_ten, top_ten_statistics
 
 
 def require(condition: bool, message: str) -> None:
@@ -62,8 +64,9 @@ def validate_observations(inputs: dict, rows: list[dict]) -> None:
     require(rows == build_observations(inputs), "Allocation JSON is not reproducible from curated inputs")
 
 
-def validate_issuer_evidence(rows: list[dict]) -> int:
+def validate_issuer_evidence(rows: list[dict], holdings: list[dict]) -> int:
     quarterly = {row["date"]: row for row in rows if row["frequency"] == "quarterly"}
+    published = {(row["date"], row["rank"]): row for row in holdings if row["frequency"] == "quarterly"}
     evidence = load_json(DATA / "evidence" / "quarterly_company_holdings.json")["rows"]
     aliases = load_json(DATA / "evidence" / "issuer_aliases.json")
     require(len(evidence) == 111, "Expected 111 full 13F portfolios")
@@ -85,11 +88,18 @@ def validate_issuer_evidence(rows: list[dict]) -> int:
                 component_sum += int(security["value_usd"])
             require(component_sum == int(group["value_usd"]), f"Company-class sum {date}")
             require(sorted(security["cusip"] for security in group["securities"]) == group["cusips"], f"CUSIP membership {date}")
+            eligible = not group["put_call"] and group["company_id"] not in aliases["fund_prefixes"]
+            require(group["individual_company_ranking_eligible"] == eligible, f"Ineligible issuer type {date}")
         ranked = sorted((group for group in groups if group["individual_company_ranking_eligible"]), key=lambda group: (-int(group["value_usd"]), group["company_id"]))
         require(len({group["company_id"] for group in ranked}) == len(ranked), f"Duplicate ranked issuer {date}")
         for position, group in zip(POSITIONS, ranked[:3]):
             require(group["instrument_kind"] == "company security" and not group["put_call"], f"Ineligible top holding {date}")
             require(group["value_usd"] == row[position + "_value_usd"] and group["name"] == row[position + "_name"], f"Company rank mismatch {date} {position}")
+        for rank, group in enumerate(ranked[:10], 1):
+            verified = published[(date, rank)]
+            require(ISSUER_LABELS.get(group["company_id"], group["name"]) == verified["company"], f"Company name {date} {rank}")
+            for source_key, output_key in (("company_id", "company_id"), ("cusips", "cusips"), ("value_usd", "value_usd")):
+                require(group[source_key] == verified[output_key], f"Published issuer rank {date} {rank} {source_key}")
         securities_checked += len(unique_securities)
     annual_evidence = {row["year"]: row for row in load_json(DATA / "evidence" / "annual_rankings.json")["rows"]}
     for row in rows:
@@ -119,8 +129,8 @@ def validate_language_and_paths() -> int:
     return count
 
 
-def validate_outputs(rows: list[dict], inputs: dict) -> None:
-    with (DATA / "allocation.csv").open(encoding="utf-8", newline="") as stream:
+def validate_csv(path: Path, rows: list[dict]) -> None:
+    with path.open(encoding="utf-8", newline="") as stream:
         exported = list(csv.DictReader(stream))
     require(len(exported) == len(rows), "CSV row count")
     for row, csv_row in zip(rows, exported):
@@ -133,10 +143,71 @@ def validate_outputs(rows: list[dict], inputs: dict) -> None:
             else:
                 expected = str(value)
             require(csv_row[key] == expected, f"CSV differs at {row['date']} {key}")
-    require(load_json(DATA / "statistics.json") == build_statistics(rows, inputs), "Statistics are stale")
-    require(load_json(DATA / "sources.json") == build_sources(rows), "Source index is stale")
+
+
+def validate_top_ten(rows: list[dict], inputs: dict, holdings: list[dict], totals: list[dict]) -> None:
+    grouped = defaultdict(list)
+    for rank_row in holdings:
+        grouped[rank_row["date"]].append(rank_row)
+    require(len(holdings) == len(rows) * 10 == 1410, "Expected ten rank records for every date")
+    require([period["date"] for period in totals] == [row["date"] for row in rows], "Rollup dates differ from the main observations")
+    evidence = load_json(DATA / "evidence" / "annual_top_ten.json")["rows"]
+    require(sorted(period["year"] for period in evidence) == list(range(1968, 1998)), "Annual top-ten evidence coverage")
+    with localcontext() as context:
+        context.prec = inputs["decimal_precision"]
+        for observation, cumulative in zip(rows, totals):
+            date = observation["date"]
+            stock, denominator = Decimal(observation["stock_usd"]), Decimal(observation["total_usd"])
+            period = grouped[date]
+            require([record["rank"] for record in period] == list(range(1, 11)), f"Rank order {date}")
+            require(all(cumulative[key] == observation[key] for key in ("frequency", "period", "cash_usd", "stock_usd", "total_usd")), f"Rollup denominator {date}")
+            known = [record for record in period if record["verified"]]
+            values = [Decimal(record["value_usd"]) for record in known]
+            require(values == sorted(values, reverse=True), f"Known ranks are out of order {date}")
+            require(len({record["company"] for record in known}) == len(known), f"Repeated top-ten company {date}")
+            for record in period:
+                rank = record["rank"]
+                require(record["period"] == observation["period"] and record["frequency"] == observation["frequency"], f"Rank period {date} {rank}")
+                require(record["reason"] and record["sources"], f"Missing rank provenance {date} {rank}")
+                require(all(url.startswith(("http://", "https://")) for url in record["sources"]), f"Invalid source at {date} rank {rank}")
+                if record["verified"]:
+                    require(bool(record["company"]) and re.fullmatch(r"[1-9][0-9]*", record["value_usd"]) is not None, f"Invalid rank amount {date} {rank}")
+                    value = Decimal(record["value_usd"])
+                    require(record["share_of_total"] == str(value / denominator) and record["share_of_stocks"] == str(value / stock), f"Rank ratios {date} {rank}")
+                else:
+                    require(all(record[key] is None for key in ("company", "value_usd", "share_of_total", "share_of_stocks")), f"Unknown rank must remain null {date} {rank}")
+                if rank <= 3:
+                    original = POSITIONS[rank - 1]
+                    if observation[original + "_value_usd"] is not None:
+                        require(record["value_usd"] == observation[original + "_value_usd"] and record["share_of_total"] == observation[original + "_share"], f"Historical rank changed {date} {rank}")
+            # Each unverified earlier rank must be worth at least the next verified rank.
+            threshold = minimum_sum = Decimal(0)
+            for record in reversed(period):
+                if record["verified"]:
+                    threshold = Decimal(record["value_usd"])
+                minimum_sum += threshold
+            require(minimum_sum <= stock, f"Minimum feasible ranked sum exceeds securities {date}")
+            require(cumulative["verified_rank_count"] == len(known) and cumulative["complete"] == (len(known) == 10), f"Rollup coverage {date}")
+            if cumulative["complete"]:
+                amount = sum(values, Decimal(0))
+                require(cumulative["top_ten_value_usd"] == str(amount) and cumulative["top_ten_share_of_total"] == str(amount / denominator) and cumulative["top_ten_share_of_stocks"] == str(amount / stock), f"Top-ten rollup {date}")
+            else:
+                require(all(cumulative[key] is None for key in ("top_ten_value_usd", "top_ten_share_of_total", "top_ten_share_of_stocks")), f"Incomplete rollup has a reported sum {date}")
+            if observation["frequency"] == "quarterly":
+                require(cumulative["complete"], f"Missing quarterly rank {date}")
+    rebuilt = build_top_ten(rows, evidence, load_json(DATA / "evidence" / "quarterly_company_holdings.json")["rows"], inputs["decimal_precision"])
+    require(rebuilt == (holdings, totals), "Top-ten files are stale")
+
+
+def validate_outputs(rows: list[dict], inputs: dict, holdings: list[dict], totals: list[dict]) -> None:
+    for name, records in (("allocation", rows), ("top-ten-holdings", holdings), ("top-ten-totals", totals)):
+        validate_csv(DATA / (name + ".csv"), records)
+    statistics = build_statistics(rows, inputs)
+    statistics["top_ten"] = top_ten_statistics(holdings, totals)
+    require(load_json(DATA / "statistics.json") == statistics, "Statistics are stale")
+    require(load_json(DATA / "sources.json") == build_sources(rows + holdings), "Source index is stale")
     source_urls = {source["url"] for source in load_json(DATA / "sources.json")["sources"]}
-    require(all(set(row["sources"]).issubset(source_urls) for row in rows), "Observation source missing from source index")
+    require(all(set(row["sources"]).issubset(source_urls) for row in rows + holdings), "Observation source missing from source index")
     for artifact in load_json(DATA / "manifest.json")["artifacts"]:
         path = ROOT / artifact["path"]
         require(path.is_file(), f"Missing manifest artifact {artifact['path']}")
@@ -146,12 +217,16 @@ def validate_outputs(rows: list[dict], inputs: dict) -> None:
 def main() -> None:
     inputs = load_json(DATA / "inputs.json")
     rows = load_json(DATA / "allocation.json")
+    holdings = load_json(DATA / "top-ten-holdings.json")
+    totals = load_json(DATA / "top-ten-totals.json")
     validate_observations(inputs, rows)
-    security_count = validate_issuer_evidence(rows)
+    validate_top_ten(rows, inputs, holdings, totals)
+    security_count = validate_issuer_evidence(rows, holdings)
     text_files = validate_language_and_paths()
-    validate_outputs(rows, inputs)
+    validate_outputs(rows, inputs, holdings, totals)
     print(f"PASS: 141 observations, 30 annual, 111 quarterly; 126 second ranks and 124 third ranks.")
     print(f"PASS: exact numeric baseline, common denominators, top-three subsets and {security_count} issuer-grouped securities.")
+    print(f"PASS: {len(holdings)} issuer-rank records and {sum(row['complete'] for row in totals)} complete top-ten sums.")
     print(f"PASS: English-only data/code, no local paths in {text_files} files, CSV parity, statistics, source index and hashes.")
 
 

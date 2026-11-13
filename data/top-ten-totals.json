@@ -1,0 +1,2524 @@
+[
+  {
+    "date": "1968-12-28",
+    "period": "FY 1968",
+    "frequency": "annual",
+    "cash_usd": "3538427",
+    "stock_usd": "19672590",
+    "total_usd": "23211017",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1968-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1968-Berkshire-10k.pdf"
+    ]
+  },
+  {
+    "date": "1970-01-03",
+    "period": "FY 1969",
+    "frequency": "annual",
+    "cash_usd": "2874932",
+    "stock_usd": "10253376",
+    "total_usd": "13128308",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1969-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1971-01-02",
+    "period": "FY 1970",
+    "frequency": "annual",
+    "cash_usd": "2164041",
+    "stock_usd": "11295375",
+    "total_usd": "13459416",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1970-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1972-01-01",
+    "period": "FY 1971",
+    "frequency": "annual",
+    "cash_usd": "5525087",
+    "stock_usd": "12674679",
+    "total_usd": "18199766",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1971-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1972-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1972-12-30",
+    "period": "FY 1972",
+    "frequency": "annual",
+    "cash_usd": "4998225",
+    "stock_usd": "21571144",
+    "total_usd": "26569369",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1972-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1973-12-29",
+    "period": "FY 1973",
+    "frequency": "annual",
+    "cash_usd": "4286080",
+    "stock_usd": "39531201",
+    "total_usd": "43817281",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1974-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1973-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1974-12-28",
+    "period": "FY 1974",
+    "frequency": "annual",
+    "cash_usd": "15338722",
+    "stock_usd": "36645175",
+    "total_usd": "51983897",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1974-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1975-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1976-01-03",
+    "period": "FY 1975",
+    "frequency": "annual",
+    "cash_usd": "22219791",
+    "stock_usd": "42167228",
+    "total_usd": "64387019",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1975-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1977-01-01",
+    "period": "FY 1976",
+    "frequency": "annual",
+    "cash_usd": "18926048",
+    "stock_usd": "121050665",
+    "total_usd": "139976713",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1976-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1977-12-31",
+    "period": "FY 1977",
+    "frequency": "annual",
+    "cash_usd": "23555955",
+    "stock_usd": "181072533",
+    "total_usd": "204628488",
+    "verified_rank_count": 1,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1977-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1977.html"
+    ]
+  },
+  {
+    "date": "1978-12-30",
+    "period": "FY 1978",
+    "frequency": "annual",
+    "cash_usd": "74057000",
+    "stock_usd": "283185000",
+    "total_usd": "357242000",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1978-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1978.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1978-Blue-Chip-Stamps-10K.pdf"
+    ]
+  },
+  {
+    "date": "1979-12-29",
+    "period": "FY 1979",
+    "frequency": "annual",
+    "cash_usd": "33096000",
+    "stock_usd": "423066000",
+    "total_usd": "456162000",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1979-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1979-Berkshire-10K.pdf",
+      "https://www.berkshirehathaway.com/letters/1979.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1979-Blue-Chip-Stamps-10K.pdf"
+    ]
+  },
+  {
+    "date": "1981-01-03",
+    "period": "FY 1980",
+    "frequency": "annual",
+    "cash_usd": "60539000",
+    "stock_usd": "541954000",
+    "total_usd": "602493000",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1980-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1980.html"
+    ]
+  },
+  {
+    "date": "1982-01-02",
+    "period": "FY 1981",
+    "frequency": "annual",
+    "cash_usd": "70761000",
+    "stock_usd": "660988000",
+    "total_usd": "731749000",
+    "verified_rank_count": 0,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1981-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1981.html"
+    ]
+  },
+  {
+    "date": "1983-01-01",
+    "period": "FY 1982",
+    "frequency": "annual",
+    "cash_usd": "59206000",
+    "stock_usd": "945125000",
+    "total_usd": "1004331000",
+    "verified_rank_count": 1,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1982-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1983-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1982.html"
+    ]
+  },
+  {
+    "date": "1983-12-31",
+    "period": "FY 1983",
+    "frequency": "annual",
+    "cash_usd": "81504000",
+    "stock_usd": "1303199000",
+    "total_usd": "1384703000",
+    "verified_rank_count": 8,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1983-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1984-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1983.html"
+    ]
+  },
+  {
+    "date": "1984-12-29",
+    "period": "FY 1984",
+    "frequency": "annual",
+    "cash_usd": "173721000",
+    "stock_usd": "1247927000",
+    "total_usd": "1421648000",
+    "verified_rank_count": 4,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1984-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1984.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1984-Wesco.pdf"
+    ]
+  },
+  {
+    "date": "1985-12-28",
+    "period": "FY 1985",
+    "frequency": "annual",
+    "cash_usd": "1017667000",
+    "stock_usd": "1183476000",
+    "total_usd": "2201143000",
+    "verified_rank_count": 2,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1988-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1985-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1985.html"
+    ]
+  },
+  {
+    "date": "1986-12-31",
+    "period": "FY 1986",
+    "frequency": "annual",
+    "cash_usd": "292473000",
+    "stock_usd": "1876714000",
+    "total_usd": "2169187000",
+    "verified_rank_count": 3,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1988-Berkshire-AR.pdf",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1986-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1986.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/BerkshireHathaway10k1986.pdf"
+    ]
+  },
+  {
+    "date": "1987-12-31",
+    "period": "FY 1987",
+    "frequency": "annual",
+    "cash_usd": "231962000",
+    "stock_usd": "2377484000",
+    "total_usd": "2609446000",
+    "verified_rank_count": 3,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1988-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1987.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1987-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1988-12-31",
+    "period": "FY 1988",
+    "frequency": "annual",
+    "cash_usd": "265081000",
+    "stock_usd": "3622917000",
+    "total_usd": "3887998000",
+    "verified_rank_count": 5,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1988-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1988.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1989-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1989-12-31",
+    "period": "FY 1989",
+    "frequency": "annual",
+    "cash_usd": "205127000",
+    "stock_usd": "5380958000",
+    "total_usd": "5586085000",
+    "verified_rank_count": 4,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1989-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1989.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1990-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1990-12-31",
+    "period": "FY 1990",
+    "frequency": "annual",
+    "cash_usd": "247024000",
+    "stock_usd": "5759221000",
+    "total_usd": "6006245000",
+    "verified_rank_count": 3,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1990-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1990.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1989-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1991-12-31",
+    "period": "FY 1991",
+    "frequency": "annual",
+    "cash_usd": "762000000",
+    "stock_usd": "9460484000",
+    "total_usd": "10222484000",
+    "verified_rank_count": 4,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1991-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1991.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1992-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1992-12-31",
+    "period": "FY 1992",
+    "frequency": "annual",
+    "cash_usd": "1192363000",
+    "stock_usd": "11959197000",
+    "total_usd": "13151560000",
+    "verified_rank_count": 4,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1992-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1992.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1993-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1993-12-31",
+    "period": "FY 1993",
+    "frequency": "annual",
+    "cash_usd": "1854621000",
+    "stock_usd": "12540197000",
+    "total_usd": "14394818000",
+    "verified_rank_count": 2,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1993-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1993.html",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1994-Berkshire-AR.pdf"
+    ]
+  },
+  {
+    "date": "1994-12-31",
+    "period": "FY 1994",
+    "frequency": "annual",
+    "cash_usd": "289857000",
+    "stock_usd": "15485254000",
+    "total_usd": "15775111000",
+    "verified_rank_count": 4,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/09/1994-Berkshire-AR.pdf",
+      "https://www.berkshirehathaway.com/letters/1994.html",
+      "https://www.berkshirehathaway.com/1995ar/1995ar.html",
+      "https://www.berkshirehathaway.com/letters/1995.html",
+      "https://www.sec.gov/Archives/edgar/data/109694/0000950150-95-000215.txt",
+      "https://www.ghco.com/static-files/539d8af5-6019-4166-8e59-c8ac3007a6b4",
+      "https://theoraclesclassroom.com/wp-content/uploads/2019/10/1994-GEICO-10K.pdf"
+    ]
+  },
+  {
+    "date": "1995-12-31",
+    "period": "FY 1995",
+    "frequency": "annual",
+    "cash_usd": "2744500000",
+    "stock_usd": "22235000000",
+    "total_usd": "24979500000",
+    "verified_rank_count": 7,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://www.berkshirehathaway.com/1996ar/consolid.html",
+      "https://www.berkshirehathaway.com/1995ar/1995ar.html",
+      "https://www.berkshirehathaway.com/letters/1995.html"
+    ]
+  },
+  {
+    "date": "1996-12-31",
+    "period": "FY 1996",
+    "frequency": "annual",
+    "cash_usd": "1350300000",
+    "stock_usd": "27750600000",
+    "total_usd": "29100900000",
+    "verified_rank_count": 8,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://www.berkshirehathaway.com/1996ar/consolid.html",
+      "https://www.berkshirehathaway.com/1997ar/consolid.html",
+      "https://www.berkshirehathaway.com/letters/1996.html"
+    ]
+  },
+  {
+    "date": "1997-12-31",
+    "period": "FY 1997",
+    "frequency": "annual",
+    "cash_usd": "1058500000",
+    "stock_usd": "36247700000",
+    "total_usd": "37306200000",
+    "verified_rank_count": 8,
+    "complete": false,
+    "top_ten_value_usd": null,
+    "top_ten_share_of_total": null,
+    "top_ten_share_of_stocks": null,
+    "sources": [
+      "https://www.berkshirehathaway.com/1997ar/consolid.html",
+      "https://www.berkshirehathaway.com/letters/1997.html",
+      "https://www.berkshirehathaway.com/wesco/cm1997.pdf"
+    ]
+  },
+  {
+    "date": "1998-12-31",
+    "period": "1998-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "14489000000",
+    "stock_usd": "38316424000",
+    "total_usd": "52805424000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "35231014000",
+    "top_ten_share_of_total": "0.667185514881956065725369424171274527",
+    "top_ten_share_of_stocks": "0.919475523081172710689285618094214638",
+    "sources": [
+      "https://www.berkshirehathaway.com/1998ar/1998ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000118.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000125.txt"
+    ]
+  },
+  {
+    "date": "1999-03-31",
+    "period": "1999-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "15506000000",
+    "stock_usd": "38074360000",
+    "total_usd": "53580360000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "34569632000",
+    "top_ten_share_of_total": "0.645192230884600252779189986778737582",
+    "top_ten_share_of_stocks": "0.907950442239869560512638951777521671",
+    "sources": [
+      "https://berkshirehathaway.com/qtrly/1stqtr99.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950148-99-001187.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000128.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000438.txt"
+    ]
+  },
+  {
+    "date": "1999-06-30",
+    "period": "1999-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "4418000000",
+    "stock_usd": "37431959000",
+    "total_usd": "41849959000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "33760120000",
+    "top_ten_share_of_total": "0.806694219222532571656760762895848954",
+    "top_ten_share_of_stocks": "0.901906309525504663007351552185660387",
+    "sources": [
+      "https://berkshirehathaway.com/qtrly/2ndqtr99.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950148-99-001809.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000130.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000664/e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "1999-09-30",
+    "period": "1999-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "5564000000",
+    "stock_usd": "32901212000",
+    "total_usd": "38465212000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "29196896000",
+    "top_ten_share_of_total": "0.759046797922236851313857310860525090",
+    "top_ten_share_of_stocks": "0.887410956167815337623428583725122345",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr99.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-99-001240.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000129.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000720/e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "1999-12-31",
+    "period": "1999-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "4458000000",
+    "stock_usd": "37532132000",
+    "total_usd": "41990132000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "33150457000",
+    "top_ten_share_of_total": "0.789482085933904661218974019895912687",
+    "top_ten_share_of_stocks": "0.883255366361814990952285897321260620",
+    "sources": [
+      "https://www.berkshirehathaway.com/1999ar/1999ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000102.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000754/a65362e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000939/a66864e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581101000839/a69131e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "2000-03-31",
+    "period": "2000-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "3424000000",
+    "stock_usd": "34039483000",
+    "total_usd": "37463483000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "29516300000",
+    "top_ten_share_of_total": "0.787868549221651387832786396288887501",
+    "top_ten_share_of_stocks": "0.867119515299336361836047862419062005",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr00.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/0000950150-00-000439.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000753/a65359e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000937/a66871e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581101000836/a69133e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "2000-06-30",
+    "period": "2000-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "3213000000",
+    "stock_usd": "34866876000",
+    "total_usd": "38079876000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "30826992000",
+    "top_ten_share_of_total": "0.809534989032002100006838257561552984",
+    "top_ten_share_of_stocks": "0.884134041719137670951650500606937083",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr00.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581100002809/e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000737/e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000752/a65360e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000938/a66872e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001370/a69219e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000127/a71095e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "2000-09-30",
+    "period": "2000-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "3673000000",
+    "stock_usd": "36261773000",
+    "total_usd": "39934773000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "31980295000",
+    "top_ten_share_of_total": "0.800813241131982896209276061241164436",
+    "top_ten_share_of_stocks": "0.881928608399815419946509510166532673",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr00.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015000000940/a66929e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001371/a69220e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000128/a71075e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500320/a72386e13f-hr.txt"
+    ]
+  },
+  {
+    "date": "2000-12-31",
+    "period": "2000-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "5604000000",
+    "stock_usd": "37566039000",
+    "total_usd": "43170039000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "32267547000",
+    "top_ten_share_of_total": "0.747452347680297439620103192401563501",
+    "top_ten_share_of_stocks": "0.858955265419385844751958011862789154",
+    "sources": [
+      "https://www.berkshirehathaway.com/2000ar/2000ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001369/a69281e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000109581101001489/a69789a1e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001000126/a71082e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500321/a72381a2e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500528/a74830e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000136/a78879e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "2001-03-31",
+    "period": "2001-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "6440000000",
+    "stock_usd": "30603746000",
+    "total_usd": "37043746000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "26067372000",
+    "top_ten_share_of_total": "0.703691575900558221082716634543385542",
+    "top_ten_share_of_stocks": "0.851770629647756192983695525377841000",
+    "sources": [
+      "https://berkshirehathaway.com/qtrly/1stqtr01.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500322/a72376e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500330/a72826e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500531/a74828e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000139/a78872e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000507/a81460a3e13f-hra.txt"
+    ]
+  },
+  {
+    "date": "2001-06-30",
+    "period": "2001-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "8211000000",
+    "stock_usd": "29648860000",
+    "total_usd": "37859860000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "25438299000",
+    "top_ten_share_of_total": "0.671906842761700650768386359590341855",
+    "top_ten_share_of_stocks": "0.857985737057006576306812471035985869",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr01.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500532/a74820e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000134/a78871e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000503/a81601e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000750/a83552e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2001-09-30",
+    "period": "2001-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "6361000000",
+    "stock_usd": "27476716000",
+    "total_usd": "33837716000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "24006647000",
+    "top_ten_share_of_total": "0.709464167144141761813947489836488964",
+    "top_ten_share_of_stocks": "0.873708743068130849407185341945522165",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr01a.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015001500764/a76945e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000138/a78868e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000498/a81456e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001050/a85825a3e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2001-12-31",
+    "period": "2001-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "6498000000",
+    "stock_usd": "29059814000",
+    "total_usd": "35557814000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "25701940000",
+    "top_ten_share_of_total": "0.722821149804090881402326925946572531",
+    "top_ten_share_of_stocks": "0.884449570117688984519997271833880286",
+    "sources": [
+      "https://www.berkshirehathaway.com/2001ar/2001ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000133/a78911e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000499/a81459e13f-hra.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001049/a85825a2e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000208/a87726e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2002-03-31",
+    "period": "2002-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "8545000000",
+    "stock_usd": "31476149000",
+    "total_usd": "40021149000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "28046421000",
+    "top_ten_share_of_total": "0.700789999807351857888937671429673346",
+    "top_ten_share_of_stocks": "0.891037242198847133427917119085946632",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr02.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000505/a81595e13f-hr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001051/a85825abe13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000243/a87859ae13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2002-06-30",
+    "period": "2002-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "8723000000",
+    "stock_usd": "31140289000",
+    "total_usd": "39863289000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "28187063000",
+    "top_ten_share_of_total": "0.707093260668982933144327353420336190",
+    "top_ten_share_of_stocks": "0.905163821697351620596713151891429139",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr02.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002000747/a83556e13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001048/a85825a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000244/a87859be13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2002-09-30",
+    "period": "2002-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "10438000000",
+    "stock_usd": "27862543000",
+    "total_usd": "38300543000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "25322901000",
+    "top_ten_share_of_total": "0.661162976201146808806339899671918490",
+    "top_ten_share_of_stocks": "0.908851033446588130882382128580295058",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr02.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015002001047/a85825e13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000245/a87859ce13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000527/a89669be13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000977/a92660e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2002-12-31",
+    "period": "2002-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "12748000000",
+    "stock_usd": "28269981000",
+    "total_usd": "41017981000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "25145579000",
+    "top_ten_share_of_total": "0.613037950356454648511344329697748897",
+    "top_ten_share_of_stocks": "0.889479869123364462112655823857822897",
+    "sources": [
+      "https://www.berkshirehathaway.com/2002ar/2002ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000203/a87558e13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000246/a87859de13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000526/a89669ae13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000988/a92698a3e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2003-03-31",
+    "period": "2003-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "19492000000",
+    "stock_usd": "27339970000",
+    "total_usd": "46831970000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "24013154000",
+    "top_ten_share_of_total": "0.512751310696517784752595289072827814",
+    "top_ten_share_of_stocks": "0.878316764795279585164138804834094551",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr03.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000619/a89669ce13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000940/a92186se13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000987/a92698a2e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001059/a93172a3e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2003-06-30",
+    "period": "2003-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "28444000000",
+    "stock_usd": "31274726000",
+    "total_usd": "59718726000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "27460823000",
+    "top_ten_share_of_total": "0.459836048746250882847031934338317934",
+    "top_ten_share_of_stocks": "0.878051593481586377447399539167825163",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr03.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000957/a92186re13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003000986/a92698a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001058/a93172a2e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2003-09-30",
+    "period": "2003-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "30745000000",
+    "stock_usd": "31036994000",
+    "total_usd": "61781994000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "27743731000",
+    "top_ten_share_of_total": "0.449058523426744691989060760971877988",
+    "top_ten_share_of_stocks": "0.893892333774333944840147857102398512",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr03.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015003001329/a94337e13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2003-12-31",
+    "period": "2003-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "35957000000",
+    "stock_usd": "34830987000",
+    "total_usd": "70787987000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "31262489000",
+    "top_ten_share_of_total": "0.441635513664204068975714763579871257",
+    "top_ten_share_of_stocks": "0.897548180302786136953282432105642025",
+    "sources": [
+      "https://www.berkshirehathaway.com/2003ar/2003ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000209/a96383re13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000233/a96383r1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015004000249/a96686e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006459/a01452a3e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2004-03-31",
+    "period": "2004-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "40911000000",
+    "stock_usd": "35843368000",
+    "total_usd": "76754368000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "32271641000",
+    "top_ten_share_of_total": "0.420453478295854119989627170143593652",
+    "top_ten_share_of_stocks": "0.900351802877452810796128310263700666",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr04.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904003325/a98912qe13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904003448/a98912a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006458/a01452a2e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2004-06-30",
+    "period": "2004-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "40201000000",
+    "stock_usd": "36201008000",
+    "total_usd": "76402008000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "32285610000",
+    "top_ten_share_of_total": "0.422575411892315709817469718858698059",
+    "top_ten_share_of_stocks": "0.891842845922964355025694312158379678",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr04.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006175/a01117e13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904006457/a01452a1e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2004-09-30",
+    "period": "2004-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "43017000000",
+    "stock_usd": "34204155000",
+    "total_usd": "77221155000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "30403390000",
+    "top_ten_share_of_total": "0.393718405273787992422542760465056499",
+    "top_ten_share_of_stocks": "0.888880020570600267716012864518945140",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr04.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012904009025/a03153ae13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005720/a09502c1e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2004-12-31",
+    "period": "2004-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "43427000000",
+    "stock_usd": "36477717000",
+    "total_usd": "79904717000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "32613829000",
+    "top_ten_share_of_total": "0.408158995169208846581610444850208280",
+    "top_ten_share_of_stocks": "0.894075388544738147949335754756801255",
+    "sources": [
+      "https://www.berkshirehathaway.com/2004ar/2004ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905001294/a05449e13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005719/a09502b1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011288/a14387a5e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2005-03-31",
+    "period": "2005-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "46709000000",
+    "stock_usd": "37392948000",
+    "total_usd": "84101948000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "33564881000",
+    "top_ten_share_of_total": "0.399097545279212795403978038653753894",
+    "top_ten_share_of_stocks": "0.897625964125642086309964114089105785",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr05.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005372/a09059ae13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905005718/a09502a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011285/a14387a2e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2005-06-30",
+    "period": "2005-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "47762000000",
+    "stock_usd": "38955242000",
+    "total_usd": "86717242000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "34251737000",
+    "top_ten_share_of_total": "0.394981853781742735775660392889340277",
+    "top_ten_share_of_stocks": "0.879258740068923201657943749906623607",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr05.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905008251/a11621ae13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011286/a14387a3e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012906000307/a16062b2e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2005-09-30",
+    "period": "2005-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "46032000000",
+    "stock_usd": "42097638000",
+    "total_usd": "88129638000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "36778914000",
+    "top_ten_share_of_total": "0.417327414870352695650468914895576900",
+    "top_ten_share_of_stocks": "0.873657424675465165052728136433687800",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr05.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011013/a14387ae13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012905011287/a14387a4e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012906000305/a16062a2e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012906001497/a17140ve13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2005-12-31",
+    "period": "2005-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "44660000000",
+    "stock_usd": "43224069000",
+    "total_usd": "87884069000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "37524395000",
+    "top_ten_share_of_total": "0.426976076858708032737992593401655083",
+    "top_ten_share_of_stocks": "0.868136569928203658938264234216357558",
+    "sources": [
+      "https://www.berkshirehathaway.com/2005ar/2005ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012906001495/a17140ue13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095015006000009/a17140xe13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012906005538/a20533ve13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2006-03-31",
+    "period": "2006-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "42149000000",
+    "stock_usd": "46060111000",
+    "total_usd": "88209111000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "39151278000",
+    "top_ten_share_of_total": "0.443846191806649088663868293605180989",
+    "top_ten_share_of_stocks": "0.850003987181012221182011480606288595",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr06.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012906005536/a20533te13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013406016077/a22881ue13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003315/a27108a2e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2006-06-30",
+    "period": "2006-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "41675000000",
+    "stock_usd": "47610473000",
+    "total_usd": "89285473000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "39394761000",
+    "top_ten_share_of_total": "0.441222515559726048603673746567932725",
+    "top_ten_share_of_stocks": "0.827438975453993074170886729060641763",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr06.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013406016076/a22881te13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013406019935/a24427a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013406019936/a24427a2e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003317/a27108a3e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2006-09-30",
+    "period": "2006-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "41816000000",
+    "stock_usd": "50924699000",
+    "total_usd": "92740699000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "41832434000",
+    "top_ten_share_of_total": "0.451068780493017418382839663522484341",
+    "top_ten_share_of_stocks": "0.821456676651147216402791109280783378",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr06.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013406021611/a24929te13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003309/a27108a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011635/a30064be13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2006-12-31",
+    "period": "2006-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "43400000000",
+    "stock_usd": "54922647000",
+    "total_usd": "98322647000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "44462503000",
+    "top_ten_share_of_total": "0.452210191208542219169506288820723063",
+    "top_ten_share_of_stocks": "0.809547708070224656142301371599952202",
+    "sources": [
+      "https://www.berkshirehathaway.com/2006ar/2006ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407003329/a27108ue13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011634/a30064ae13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2007-03-31",
+    "period": "2007-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "45077000000",
+    "stock_usd": "57503864000",
+    "total_usd": "102580864000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "46898275000",
+    "top_ten_share_of_total": "0.457183466499170839504724779857576555",
+    "top_ten_share_of_stocks": "0.815567367785928263881536725949407504",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr07.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407011675/a30064ue13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2007-06-30",
+    "period": "2007-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "45772000000",
+    "stock_usd": "64581257000",
+    "total_usd": "110353257000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "51326778000",
+    "top_ten_share_of_total": "0.465113394886024977042589689944538746",
+    "top_ten_share_of_stocks": "0.794762759108265731030908859516314463",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr07.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407018234/a32912ce13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407021307/a34345a1e13fvhrza.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002783/a37683xe13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2007-09-30",
+    "period": "2007-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "45105000000",
+    "stock_usd": "69505336000",
+    "total_usd": "114610336000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "56769042000",
+    "top_ten_share_of_total": "0.495322184554105137602947084981933916",
+    "top_ten_share_of_stocks": "0.816758039987030636036346907236014225",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr07.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013407024008/a35361te13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002781/a37683we13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2007-12-31",
+    "period": "2007-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "43151000000",
+    "stock_usd": "68768137000",
+    "total_usd": "111919137000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "56464367000",
+    "top_ten_share_of_total": "0.504510385922650565112917194849349133",
+    "top_ten_share_of_stocks": "0.821083272911697462445434576772088504",
+    "sources": [
+      "https://www.berkshirehathaway.com/2007ar/2007ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013408002742/a37683ce13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2008-03-31",
+    "period": "2008-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "33379000000",
+    "stock_usd": "66461224000",
+    "total_usd": "99840224000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "55065731000",
+    "top_ten_share_of_total": "0.551538536211617473935154632665888250",
+    "top_ten_share_of_stocks": "0.828539224616146100469049441520968678",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr08.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095014808000200/v40691ae13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2008-06-30",
+    "period": "2008-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "30157000000",
+    "stock_usd": "63511466000",
+    "total_usd": "93668466000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "53454941000",
+    "top_ten_share_of_total": "0.570682357496918973777151426820633531",
+    "top_ten_share_of_stocks": "0.841658118866284711488158689330206927",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr08.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013408015283/v42827ve13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013408020619/v50493ve13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2008-09-30",
+    "period": "2008-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "32838000000",
+    "stock_usd": "69889879000",
+    "total_usd": "102727879000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "59738460000",
+    "top_ten_share_of_total": "0.581521399852906531828618791983430321",
+    "top_ten_share_of_stocks": "0.854751229430515969272174587682431100",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr08.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013408020620/v50493we13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2008-12-31",
+    "period": "2008-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "25259000000",
+    "stock_usd": "51869961000",
+    "total_usd": "77128961000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "44575948000",
+    "top_ten_share_of_total": "0.577940470376620268487734458136937693",
+    "top_ten_share_of_stocks": "0.859378860917207938521488381300305971",
+    "sources": [
+      "https://www.berkshirehathaway.com/2008ar/2008ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013409003064/v51307e13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2009-03-31",
+    "period": "2009-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "24479000000",
+    "stock_usd": "40871225000",
+    "total_usd": "65350225000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "34574833000",
+    "top_ten_share_of_total": "0.529069838703692297922463159078641275",
+    "top_ten_share_of_stocks": "0.845945601092210962602662386556801270",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr09.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095013409010823/a52403e13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2009-06-30",
+    "period": "2009-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "23636000000",
+    "stock_usd": "49014730000",
+    "total_usd": "72650730000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "42267906000",
+    "top_ten_share_of_total": "0.581796026000014039776338104242035834",
+    "top_ten_share_of_stocks": "0.862351093232585388106799731427674905",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr09.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012309035453/v53429ae13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012309063022/v54313xxe13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2009-09-30",
+    "period": "2009-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "26175000000",
+    "stock_usd": "56546051000",
+    "total_usd": "82721051000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "48605151000",
+    "top_ten_share_of_total": "0.587578982767034717680267384417057274",
+    "top_ten_share_of_stocks": "0.859567558484322804434212390888269103",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr09.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012309063028/v54313e13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012309065631/v54467a1e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2009-12-31",
+    "period": "2009-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "30129000000",
+    "stock_usd": "57929532000",
+    "total_usd": "88058532000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "50533992000",
+    "top_ten_share_of_total": "0.573868208477515841395130229970220262",
+    "top_ten_share_of_stocks": "0.872335581789267691649917006061778645",
+    "sources": [
+      "https://www.berkshirehathaway.com/2009ar/2009ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012310013284/v55055ve13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012310013409/v55243a1e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2010-03-31",
+    "period": "2010-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "23914000000",
+    "stock_usd": "50934475000",
+    "total_usd": "74848475000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "44911139000",
+    "top_ten_share_of_total": "0.600027442108873961693942328150306336",
+    "top_ten_share_of_stocks": "0.881743436051907867902830057637778734",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr10.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012310050487/v56125ve13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2010-06-30",
+    "period": "2010-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "25967000000",
+    "stock_usd": "46440810000",
+    "total_usd": "72407810000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "40998024000",
+    "top_ten_share_of_total": "0.566209970996222645043400704979200448",
+    "top_ten_share_of_stocks": "0.882801656560253794022972467534480988",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr10.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012310078001/v56978ae13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2010-09-30",
+    "period": "2010-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "31815000000",
+    "stock_usd": "48563369000",
+    "total_usd": "80378369000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "44312932000",
+    "top_ten_share_of_total": "0.551304194789023400064263558271504613",
+    "top_ten_share_of_stocks": "0.912476479957558133991898296841802718",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr10.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012310105654/v57789ce13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012311001432/v58285e13fvhrza.txt"
+    ]
+  },
+  {
+    "date": "2010-12-31",
+    "period": "2010-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "35670000000",
+    "stock_usd": "52560379000",
+    "total_usd": "88230379000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "49219753000",
+    "top_ten_share_of_total": "0.557854942456951250317081829604290830",
+    "top_ten_share_of_stocks": "0.936442124970217585379283509352168104",
+    "sources": [
+      "https://www.berkshirehathaway.com/2010ar/2010ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012311013623/v58511e13fvhr.txt"
+    ]
+  },
+  {
+    "date": "2011-03-31",
+    "period": "2011-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "39021000000",
+    "stock_usd": "54338419000",
+    "total_usd": "93359419000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "49939524000",
+    "top_ten_share_of_total": "0.534916825050078771377101222105934485",
+    "top_ten_share_of_stocks": "0.919046319695094551794007845535586893",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr11.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012311050728/v59465ae13fvhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310911/d254132d13fhra.txt"
+    ]
+  },
+  {
+    "date": "2011-06-30",
+    "period": "2011-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "45087000000",
+    "stock_usd": "56621324000",
+    "total_usd": "101708324000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "52689846000",
+    "top_ten_share_of_total": "0.518048512922108518866164779197423409",
+    "top_ten_share_of_stocks": "0.930565417368198595991856354330393263",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr11.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312511223118/d13fhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310942/d254132d13fhra.txt"
+    ]
+  },
+  {
+    "date": "2011-09-30",
+    "period": "2011-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "31811000000",
+    "stock_usd": "59054804000",
+    "total_usd": "90865804000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "54806819000",
+    "top_ten_share_of_total": "0.603162208304457417225956642611119140",
+    "top_ten_share_of_stocks": "0.928067071393548270857016137078365377",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr11.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312511310972/d254132d13fhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312511312418/d258700d13fhra.txt"
+    ]
+  },
+  {
+    "date": "2011-12-31",
+    "period": "2011-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "35053000000",
+    "stock_usd": "66151587000",
+    "total_usd": "101204587000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "60068021000",
+    "top_ten_share_of_total": "0.593530617342472826849241526967547429",
+    "top_ten_share_of_stocks": "0.908035978033301000019848352239833641",
+    "sources": [
+      "https://www.berkshirehathaway.com/2011ar/2011ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312512060928/d289257d13fhr.txt"
+    ]
+  },
+  {
+    "date": "2012-03-31",
+    "period": "2012-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "35168000000",
+    "stock_usd": "75302369000",
+    "total_usd": "110470369000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "67533500000",
+    "top_ten_share_of_total": "0.611326825567134658525491120609907621",
+    "top_ten_share_of_stocks": "0.896831014705526727851018870335938568",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr12.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312512234582/d352241d13fhr.txt",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312512260151/d361607d13fhra.txt"
+    ]
+  },
+  {
+    "date": "2012-06-30",
+    "period": "2012-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "38063000000",
+    "stock_usd": "74321382000",
+    "total_usd": "112384382000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "65545380000",
+    "top_ten_share_of_total": "0.583224989393988926326079721646732017",
+    "top_ten_share_of_stocks": "0.881918207602759593463964381071385352",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr12.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312512355534/d392985d13fhr.txt"
+    ]
+  },
+  {
+    "date": "2012-09-30",
+    "period": "2012-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "43657000000",
+    "stock_usd": "75326633000",
+    "total_usd": "118983633000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "65788975000",
+    "top_ten_share_of_total": "0.552924577450076684076372083881486456",
+    "top_ten_share_of_stocks": "0.873382658693904452094652896539262547",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr12.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312512470800/d434976d13fhr.txt"
+    ]
+  },
+  {
+    "date": "2012-12-31",
+    "period": "2012-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "44422000000",
+    "stock_usd": "75313620000",
+    "total_usd": "119735620000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "64732178000",
+    "top_ten_share_of_total": "0.540625905641111642466961794660603085",
+    "top_ten_share_of_stocks": "0.859501614714576194850280732754580114",
+    "sources": [
+      "https://www.berkshirehathaway.com/2012ar/2012ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312513060317/d481559d13fhr.txt"
+    ]
+  },
+  {
+    "date": "2013-03-31",
+    "period": "2013-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "46086000000",
+    "stock_usd": "85001344000",
+    "total_usd": "131087344000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "73506308000",
+    "top_ten_share_of_total": "0.560742980649604129594692222919704590",
+    "top_ten_share_of_stocks": "0.864766420634478438364456919645882305",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr13.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312513222307/d535016d13fhr.txt"
+    ]
+  },
+  {
+    "date": "2013-06-30",
+    "period": "2013-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "33131000000",
+    "stock_usd": "91854111000",
+    "total_usd": "124985111000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "77002751000",
+    "top_ten_share_of_total": "0.616095392354374114209491720977869116",
+    "top_ten_share_of_stocks": "0.838315783166199278767174612358939493",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr13.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012313006925/form13fInfoTable.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012313009874/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2013-09-30",
+    "period": "2013-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "37388000000",
+    "stock_usd": "92035233000",
+    "total_usd": "129423233000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "76301603000",
+    "top_ten_share_of_total": "0.589551050698911222531429113658441835",
+    "top_ten_share_of_stocks": "0.829047751745247388030190568431548383",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr13.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012313009777/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2013-12-31",
+    "period": "2013-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "44786000000",
+    "stock_usd": "104836593000",
+    "total_usd": "149622593000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "84489180000",
+    "top_ten_share_of_total": "0.564681966178730774970595516948433048",
+    "top_ten_share_of_stocks": "0.805913065106951730108207541616694850",
+    "sources": [
+      "https://www.berkshirehathaway.com/2013ar/2013ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012314002615/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2014-03-31",
+    "period": "2014-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "45101000000",
+    "stock_usd": "105772705000",
+    "total_usd": "150873705000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "86690976000",
+    "top_ten_share_of_total": "0.574593008105686806060738019259220817",
+    "top_ten_share_of_stocks": "0.819596851569599170220710532079140833",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr14.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012314006252/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2014-06-30",
+    "period": "2014-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "52045000000",
+    "stock_usd": "107580386000",
+    "total_usd": "159625386000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "89463961000",
+    "top_ten_share_of_total": "0.560461986917293969769946241508227269",
+    "top_ten_share_of_stocks": "0.831601041104277130963259417938879676",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr14.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012314009048/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2014-09-30",
+    "period": "2014-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "58429000000",
+    "stock_usd": "108405828000",
+    "total_usd": "166834828000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "89358780000",
+    "top_ten_share_of_total": "0.535612264364848327712484589848349890",
+    "top_ten_share_of_stocks": "0.824298671469950859099567967877151402",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr14.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012314012218/form13fInfoTable.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012315002964/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2014-12-31",
+    "period": "2014-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "60268000000",
+    "stock_usd": "109365274000",
+    "total_usd": "169633274000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "90432721000",
+    "top_ten_share_of_total": "0.533107207492794131887120212040475031",
+    "top_ten_share_of_stocks": "0.826886978768050267948855502341629940",
+    "sources": [
+      "https://www.berkshirehathaway.com/2014ar/2014ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012315002961/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2015-03-31",
+    "period": "2015-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "60189000000",
+    "stock_usd": "107133479000",
+    "total_usd": "167322479000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "87732387000",
+    "top_ten_share_of_total": "0.524331145010109490428957844928893266",
+    "top_ten_share_of_stocks": "0.818907290409191322910366795798725065",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr15.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012315006438/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2015-06-30",
+    "period": "2015-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "62727000000",
+    "stock_usd": "109574892000",
+    "total_usd": "172301892000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "87609334000",
+    "top_ten_share_of_total": "0.508464143852813873918459351566493536",
+    "top_ten_share_of_stocks": "0.799538401552793681968675816719034503",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr15.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012315009404/form13fInfoTable.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012315009742/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2015-09-30",
+    "period": "2015-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "61569000000",
+    "stock_usd": "127407562000",
+    "total_usd": "188976562000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "104610670000",
+    "top_ten_share_of_total": "0.553564256291211393717703468433297035",
+    "top_ten_share_of_stocks": "0.821071122921259571704228984461691528",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr15.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012315011992/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2015-12-31",
+    "period": "2015-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "68293000000",
+    "stock_usd": "131855536000",
+    "total_usd": "200148536000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "107634400000",
+    "top_ten_share_of_total": "0.537772607040203381752440097788174678",
+    "top_ten_share_of_stocks": "0.816305505746834930010067988347489634",
+    "sources": [
+      "https://www.berkshirehathaway.com/2015ar/2015ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012316015025/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2016-03-31",
+    "period": "2016-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "55650000000",
+    "stock_usd": "128569639000",
+    "total_usd": "184219639000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "107937710000",
+    "top_ten_share_of_total": "0.585918583848706814586690184535645518",
+    "top_ten_share_of_stocks": "0.839527207508142727226604408526028451",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr16.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012316017295/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2016-06-30",
+    "period": "2016-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "69643000000",
+    "stock_usd": "129704731000",
+    "total_usd": "199347731000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "109102066000",
+    "top_ten_share_of_total": "0.547295248622619135805463469258147714",
+    "top_ten_share_of_stocks": "0.841157181845587421171244709647483869",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr16.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012316020120/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2016-09-30",
+    "period": "2016-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "80942000000",
+    "stock_usd": "128787110000",
+    "total_usd": "209729110000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "107846442000",
+    "top_ten_share_of_total": "0.514217802192552097322112319076736653",
+    "top_ten_share_of_stocks": "0.837400901379027761396307441016418491",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr16.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012316022377/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2016-12-31",
+    "period": "2016-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "82431000000",
+    "stock_usd": "147985198000",
+    "total_usd": "230416198000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "119827160000",
+    "top_ten_share_of_total": "0.520046598460061388566093777834143414",
+    "top_ten_share_of_stocks": "0.809723956310819680762936844534951394",
+    "sources": [
+      "https://www.berkshirehathaway.com/2016ar/2016ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012317002417/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2017-03-31",
+    "period": "2017-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "90880000000",
+    "stock_usd": "161873831000",
+    "total_usd": "252753831000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "131695472000",
+    "top_ten_share_of_total": "0.521042436741542406136665046236232914",
+    "top_ten_share_of_stocks": "0.813568636674818674057328018634463529",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr17.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012317005259/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2017-06-30",
+    "period": "2017-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "94787000000",
+    "stock_usd": "162143689000",
+    "total_usd": "256930689000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "128871900000",
+    "top_ten_share_of_total": "0.501582354764945965641340727498691291",
+    "top_ten_share_of_stocks": "0.794800591961368289825945677108653917",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr17.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012317007953/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2017-09-30",
+    "period": "2017-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "104852000000",
+    "stock_usd": "177678767000",
+    "total_usd": "282530767000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "141202981000",
+    "top_ten_share_of_total": "0.499779130249556148339766479308782679",
+    "top_ten_share_of_stocks": "0.794709370084721490666355198198780837",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr17.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012317010896/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2017-12-31",
+    "period": "2017-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "113044000000",
+    "stock_usd": "191242697000",
+    "total_usd": "304286697000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "154297921000",
+    "top_ten_share_of_total": "0.507080731827063737853778076929863286",
+    "top_ten_share_of_stocks": "0.806817323853156076333727922692912033",
+    "sources": [
+      "https://www.berkshirehathaway.com/2017ar/2017ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012318002390/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2018-03-31",
+    "period": "2018-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "105012000000",
+    "stock_usd": "188943876000",
+    "total_usd": "293955876000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "152436108000",
+    "top_ten_share_of_total": "0.518567990796006404716332324651336448",
+    "top_ten_share_of_stocks": "0.806779829159427215307047051368841401",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr18.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012318005732/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2018-06-30",
+    "period": "2018-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "107736000000",
+    "stock_usd": "195615793000",
+    "total_usd": "303351793000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "160337976000",
+    "top_ten_share_of_total": "0.528554568325890857681530169824972816",
+    "top_ten_share_of_stocks": "0.819657623451701570946268126725330403",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr18.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012318008866/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2018-09-30",
+    "period": "2018-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "100346000000",
+    "stock_usd": "221020177000",
+    "total_usd": "321366177000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "177517604000",
+    "top_ten_share_of_total": "0.552384216836857725696503524700422970",
+    "top_ten_share_of_stocks": "0.803173748250142791261994148163224030",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr18.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012318011885/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2018-12-31",
+    "period": "2018-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "107175000000",
+    "stock_usd": "183066067000",
+    "total_usd": "290241067000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "146590407000",
+    "top_ten_share_of_total": "0.505064319516162748946895237261514064",
+    "top_ten_share_of_stocks": "0.800751386656490522626457037502204054",
+    "sources": [
+      "https://www.berkshirehathaway.com/2018ar/2018ar.pdf",
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr19.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012319002221/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2019-03-31",
+    "period": "2019-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "110516000000",
+    "stock_usd": "199483708000",
+    "total_usd": "309999708000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "158688708000",
+    "top_ten_share_of_total": "0.511899540240857259130063438640400268",
+    "top_ten_share_of_stocks": "0.795497083902210199541708939960149528",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr19.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012319005436/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2019-06-30",
+    "period": "2019-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "119120000000",
+    "stock_usd": "208101077000",
+    "total_usd": "327221077000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "167308449000",
+    "top_ten_share_of_total": "0.511300954491999303577868243493373747",
+    "top_ten_share_of_stocks": "0.803976853036661602669168309974676392",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr19.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012319008356/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2019-09-30",
+    "period": "2019-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "116319000000",
+    "stock_usd": "214673311000",
+    "total_usd": "330992311000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "174142479000",
+    "top_ten_share_of_total": "0.526122430076630994609418585557414958",
+    "top_ten_share_of_stocks": "0.811197620182976541504034472175257967",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr19.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012319011362/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2019-12-31",
+    "period": "2019-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "124973000000",
+    "stock_usd": "242050717000",
+    "total_usd": "367023717000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "199587864000",
+    "top_ten_share_of_total": "0.543800999105461078418537186794389094",
+    "top_ten_share_of_stocks": "0.824570430832477145688438510182145009",
+    "sources": [
+      "https://www.berkshirehathaway.com/2019ar/2019ar.pdf",
+      "https://www.berkshirehathaway.com/qtrly/1stqtr20.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012320002466/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2020-03-31",
+    "period": "2020-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "124710000000",
+    "stock_usd": "175526846000",
+    "total_usd": "300236846000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "147864818000",
+    "top_ten_share_of_total": "0.492493909291866195530178198048350135",
+    "top_ten_share_of_stocks": "0.842405713824539409772109731864036342",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr20.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012320005345/form13fInfoTable.xml"
+    ]
+  },
+  {
+    "date": "2020-06-30",
+    "period": "2020-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "141722000000",
+    "stock_usd": "202411166000",
+    "total_usd": "344133166000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "177621516000",
+    "top_ten_share_of_total": "0.516141812382012607294003159230517177",
+    "top_ten_share_of_stocks": "0.877528248614505782749159203993716434",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr20.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012320009058/960.xml"
+    ]
+  },
+  {
+    "date": "2020-09-30",
+    "period": "2020-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "135189000000",
+    "stock_usd": "235935559000",
+    "total_usd": "371124559000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "200187013000",
+    "top_ten_share_of_total": "0.539406536553136059098691983895358431",
+    "top_ten_share_of_stocks": "0.848481737337439669278508374398960353",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr20.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012320012127/1653.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012321002781/3281.xml"
+    ]
+  },
+  {
+    "date": "2020-12-31",
+    "period": "2020-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "135014000000",
+    "stock_usd": "269927528000",
+    "total_usd": "404941528000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "230106746000",
+    "top_ten_share_of_total": "0.568246845752011880589337826571346370",
+    "top_ten_share_of_stocks": "0.852476024601684938188297712265938285",
+    "sources": [
+      "https://www.berkshirehathaway.com/2020ar/2020ar.pdf",
+      "https://www.berkshirehathaway.com/qtrly/1stqtr21.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012321002786/3286.xml"
+    ]
+  },
+  {
+    "date": "2021-03-31",
+    "period": "2021-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "138127000000",
+    "stock_usd": "270435200000",
+    "total_usd": "408562200000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "234512736000",
+    "top_ten_share_of_total": "0.573995186045111368599444588853300672",
+    "top_ten_share_of_stocks": "0.867167942634686608843819147803244548",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr21.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012321007024/4471.xml"
+    ]
+  },
+  {
+    "date": "2021-06-30",
+    "period": "2021-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "140684000000",
+    "stock_usd": "293023412000",
+    "total_usd": "433707412000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "256412130000",
+    "top_ten_share_of_total": "0.591209933022772504519706017844122064",
+    "top_ten_share_of_stocks": "0.875056802628453456135443539235015119",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr21.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012321011396/5309.xml"
+    ]
+  },
+  {
+    "date": "2021-09-30",
+    "period": "2021-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "144365000000",
+    "stock_usd": "293447417000",
+    "total_usd": "437812417000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "259586028000",
+    "top_ten_share_of_total": "0.592916093560681263181258744427068180",
+    "top_ten_share_of_stocks": "0.884608324904764794709370367366361926",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr21.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012321015518/6820.xml"
+    ]
+  },
+  {
+    "date": "2021-12-31",
+    "period": "2021-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "143854000000",
+    "stock_usd": "330952724000",
+    "total_usd": "474806724000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "296325356000",
+    "top_ten_share_of_total": "0.624096797753015814493814961221989771",
+    "top_ten_share_of_stocks": "0.895370651187025733621095682536216260",
+    "sources": [
+      "https://www.berkshirehathaway.com/2021ar/2021ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012322002973/9815.xml"
+    ]
+  },
+  {
+    "date": "2022-03-31",
+    "period": "2022-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "102687000000",
+    "stock_usd": "363553518000",
+    "total_usd": "466240518000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "317030450000",
+    "top_ten_share_of_total": "0.679971898109464608993935615008046126",
+    "top_ten_share_of_stocks": "0.872032408719532731904412488727450576",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr22.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012322006442/13095.xml"
+    ]
+  },
+  {
+    "date": "2022-06-30",
+    "period": "2022-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "101337000000",
+    "stock_usd": "300130772000",
+    "total_usd": "401467772000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "262639089000",
+    "top_ten_share_of_total": "0.654197191698864435873074265099416249",
+    "top_ten_share_of_stocks": "0.875082175845667701144619719300225570",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr22.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012322009450/15796.xml"
+    ]
+  },
+  {
+    "date": "2022-09-30",
+    "period": "2022-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "105201000000",
+    "stock_usd": "296096640000",
+    "total_usd": "401297640000",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "258174710000",
+    "top_ten_share_of_total": "0.643349684289197414667078530539078176",
+    "top_ten_share_of_stocks": "0.871927185664788360989168941599607480",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr22.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012322012275/18337.xml"
+    ]
+  },
+  {
+    "date": "2022-12-31",
+    "period": "2022-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "125034000000",
+    "stock_usd": "299007622119",
+    "total_usd": "424041622119",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "266211119311",
+    "top_ten_share_of_total": "0.627794785758772568072824852083350069",
+    "top_ten_share_of_stocks": "0.890315495720214302795580568736558536",
+    "sources": [
+      "https://www.berkshirehathaway.com/2022ar/2022ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012323002585/20651.xml"
+    ]
+  },
+  {
+    "date": "2023-03-31",
+    "period": "2023-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "127674000000",
+    "stock_usd": "325108752692",
+    "total_usd": "452782752692",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "293079417908",
+    "top_ten_share_of_total": "0.647284853863158818219944247769841243",
+    "top_ten_share_of_stocks": "0.901481167397717524875428369846541591",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr23.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012323005270/22815.xml"
+    ]
+  },
+  {
+    "date": "2023-06-30",
+    "period": "2023-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "141933000000",
+    "stock_usd": "348194055552",
+    "total_usd": "490127055552",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "317753296865",
+    "top_ten_share_of_total": "0.648308011699403081394740592457405137",
+    "top_ten_share_of_stocks": "0.912575306207506704769718997548982028",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr23.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012323008074/25376.xml"
+    ]
+  },
+  {
+    "date": "2023-09-30",
+    "period": "2023-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "151974000000",
+    "stock_usd": "314952628264",
+    "total_usd": "466926628264",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "287976002148",
+    "top_ten_share_of_total": "0.616747867258447644249087079090809555",
+    "top_ten_share_of_stocks": "0.914347036045726795726016694575196854",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr23.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012323011029/28498.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005653/32497.xml"
+    ]
+  },
+  {
+    "date": "2023-12-31",
+    "period": "2023-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "163887000000",
+    "stock_usd": "351900674461",
+    "total_usd": "515787674461",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "324459669521",
+    "top_ten_share_of_total": "0.629056655648201631406529206670398323",
+    "top_ten_share_of_stocks": "0.922020595777399691330567733713997589",
+    "sources": [
+      "https://www.berkshirehathaway.com/2023ar/2023ar.pdf",
+      "https://www.berkshirehathaway.com/2024ar/2024ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012324002518/30197.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005664/32498.xml"
+    ]
+  },
+  {
+    "date": "2024-03-31",
+    "period": "2024-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "182747000000",
+    "stock_usd": "331680406332",
+    "total_usd": "514427406332",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "302449011877",
+    "top_ten_share_of_total": "0.587933318004068660413961702387537096",
+    "top_ten_share_of_stocks": "0.911868793281263532433750419468537616",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr24.pdf",
+      "https://www.berkshirehathaway.com/qtrly/1stqtr25.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012324005622/32398.xml"
+    ]
+  },
+  {
+    "date": "2024-06-30",
+    "period": "2024-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "271586000000",
+    "stock_usd": "279969062343",
+    "total_usd": "551555062343",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "253307180298",
+    "top_ten_share_of_total": "0.459260004290331068575010999497945370",
+    "top_ten_share_of_stocks": "0.904768470409292633375371407117289293",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr24.pdf",
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr25.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012324008740/34725.xml"
+    ]
+  },
+  {
+    "date": "2024-09-30",
+    "period": "2024-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "305768000000",
+    "stock_usd": "266378900503",
+    "total_usd": "572146900503",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "238892366711",
+    "top_ten_share_of_total": "0.417536766346158664021219361666255049",
+    "top_ten_share_of_stocks": "0.896814148042140287893686156033664316",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr24.pdf",
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012324011775/36917.xml"
+    ]
+  },
+  {
+    "date": "2024-12-31",
+    "period": "2024-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "318036000000",
+    "stock_usd": "267175474249",
+    "total_usd": "585211474249",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "239701116068",
+    "top_ten_share_of_total": "0.409597430357304033039227962528349602",
+    "top_ten_share_of_stocks": "0.897167364413865796158173623214437594",
+    "sources": [
+      "https://www.berkshirehathaway.com/2024ar/2024ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012325002701/39042.xml"
+    ]
+  },
+  {
+    "date": "2025-03-31",
+    "period": "2025-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "328013000000",
+    "stock_usd": "259807694872",
+    "total_usd": "587820694872",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "230290501421",
+    "top_ten_share_of_total": "0.391769979230055106075241283530568593",
+    "top_ten_share_of_stocks": "0.886388301680047246541508509042863758",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr25.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012325005701/form13fInfoTable.xml",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012325008361/43981.xml"
+    ]
+  },
+  {
+    "date": "2025-06-30",
+    "period": "2025-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "339798000000",
+    "stock_usd": "257521776925",
+    "total_usd": "597319776925",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "224786830469",
+    "top_ten_share_of_total": "0.376325779176778259324667178145936458",
+    "top_ten_share_of_stocks": "0.872884744556831618328582640118407144",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr25.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000095012325008343/43977.xml"
+    ]
+  },
+  {
+    "date": "2025-09-30",
+    "period": "2025-09-30",
+    "frequency": "quarterly",
+    "cash_usd": "354282000000",
+    "stock_usd": "267334501955",
+    "total_usd": "621616501955",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "231740075509",
+    "top_ten_share_of_total": "0.372802322300279126926254864308093077",
+    "top_ten_share_of_stocks": "0.866854348444737767817238941914709357",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/3rdqtr25.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312525282901/46994.xml"
+    ]
+  },
+  {
+    "date": "2025-12-31",
+    "period": "2025-12-31",
+    "frequency": "quarterly",
+    "cash_usd": "368986000000",
+    "stock_usd": "274160086701",
+    "total_usd": "643146086701",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "241971810765",
+    "top_ten_share_of_total": "0.376231490431960313923446344256636140",
+    "top_ten_share_of_stocks": "0.882593136282800157371401939531953752",
+    "sources": [
+      "https://www.berkshirehathaway.com/2025ar/2025ar.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312526054580/50240.xml"
+    ]
+  },
+  {
+    "date": "2026-03-31",
+    "period": "2026-03-31",
+    "frequency": "quarterly",
+    "cash_usd": "373510000000",
+    "stock_usd": "263095703570",
+    "total_usd": "636605703570",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "239717281307",
+    "top_ten_share_of_total": "0.376555346524068843412922989875624623",
+    "top_ten_share_of_stocks": "0.911140995668977658934561673199580330",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/1stqtr26.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312526226661/53405.xml"
+    ]
+  },
+  {
+    "date": "2026-06-30",
+    "period": "2026-06-30",
+    "frequency": "quarterly",
+    "cash_usd": "359230000000",
+    "stock_usd": "299253556246",
+    "total_usd": "658483556246",
+    "verified_rank_count": 10,
+    "complete": true,
+    "top_ten_value_usd": "272437839618",
+    "top_ten_share_of_total": "0.413735220923605168437635409325759517",
+    "top_ten_share_of_stocks": "0.910391318437812433762017321841093640",
+    "sources": [
+      "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+      "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml"
+    ]
+  }
+]

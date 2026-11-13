@@ -15,13 +15,19 @@ The published snapshot contains 141 observations: 30 annual records for fiscal 1
 | [`data/evidence/`](../data/evidence/) | Annual ranking proofs, quarterly cash components, full quarterly company portfolios, issuer aliases, and ranking audits. |
 | [`data/chart.json`](../data/chart.json) | Rendering specification and chart data derived from the allocation records. |
 | [`docs/index.html`](index.html) | Interactive chart with embedded data; requires internet access to load its pinned chart component. |
-| [`assets/allocation-history.png`](../assets/allocation-history.png) | Checked static preview exported with Data charts 1.2.1. The documented Python commands do not regenerate this image. |
+| [`assets/allocation-history.png`](../assets/allocation-history.png) | Three-panel static figure from the chart data; regenerate with Matplotlib and `python scripts/render_preview.py`. |
 
 `allocation.json` is an array of records. `inputs.json` contains a `rows` array plus snapshot/publication dates, expected counts, a decimal precision of 36 significant digits, and a `numeric_baseline` hash that locks the reviewed numerical output. The build recomputes totals and shares from the input amounts.
 
 In `statistics.json`, `segments.annual` and `segments.quarterly` contain a `series` object for each of the five share fields. Each series records its verified count, maximum, and minimum. An extremum includes the date, amount, denominator, and `share_of_total`; company concentration points also identify the company. `latest`, `verified_ranks`, and `missing_ranks` summarize the full snapshot.
 
 In `sources.json`, each entry has a public `url`, `source_kind`, supporting `observation_dates`, repository-relative `evidence_files`, and any retained page or other `locators`. A source used only for comparative or ranking evidence can have no main-series observation date.
+
+## Top-ten records
+
+- [Holdings JSON](../data/top-ten-holdings.json) and [CSV](../data/top-ten-holdings.csv): one row per `(date, rank)`, including unverified ranks. `company` and `value_usd` identify the complete issuer position; `verified` requires both rank and amount. `share_of_total` divides by cash plus disclosed equities; `share_of_stocks` is a separate stocks-only comparator. `reason` and `sources` document the evidence. Quarterly identifier and CUSIP details are retained when available.
+- [Totals JSON](../data/top-ten-totals.json) and [CSV](../data/top-ten-totals.csv): one row per date. `verified_rank_count` gives the number of usable ranks. `complete` is true only when all ten are verified. `top_ten_value_usd`, `top_ten_share_of_total`, and `top_ten_share_of_stocks` remain null for incomplete dates.
+- The original allocation columns below remain available for compatibility. The extended rank table is the source for the ten-rank chart and date selector. Chart-only null separators never appear in either data export.
 
 ## Allocation record
 
@@ -70,7 +76,7 @@ first_value_usd >= second_value_usd >= third_value_usd  [when verified]
 first_value_usd + second_value_usd + third_value_usd <= stock_usd
 ```
 
-The top-three values are subsets of the stock total. Companies can move between ranks over time; `second_share` tracks each period's second-largest company, not a fixed stock.
+Every verified top-ten value is a subset of the stock total. Companies can move between ranks over time; `second_share` tracks each period's second-largest company, not a fixed stock. The `top_ten` object in `statistics.json` records verified coverage by rank and segment, and concentration extrema over complete observations only.
 
 Chart data may contain an all-null separator between the annual and quarterly regimes. It is a rendering instruction, not a 142nd observation. Chart display values can be floating-point numbers; use `allocation.json` for exact calculations. Dates, missing rankings, and the regime break should be preserved when making another chart.
 

@@ -354,5 +354,292 @@
       }
     }
   },
-  "limitation": "Extrema are sampled observations, not daily historical extrema. Annual-report and quarterly-13F scopes are summarized separately."
+  "limitation": "Extrema are sampled observations, not daily historical extrema. Annual-report and quarterly-13F scopes are summarized separately.",
+  "top_ten": {
+    "observations": 141,
+    "rank_records": 1410,
+    "complete_observations": 111,
+    "latest": {
+      "date": "2026-06-30",
+      "period": "2026-06-30",
+      "frequency": "quarterly",
+      "cash_usd": "359230000000",
+      "stock_usd": "299253556246",
+      "total_usd": "658483556246",
+      "verified_rank_count": 10,
+      "complete": true,
+      "top_ten_value_usd": "272437839618",
+      "top_ten_share_of_total": "0.413735220923605168437635409325759517",
+      "top_ten_share_of_stocks": "0.910391318437812433762017321841093640",
+      "sources": [
+        "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf",
+        "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml"
+      ],
+      "holdings": [
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 1,
+          "company": "Apple Inc.",
+          "company_id": "037833",
+          "cusips": [
+            "037833100"
+          ],
+          "value_usd": "65950296923",
+          "share_of_total": "0.100154812215784347080820725336561178",
+          "share_of_stocks": "0.220382667294973978004914338965419253",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 2,
+          "company": "American Express Co.",
+          "company_id": "025816",
+          "cusips": [
+            "025816109"
+          ],
+          "value_usd": "51282319275",
+          "share_of_total": "0.0778794227867425469839087879089852901",
+          "share_of_stocks": "0.171367451462610546022042276679170355",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 3,
+          "company": "Alphabet Inc.",
+          "company_id": "02079K",
+          "cusips": [
+            "02079K107",
+            "02079K305"
+          ],
+          "value_usd": "37764088383",
+          "share_of_total": "0.0573500857003813758375861120880501022",
+          "share_of_stocks": "0.126194284394589469937429884359978160",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 4,
+          "company": "Coca-Cola Co.",
+          "company_id": "191216",
+          "cusips": [
+            "191216100"
+          ],
+          "value_usd": "32508000000",
+          "share_of_total": "0.0493679753908015252758458022634993981",
+          "share_of_stocks": "0.108630287999909177861272740385169912",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 5,
+          "company": "Bank of America Corp.",
+          "company_id": "060505",
+          "cusips": [
+            "060505104"
+          ],
+          "value_usd": "27543790975",
+          "share_of_total": "0.0418291249853322612867317581480561490",
+          "share_of_stocks": "0.0920416496315845088592037008931512566",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 6,
+          "company": "Chevron Corp.",
+          "company_id": "166764",
+          "cusips": [
+            "166764100"
+          ],
+          "value_usd": "13986141890",
+          "share_of_total": "0.0212399258224984106477298135910602236",
+          "share_of_stocks": "0.0467367608440474365904087388647754289",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 7,
+          "company": "OCCIDENTAL PETE CORP",
+          "company_id": "674599",
+          "cusips": [
+            "674599105"
+          ],
+          "value_usd": "12868205304",
+          "share_of_total": "0.0195421817020934434713279505282791362",
+          "share_of_stocks": "0.0430010104655924336801005676761122944",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 8,
+          "company": "CHUBB LIMITED",
+          "company_id": "H1467J",
+          "cusips": [
+            "H1467J104"
+          ],
+          "value_usd": "11670066615",
+          "share_of_total": "0.0177226393951745557466693356368634108",
+          "share_of_stocks": "0.0389972529028416149744966195699069039",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 9,
+          "company": "Moody's Corp.",
+          "company_id": "615369",
+          "cusips": [
+            "615369105"
+          ],
+          "value_usd": "11173435852",
+          "share_of_total": "0.0169684356519083140621822221186996101",
+          "share_of_stocks": "0.0373376877861225107868521446957655280",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        },
+        {
+          "date": "2026-06-30",
+          "period": "2026-06-30",
+          "frequency": "quarterly",
+          "rank": 10,
+          "company": "Kraft Heinz Co.",
+          "company_id": "500754",
+          "cusips": [
+            "500754106"
+          ],
+          "value_usd": "7691494401",
+          "share_of_total": "0.0116806172728883880448329017057050187",
+          "share_of_stocks": "0.0257022656555407570452963097516445479",
+          "verified": true,
+          "reason": "Ranked by the combined market value of this issuer's eligible securities in the amended 13F portfolio.",
+          "sources": [
+            "https://www.sec.gov/Archives/edgar/data/1067983/000119312526352200/56757.xml",
+            "https://www.berkshirehathaway.com/qtrly/2ndqtr26.pdf"
+          ]
+        }
+      ]
+    },
+    "segments": {
+      "annual": {
+        "observations": 30,
+        "complete_observations": 0,
+        "verified_by_rank": {
+          "1": 17,
+          "2": 15,
+          "3": 13,
+          "4": 10,
+          "5": 5,
+          "6": 4,
+          "7": 4,
+          "8": 3,
+          "9": 0,
+          "10": 0
+        },
+        "maximum": null,
+        "minimum": null
+      },
+      "quarterly": {
+        "observations": 111,
+        "complete_observations": 111,
+        "verified_by_rank": {
+          "1": 111,
+          "2": 111,
+          "3": 111,
+          "4": 111,
+          "5": 111,
+          "6": 111,
+          "7": 111,
+          "8": 111,
+          "9": 111,
+          "10": 111
+        },
+        "maximum": {
+          "date": "2000-06-30",
+          "period": "2000-06-30",
+          "frequency": "quarterly",
+          "cash_usd": "3213000000",
+          "stock_usd": "34866876000",
+          "total_usd": "38079876000",
+          "verified_rank_count": 10,
+          "complete": true,
+          "top_ten_value_usd": "30826992000",
+          "top_ten_share_of_total": "0.809534989032002100006838257561552984",
+          "top_ten_share_of_stocks": "0.884134041719137670951650500606937083"
+        },
+        "minimum": {
+          "date": "2025-09-30",
+          "period": "2025-09-30",
+          "frequency": "quarterly",
+          "cash_usd": "354282000000",
+          "stock_usd": "267334501955",
+          "total_usd": "621616501955",
+          "verified_rank_count": 10,
+          "complete": true,
+          "top_ten_value_usd": "231740075509",
+          "top_ten_share_of_total": "0.372802322300279126926254864308093077",
+          "top_ten_share_of_stocks": "0.866854348444737767817238941914709357"
+        }
+      }
+    }
+  }
 }

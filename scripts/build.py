@@ -13,6 +13,8 @@ import json
 from pathlib import Path
 from urllib.parse import urlparse
 
+from top_ten import build_top_ten, top_ten_statistics
+
 
 ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
@@ -109,7 +111,7 @@ def build_sources(rows: list[dict]) -> dict:
             host = urlparse(url).hostname or ""
             if host.endswith("sec.gov"):
                 kind = "SEC filing"
-            elif host.endswith("berkshirehathaway.com"):
+            elif host in {"berkshirehathaway.com", "www.berkshirehathaway.com", "www.ghco.com", "ir.mtb.com"}:
                 kind = "Company report or shareholder letter"
             else:
                 kind = "Archived original company report hosted by a third party"
@@ -163,6 +165,13 @@ def csv_field(value):
     return value
 
 
+def save_csv(path: Path, rows: list[dict]) -> None:
+    with path.open("w", encoding="utf-8", newline="") as stream:
+        writer = csv.DictWriter(stream, fieldnames=list(rows[0]), lineterminator="\n")
+        writer.writeheader()
+        writer.writerows({key: csv_field(value) for key, value in row.items()} for row in rows)
+
+
 def write_manifest() -> None:
     manifest = {
         "schema_version": 1,
@@ -178,15 +187,23 @@ def write_manifest() -> None:
 def main() -> None:
     inputs = load_json(DATA / "inputs.json")
     rows = build_observations(inputs)
+    holdings, totals = build_top_ten(
+        rows,
+        load_json(EVIDENCE / "annual_top_ten.json")["rows"],
+        load_json(EVIDENCE / "quarterly_company_holdings.json")["rows"],
+        inputs["decimal_precision"],
+    )
     save_json(DATA / "allocation.json", rows)
-    with (DATA / "allocation.csv").open("w", encoding="utf-8", newline="") as stream:
-        writer = csv.DictWriter(stream, fieldnames=list(rows[0]), lineterminator="\n")
-        writer.writeheader()
-        writer.writerows({key: csv_field(value) for key, value in row.items()} for row in rows)
-    save_json(DATA / "statistics.json", build_statistics(rows, inputs))
-    save_json(DATA / "sources.json", build_sources(rows))
+    save_csv(DATA / "allocation.csv", rows)
+    for name, records in (("top-ten-holdings", holdings), ("top-ten-totals", totals)):
+        save_json(DATA / (name + ".json"), records)
+        save_csv(DATA / (name + ".csv"), records)
+    statistics = build_statistics(rows, inputs)
+    statistics["top_ten"] = top_ten_statistics(holdings, totals)
+    save_json(DATA / "statistics.json", statistics)
+    save_json(DATA / "sources.json", build_sources(rows + holdings))
     write_manifest()
-    print(f"Rebuilt {len(rows)} observations: allocation.json, allocation.csv, statistics.json, sources.json and manifest.json")
+    print(f"Rebuilt {len(rows)} observations and {len(holdings)} individual issuer-rank records.")
 
 
 if __name__ == "__main__":

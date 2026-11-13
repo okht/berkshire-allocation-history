@@ -1,6 +1,6 @@
 # Methodology
 
-This dataset reconstructs five allocation and concentration series from public Berkshire Hathaway financial reports and SEC holdings disclosures. Its audit cutoff is **2026-11-06**; the publication date is **2026-11-07**. The final observation is **2026-06-30**. Publication does not imply a later holdings refresh.
+This dataset reconstructs cash, equities and the ten largest issuer positions from public Berkshire Hathaway financial reports and SEC holdings disclosures. Its audit cutoff is **2026-11-06**; the publication date is **2026-11-07**. The final observation is **2026-06-30**. The rank-depth extension was added on 2026-11-14. The observation window did not change.
 
 ## Observation dates and coverage
 
@@ -21,12 +21,11 @@ For each date:
 T = C + S
 cash_share   = C / T
 stock_share  = S / T
-first_share  = M1 / T
-second_share = M2 / T
-third_share  = M3 / T
+rank_k_share = Mk / T, k = 1 ... 10
+top_ten_share = sum(M1 ... M10) / T, only if all ten ranks are verified
 ```
 
-`M1` through `M3` are holdings within `S`; adding their shares to the cash and stock shares would double count them. Cash and stock shares sum to one. Concentration is measured against cash plus stocks, not against stocks alone, Berkshire's market capitalization, or its total assets.
+`M1` through `M10` are holdings within `S`; adding their shares to the cash and stock shares would double count them. Cash and stock shares sum to one. Concentration is measured against cash plus stocks, not against stocks alone, Berkshire's market capitalization, or its total assets.
 
 ## Cash construction
 
@@ -72,17 +71,26 @@ For annual reports, a partial list of large holdings establishes a rank only whe
 
 ### Ranking gaps
 
-| Rank | Verified observations | Gaps |
-| --- | ---: | --- |
-| Largest | 128 / 141 | Fiscal 1968–1976 and 1978–1981 |
-| Second-largest | 126 / 141 | Fiscal 1968–1982 |
-| Third-largest | 124 / 141 | Fiscal 1968–1982, 1985, and 1993 |
+| Rank | Annual dates verified (of 30) | Quarterly dates verified (of 111) |
+| ---: | ---: | ---: |
+| 1 | 17 | 111 |
+| 2 | 15 | 111 |
+| 3 | 13 | 111 |
+| 4 | 10 | 111 |
+| 5 | 5 | 111 |
+| 6 | 4 | 111 |
+| 7 | 4 | 111 |
+| 8 | 3 | 111 |
+| 9 | 0 | 111 |
+| 10 | 0 | 111 |
 
-All 111 quarterly observations have three verified company rankings. An annual gap means that available evidence does not establish the required complete company value; it does not mean that Berkshire held no such investment.
+All 111 quarterly observations have ten verified company rankings. Verified lower ranks can remain usable even when a different rank is unresolved, if the published bounds independently establish both position and full issuer value. No unverified slot is used in a combined ten-company value. An annual gap means that available evidence does not establish the required complete company value; it does not mean that Berkshire held no such investment.
 
 **1977 illustrates why issuer aggregation matters.** GEICO common stock of $10.516 million and convertible preferred stock of $33.033 million combine to $43.549 million, establishing first place. Washington Post common stock is $33.401 million, but approximately $4.038 million of other preferred securities lacks issuer identification. Washington Post's second-place identity can be bounded, while its complete same-company value cannot; the plotted second value therefore remains null. For third place, Capital Cities common stock plus that preferred residual could reach about $17.266 million, above Interpublic's disclosed $17.187 million. The third rank also remains null. The [original 1977 report](https://theoraclesclassroom.com/wp-content/uploads/2019/09/1977-Berkshire-AR.pdf) supports the components but does not resolve the missing issuer identities.
 
 For 1985, a minority-interest adjustment prevents a precise comparison between ABC and Beatrice in the original consolidation scope. For 1993, remaining preferred-stock and Other categories are sufficiently bounded to establish second place, but not third. The relevant rows retain the details.
+
+The earliest individually verified fourth-place holding in this snapshot is the Washington Post in fiscal 1983 ($136.875 million). In 1994, Berkshire and issuer filings together establish GEICO in fourth place at $1,678.250 million. In 1996 and 1997 the verified sequence stops at rank eight. None of the 30 annual dates supports an exact tenth-place company or a complete ten-company sum. See [year-by-year rank evidence](../data/evidence/annual_top_ten.json) for the figures, relevant competing positions, and reasons for each gap.
 
 ## Statistics and reproducibility
 
@@ -98,4 +106,4 @@ python scripts/render_chart.py
 python scripts/validate.py
 ```
 
-The validation checks observation coverage, arithmetic, ranking order, missing-value treatment, and consistency between generated artifacts. Monetary calculations use decimal/integer arithmetic; chart rendering may use floating-point display values. The README's PNG preview is a checked export using the same pinned Data charts 1.2.1 component; these commands regenerate the data and HTML, but do not regenerate the PNG. See the [data dictionary](data-dictionary.md) for storage conventions.
+The validation checks observation coverage, arithmetic, ranking order, missing-value treatment, and consistency between generated artifacts. Monetary calculations use decimal/integer arithmetic; chart rendering may use floating-point display values. The README preview splits the same series across three panels with separate vertical scales. Its optional Matplotlib rebuild command is `python scripts/render_preview.py`. See the [data dictionary](data-dictionary.md) for storage conventions.

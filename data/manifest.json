@@ -14,13 +14,18 @@
     },
     {
       "path": "data/chart.json",
-      "sha256": "c6f2bc1e9c987d99051e34958a6bf78a32aa16853b76ef8a0de3463b03c5d31b",
-      "bytes": 44624
+      "sha256": "740fd86d839c033ae9da0e76e47e7889802dccb2ba6b715aa60e8955a6b52ae4",
+      "bytes": 76865
     },
     {
       "path": "data/evidence/annual_rankings.json",
       "sha256": "4700bfaca1a073ce8ad5e5f65428a590ffdfcf3b9dac1f9503f83b0680cbafb6",
       "bytes": 197227
+    },
+    {
+      "path": "data/evidence/annual_top_ten.json",
+      "sha256": "7f036b74f3b083879322db18e93b524386bad3dc5698bf74a7533ca5b7bdb7a3",
+      "bytes": 234604
     },
     {
       "path": "data/evidence/issuer_aliases.json",
@@ -54,28 +59,58 @@
     },
     {
       "path": "data/sources.json",
-      "sha256": "2acd9bb1bd18b7dfb67577b379d54c0068851e628771d54ac1d6bcbf6c994eba",
-      "bytes": 155027
+      "sha256": "1670700ba22f4edf6ecc387973815da109a0213c614ee2251a57ff3b87e2cd4c",
+      "bytes": 163833
     },
     {
       "path": "data/statistics.json",
-      "sha256": "af8c149804938b82921b7a6187d8fc83ebd1ed99f90648cdb612bc29d9a341d4",
-      "bytes": 11707
+      "sha256": "1d61db3509638c3837512e6843f1b804481b7161e6539c351611b70661c70807",
+      "bytes": 22321
+    },
+    {
+      "path": "data/top-ten-holdings.csv",
+      "sha256": "8c4cfeefaccfa918c0677cdb759b932db49ac1b5deab5773478179fdfea655b3",
+      "bytes": 731028
+    },
+    {
+      "path": "data/top-ten-holdings.json",
+      "sha256": "cf242e8900aa864ad990ce0341cf5d7efee18409cace750b6b7492fa6855eca8",
+      "bytes": 1116113
+    },
+    {
+      "path": "data/top-ten-totals.csv",
+      "sha256": "865a11036856e3551981a9d4edb10389425cfa01cb3adbb3ab90677176f375f4",
+      "bytes": 52558
+    },
+    {
+      "path": "data/top-ten-totals.json",
+      "sha256": "ab2a3ac1a248fc2378bcadf8611842e557340329556c93a04b8740e8bd4f4f07",
+      "bytes": 93821
     },
     {
       "path": "scripts/build.py",
-      "sha256": "407084c1848021a4910a14de2cb091c38a003180dd11722b93381477746c5820",
-      "bytes": 8737
+      "sha256": "88a13413eaf2f0c7b3d8cb7146ef0e0188a35341f753984a1ef49ce9b3449058",
+      "bytes": 9415
     },
     {
       "path": "scripts/render_chart.py",
-      "sha256": "3ff94f02184df74eaa0fef93d4e83c8eaf993de15a89aba3343c0e094c0529fd",
-      "bytes": 8581
+      "sha256": "656ae84d1889d410ed68c534eebec72b8fafc4a945f3f7a07a0ebcd1fa344635",
+      "bytes": 5591
+    },
+    {
+      "path": "scripts/render_preview.py",
+      "sha256": "14c55ace485dc790baa960d968c4cae563ec52bb8bd2df305a79cb2a6e7c140b",
+      "bytes": 2930
+    },
+    {
+      "path": "scripts/top_ten.py",
+      "sha256": "3a3e61e0bee9fa6c20507ec7edbccd3f301fa279aaa70905f437023cf9295eb6",
+      "bytes": 5667
     },
     {
       "path": "scripts/validate.py",
-      "sha256": "aeda6b419837e9051d51a346601cca1752d29098bb692683f9e72ebb9d98b79b",
-      "bytes": 9901
+      "sha256": "96b224b84d826ba7777ca338eaf0ec78408cde1f562080a47abb2cc5cd033224",
+      "bytes": 15975
     }
   ]
 }
